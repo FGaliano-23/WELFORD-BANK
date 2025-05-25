@@ -1,0 +1,2091 @@
+Fraud_ID,Client_ID,Transaction_ID,Fraud_Type,Detection_Date,Status,Resolved_Incidents
+1,1,a3ab7119-197c-4185-8b87-c537aeccaafa,Card Fraud,2025-03-06,Resolved,1
+2,2,8723070e-8db0-4ca5-81be-c1be0e67bdf3,Identity Theft,2025-04-15,Under Investigation,0
+3,4,57bee3c0-fdae-4d30-8721-1c05f397ab0b,Card Fraud,2025-04-25,Under Investigation,0
+4,5,e89a8034-ac84-4af6-b317-05ca7f9b67af,Identity Theft,2025-05-08,Under Investigation,0
+5,5,ff90d5ec-9d4e-4290-bbf9-cc038f93019e,Money Laundering,2024-10-07,Resolved,1
+6,7,05ed0195-3229-438c-bd97-2dc2d3d3918f,Money Laundering,2024-07-23,Under Investigation,0
+7,7,2f6f8222-2dc3-42b9-9583-9b53d76e421a,Phishing,2024-11-22,Resolved,1
+8,10,72dd15a0-5720-4179-b36d-ca9f3a601fd2,Card Fraud,2024-11-01,Resolved,1
+9,10,a5f894b3-9243-4a68-b921-5beb238d460e,Account Takeover,2024-09-23,Under Investigation,0
+10,10,d1a57bec-b37c-4231-83b7-88bdcd6cc176,Identity Theft,2024-06-06,Under Investigation,0
+11,10,092d8967-47e1-4938-b9c2-041441851737,Phishing,2024-03-13,Under Investigation,0
+12,11,09224056-bfb8-4e99-a853-7efe45193156,Money Laundering,2025-05-12,Under Investigation,0
+13,13,deb501df-866b-4e3c-a345-0d9c64e8a5bc,Identity Theft,2024-02-21,Resolved,1
+14,13,8160c590-7c83-4305-a44e-c02d9c76c351,Identity Theft,2025-03-02,Under Investigation,0
+15,13,42b526c5-8fa8-4cc3-b0b9-380d6f966100,Card Fraud,2024-01-13,Resolved,1
+16,14,656cb488-14b6-4280-bdc2-c1a211728cad,Account Takeover,2025-04-29,Resolved,1
+17,18,30d7ce86-5e72-43a7-96ea-aa4ef2abb3f3,Phishing,2025-05-13,Resolved,1
+18,19,027d7584-3f48-4732-b566-9c83f02781e5,Phishing,2025-05-16,Resolved,1
+19,22,5a2c1022-b7d4-4f47-83b9-241f9b64e2b9,Card Fraud,2025-05-01,Resolved,1
+20,22,04b8d493-fd01-41a1-8613-c004d4a73c2c,Account Takeover,2025-05-05,Under Investigation,0
+21,24,208e20b3-a98c-44b2-a45d-92d764a0900a,Account Takeover,2025-02-14,Resolved,1
+22,25,bb121c83-98b6-49d6-92c0-bc70ae9d6224,Money Laundering,2025-03-26,Under Investigation,0
+23,25,faae48cd-ab93-4d3b-b5c1-61da2b6760a2,Account Takeover,2025-03-01,Under Investigation,0
+24,26,033db879-194b-4b9d-ba2c-bd8279468132,Phishing,2025-05-09,Under Investigation,0
+25,27,956aeb0e-9789-43c8-aa1c-5acdd492ecd8,Card Fraud,2025-04-12,Under Investigation,0
+26,28,cd6ce7cf-0ba7-4baa-bf7c-87684919e40e,Phishing,2023-11-22,Under Investigation,0
+27,29,14ed24fd-744d-414e-b894-e64cda15cc33,Account Takeover,2025-04-18,Under Investigation,0
+28,29,5d945716-6c4a-4666-b0e7-bd737a873505,Card Fraud,2025-03-27,Under Investigation,0
+29,30,20392421-c12b-4690-be10-9c407b84e93c,Card Fraud,2024-10-28,Under Investigation,0
+30,30,d81d4a73-1201-4315-956a-ee92c69a992a,Card Fraud,2025-05-09,Under Investigation,0
+31,31,ddd4293f-b7c2-4a7d-9d2c-b3f4c1d97beb,Identity Theft,2025-04-02,Under Investigation,0
+32,31,b29b846b-6bd9-465f-8f9e-05b62a18e723,Money Laundering,2025-05-10,Resolved,1
+33,31,e1cfcfdb-8b9e-4651-a16d-80288db9c531,Identity Theft,2025-04-01,Under Investigation,0
+34,32,b351cd4a-dfb8-47d5-aa46-5aba93a185e3,Account Takeover,2024-06-27,Under Investigation,0
+35,34,42ab398c-1601-4c22-a7b2-9dcb6595a30f,Account Takeover,2025-05-10,Resolved,1
+36,34,b651085b-4a81-4d1d-8bcb-454109b978e2,Card Fraud,2024-10-25,Resolved,1
+37,36,78436c23-5828-4eaf-a0bd-b36aa7246fcb,Money Laundering,2025-02-14,Resolved,1
+38,36,7398d9fe-73d6-4532-b509-5b10479d531d,Card Fraud,2024-03-24,Resolved,1
+39,36,99bab32d-2162-496e-aeb3-6648a0525bbe,Identity Theft,2025-04-16,Under Investigation,0
+40,41,37c3965a-1070-4785-ab62-49b113cf8c01,Money Laundering,2025-03-01,Under Investigation,0
+41,42,1e85811b-4694-42a0-88ea-11eb232e2467,Phishing,2025-01-19,Under Investigation,0
+42,42,2eacd2ef-dee6-4947-822c-47efcad132f1,Card Fraud,2025-03-28,Resolved,1
+43,44,c8fd993d-0a86-4af1-ba7d-2ad621cc1ec7,Card Fraud,2024-08-22,Under Investigation,0
+44,44,711b055d-723b-4981-b275-ecf5b54fb364,Identity Theft,2023-04-13,Under Investigation,0
+45,44,150f8ac3-d6d4-4263-af7c-7aeb6613a967,Card Fraud,2024-05-28,Under Investigation,0
+46,45,7c0ebcca-74bc-4ace-92a3-5aed416cfe08,Identity Theft,2024-05-09,Resolved,1
+47,45,d85f6348-7574-41b8-b228-fe49a7137ea4,Phishing,2023-09-26,Under Investigation,0
+48,47,b4df7863-d107-4aad-ac93-af332975000d,Account Takeover,2023-06-19,Resolved,1
+49,47,b77eafab-dd2b-4998-83c4-cb93e7e53b98,Card Fraud,2023-11-16,Under Investigation,0
+50,48,83dd40a8-78cf-4e5e-8e5e-bbdca7d681c3,Identity Theft,2025-03-10,Resolved,1
+51,48,5af05c8b-63dd-49cb-b1ad-001a158346d8,Money Laundering,2024-05-21,Under Investigation,0
+52,49,2ab8e3fe-4eb2-463d-b027-74613c6c2723,Account Takeover,2025-02-23,Resolved,1
+53,50,abf7d281-13b0-4dce-83ed-f932750b49c0,Phishing,2024-12-15,Resolved,1
+54,50,b884840d-8dbb-4aad-a76a-4cde8830fa0c,Money Laundering,2024-09-11,Under Investigation,0
+55,51,7e667bfa-0133-4b55-af18-df2084c55181,Account Takeover,2024-02-17,Under Investigation,0
+56,52,83d99446-73ae-4838-a289-66d15b83ee6e,Account Takeover,2024-11-13,Resolved,1
+57,53,7e4c8ff1-bc1a-460f-a782-bf39c4fe37ba,Account Takeover,2023-04-17,Resolved,1
+58,53,bde79293-a8b0-435a-aaa9-1c774ce8a60c,Account Takeover,2024-09-28,Under Investigation,0
+59,54,0bc21763-3e24-478e-912c-f8c013e40b7d,Card Fraud,2025-05-14,Under Investigation,0
+60,55,955a0403-aaf1-4aa0-ab49-1b7046db9146,Account Takeover,2025-03-23,Resolved,1
+61,55,02234d8a-923b-47e4-975c-66aad78604f5,Card Fraud,2024-11-27,Resolved,1
+62,56,26d4eb1f-28e1-4951-8f2a-9fa9eda19ee2,Identity Theft,2024-10-22,Under Investigation,0
+63,56,965467df-3adf-4c1e-8701-3750106eb7ff,Identity Theft,2025-02-13,Under Investigation,0
+64,57,0e70537f-5dda-4212-94a4-afbb75e2d232,Identity Theft,2025-05-12,Under Investigation,0
+65,57,b625d12a-cf70-4822-86ac-cb16588c165f,Money Laundering,2025-05-05,Resolved,1
+66,57,3b59d412-ff12-4c07-954c-59d29a3ca542,Identity Theft,2025-05-12,Under Investigation,0
+67,57,2bfa8199-b5bd-4bf3-ac71-1e71547cb6e8,Card Fraud,2025-04-28,Under Investigation,0
+68,57,a72ea400-aa0b-4040-a2eb-b30046baf830,Phishing,2025-05-09,Resolved,1
+69,57,bf91cbe2-2e36-4269-9770-3d230498c5d2,Card Fraud,2025-05-07,Resolved,1
+70,59,be436efa-6e38-40b3-b26f-125e220d3bb2,Identity Theft,2024-08-13,Under Investigation,0
+71,59,cf4e40ba-c081-4b8e-b27d-c99c66b704a0,Card Fraud,2023-08-05,Resolved,1
+72,59,44c98109-c1ad-4189-b779-27501b9c3dca,Money Laundering,2024-01-13,Under Investigation,0
+73,59,a67b1ef7-82bb-4241-aea2-e52c434951cf,Account Takeover,2023-09-22,Resolved,1
+74,60,b5a2684b-c695-4b07-bc69-f9a1761688b8,Identity Theft,2025-04-29,Under Investigation,0
+75,61,3fb248b9-8b5a-402b-a494-a2dd4ebbd4e3,Account Takeover,2024-11-24,Under Investigation,0
+76,61,89967038-e00e-4700-83f2-e209a2cc9f2c,Identity Theft,2025-05-08,Under Investigation,0
+77,62,fddcef5b-d406-4ac4-ac72-ef297ab9c7cd,Account Takeover,2023-05-29,Resolved,1
+78,63,72125de5-d02c-4886-b0c8-32df78527100,Account Takeover,2024-12-15,Resolved,1
+79,63,3f9f8505-ef08-4d8a-9c2e-6f09ec03df66,Phishing,2024-12-11,Resolved,1
+80,63,3455e6c0-c214-4ad7-8816-817df9f20c67,Money Laundering,2025-05-06,Under Investigation,0
+81,63,39450510-f829-4d2c-9bc8-daa06f5c43bb,Money Laundering,2025-02-25,Under Investigation,0
+82,64,ee97ba97-7b22-496d-9f0d-e5f05a94bd0c,Identity Theft,2025-05-14,Resolved,1
+83,65,2c028075-1d59-4eef-8e56-a6a079d1a883,Money Laundering,2025-03-19,Under Investigation,0
+84,65,4b7441ac-627b-4f95-b52e-cd73c5255269,Identity Theft,2025-02-28,Resolved,1
+85,67,fea95169-f4a3-4843-9ecd-b5983aca1a01,Money Laundering,2025-05-03,Resolved,1
+86,69,053a1b84-6bc9-400e-bd16-86d7f64162af,Card Fraud,2025-01-27,Under Investigation,0
+87,69,18bf8d18-cb88-4447-92bd-ca3dc36fc9c6,Money Laundering,2025-02-13,Resolved,1
+88,70,0c5c49c5-d829-442a-9a10-56a110b025da,Money Laundering,2024-04-09,Under Investigation,0
+89,71,2a2843f8-e9ae-4fc1-8f3d-696ad005b3a9,Card Fraud,2025-05-11,Resolved,1
+90,71,845d7425-fb28-4625-8ccf-47d910303b75,Phishing,2025-04-30,Resolved,1
+91,73,cc88bdf1-259b-499c-b871-816aa2e56932,Account Takeover,2025-04-27,Under Investigation,0
+92,73,05d130be-c19e-40d2-9b00-b5c85aec839d,Account Takeover,2025-05-07,Resolved,1
+93,73,6f9907fc-e286-49c4-838a-7c410ffe0268,Phishing,2025-05-02,Under Investigation,0
+94,74,31aedfc7-26ce-4694-a820-ee4d16d79797,Identity Theft,2025-04-27,Under Investigation,0
+95,74,d6f2035c-1c54-49ec-a390-7029eac3f3f9,Identity Theft,2024-07-09,Under Investigation,0
+96,75,597788dd-0fc1-4a0e-a190-9939cefb33de,Identity Theft,2025-01-24,Under Investigation,0
+97,76,cfa19bb7-be40-4afb-ac8e-babd3ae490df,Card Fraud,2024-10-17,Resolved,1
+98,76,c9b991d4-9039-4ba9-9fc9-f28858741999,Account Takeover,2025-02-17,Under Investigation,0
+99,76,1644a838-d747-47f9-8a55-a507bdfe721c,Account Takeover,2025-05-09,Resolved,1
+100,78,5fda69ae-792c-49e2-882d-c4fc2137fd48,Money Laundering,2022-12-30,Under Investigation,0
+101,78,325df680-732f-466d-9293-6d6e2004f1da,Money Laundering,2024-10-02,Resolved,1
+102,78,d025733f-217b-4855-820e-66acc8f308b8,Account Takeover,2024-12-20,Under Investigation,0
+103,78,e4a8bb03-1e50-49fd-94f3-bc6f665d7b1a,Identity Theft,2024-02-28,Under Investigation,0
+104,79,050a8e8e-41d8-44e7-85ed-cb66f2df8cf6,Identity Theft,2025-03-29,Resolved,1
+105,79,5bbd5718-f1ec-4033-ac96-16661e93a951,Money Laundering,2025-05-15,Under Investigation,0
+106,79,d4160850-0270-47b4-a3f2-b70382d50aad,Identity Theft,2025-05-12,Resolved,1
+107,79,75d35a77-95ea-4fbc-9935-5574bb50f0d1,Identity Theft,2025-05-10,Resolved,1
+108,79,b56d7e0a-9d4e-450b-81de-0d705ae2e911,Money Laundering,2025-03-22,Under Investigation,0
+109,79,602babf2-1b0a-4538-a5cb-0979469b8f04,Card Fraud,2025-03-27,Resolved,1
+110,79,176857c4-9516-4eb9-91f3-db9eb5cd93c4,Phishing,2025-04-01,Resolved,1
+111,79,e404b9cf-3b47-4fc7-9094-062d24381607,Identity Theft,2025-03-20,Resolved,1
+112,81,bd07e1dd-f601-4e88-ba51-ddfafad1892d,Phishing,2025-03-24,Under Investigation,0
+113,81,14188e59-9b6c-42ab-b56e-346f0c36ec13,Identity Theft,2025-03-29,Under Investigation,0
+114,81,c3a7e9aa-28dd-4a2e-be3b-da32874e6dac,Identity Theft,2025-03-28,Under Investigation,0
+115,81,66dae69d-2d1e-4d2b-a862-25613f2ff5b3,Money Laundering,2025-03-11,Under Investigation,0
+116,82,b7259a5c-d6b7-4c07-8e80-a56e09de9b12,Phishing,2025-01-18,Under Investigation,0
+117,82,1dbe1be7-d7ff-45ce-808d-c7e7038774b5,Card Fraud,2025-03-10,Under Investigation,0
+118,82,6d114829-d5e3-4927-a397-1dfd27124351,Identity Theft,2025-03-15,Resolved,1
+119,84,f0bf7299-11d1-48d4-8978-6e0b022726a6,Card Fraud,2025-02-12,Resolved,1
+120,86,3b942139-5f12-449d-83c2-29ba883b90e0,Money Laundering,2025-01-25,Under Investigation,0
+121,89,a539ccf0-0007-4b21-9e90-a5526a1486a3,Phishing,2025-04-25,Under Investigation,0
+122,89,4e9e8bd4-317f-4f93-8c21-1bf0801db589,Money Laundering,2025-05-03,Under Investigation,0
+123,90,c63528ae-2bfb-4fff-9fa0-779f9a1acfea,Card Fraud,2024-08-19,Resolved,1
+124,90,281a0a67-ba52-44ec-9091-ca11cf227d0f,Identity Theft,2025-04-29,Resolved,1
+125,92,4698565d-d91c-4321-b725-b0dfc4da009c,Card Fraud,2025-03-25,Under Investigation,0
+126,92,479bae85-24aa-4109-85e0-1ddc8eb4e5de,Money Laundering,2024-01-24,Resolved,1
+127,92,fd121e36-0932-443a-bc82-0cf998ad9aea,Phishing,2021-04-14,Under Investigation,0
+128,92,f7aefe98-1f4c-4a7f-9d60-8f0a9e616e92,Phishing,2021-06-29,Resolved,1
+129,95,a1d4ae36-692e-4939-b367-e8822681444c,Account Takeover,2023-03-01,Under Investigation,0
+130,96,ce125509-ab1c-4708-abe9-6d34e3bd143e,Identity Theft,2025-05-15,Resolved,1
+131,99,f906e4ae-4b92-4562-9174-aa5b1dc8f629,Money Laundering,2024-07-03,Under Investigation,0
+132,99,67c12f16-3fa3-4681-97b4-5e0ffef14b29,Money Laundering,2025-03-11,Resolved,1
+133,99,0f21d468-b85c-46ed-adc9-ce748b88e683,Identity Theft,2024-10-20,Under Investigation,0
+134,101,fe0c50c8-cf79-4619-bd0f-e3fcfe3e0c1e,Money Laundering,2025-02-17,Under Investigation,0
+135,104,e7df174a-e85c-43c0-a54d-6e56a2addd90,Card Fraud,2025-03-05,Under Investigation,0
+136,104,8c711c9c-898d-4184-b914-83f0e5093af0,Money Laundering,2025-05-06,Resolved,1
+137,106,b5fdd168-c74a-4cf3-a250-48ec579f7ff6,Money Laundering,2025-04-22,Under Investigation,0
+138,108,e7559178-94f2-4ed7-ba6c-50a4436ae94f,Phishing,2022-10-01,Resolved,1
+139,108,883726ad-f057-4da5-b6a3-4e8f875b39e0,Phishing,2023-03-18,Under Investigation,0
+140,108,d2c4885f-0767-43e6-9733-21fd0f460717,Money Laundering,2025-03-20,Under Investigation,0
+141,110,38f3b1e7-a52a-46c6-95d5-8bcc4a7407ef,Money Laundering,2025-04-30,Resolved,1
+142,110,0fdccd02-460e-4c54-bfa8-8724138f02d7,Phishing,2024-10-17,Under Investigation,0
+143,110,dca3a61c-6219-4d1a-8251-f69cdbc6023a,Identity Theft,2025-03-28,Resolved,1
+144,110,328b9073-3629-4124-8c96-745bb06d6b4f,Card Fraud,2025-03-28,Under Investigation,0
+145,110,e0393cd1-4795-4a8d-b4f5-842f2ad31b89,Phishing,2025-04-16,Resolved,1
+146,110,32fa8391-7b75-4d07-b34c-1a8f2b81ccef,Identity Theft,2025-04-28,Under Investigation,0
+147,111,a990e96d-706a-4b66-9197-dd3bf213783b,Card Fraud,2025-04-17,Resolved,1
+148,111,8af54579-3a74-4482-ad52-fae8ceeeaf03,Money Laundering,2025-04-24,Resolved,1
+149,111,2afd34a6-9c89-46e3-95c3-692326dd9099,Account Takeover,2025-04-11,Resolved,1
+150,111,c1748325-9e6c-4501-b49b-ee93f90b772b,Identity Theft,2025-02-08,Under Investigation,0
+151,112,1ab1972b-1e65-4fb6-bb37-4c64f25079bf,Phishing,2025-05-16,Resolved,1
+152,112,0e5abdbd-2634-4d9b-a3bd-7ffbbe67b37f,Phishing,2025-03-22,Under Investigation,0
+153,113,3bb4c94d-5ea4-43af-b857-2eebb330c76e,Account Takeover,2025-03-29,Resolved,1
+154,114,16bfc1dc-000e-4846-864d-868caf28fc33,Account Takeover,2024-08-02,Under Investigation,0
+155,114,4fe118b6-bd22-4b5c-831d-6ce57ace8fed,Phishing,2025-03-04,Under Investigation,0
+156,115,05cb54cd-e626-46db-9c24-610b9c2d3e61,Money Laundering,2025-01-20,Resolved,1
+157,117,37662b85-bd0a-4aca-a9a7-a8f59aa78c9f,Account Takeover,2024-10-02,Resolved,1
+158,117,84ec834c-8f9a-494f-b75d-8de8ebc39e7d,Identity Theft,2025-04-17,Resolved,1
+159,117,b19c492b-8554-4458-ab80-5c5510dea9c6,Account Takeover,2024-12-31,Resolved,1
+160,117,9fb19020-046a-42e6-bb36-a93f018d29f7,Card Fraud,2025-02-07,Under Investigation,0
+161,117,9e9f17b9-ea11-4cab-a78d-baa3727bd2ab,Card Fraud,2024-11-25,Resolved,1
+162,118,17861b90-d633-4d51-978c-fc7aaa1b6ae3,Phishing,2025-03-01,Under Investigation,0
+163,120,6e3cef75-5f54-42eb-ad5d-c1cd23a49aa1,Identity Theft,2023-06-14,Under Investigation,0
+164,120,e9740be2-9a51-4835-b21e-c49c72d9a4bb,Card Fraud,2025-03-21,Under Investigation,0
+165,120,4a295761-2a6b-4075-9c87-4141ce1ae680,Money Laundering,2023-08-20,Under Investigation,0
+166,120,4faf5d94-913f-4ea9-b9f5-422aeb819e90,Account Takeover,2024-09-19,Under Investigation,0
+167,120,e77d8f48-78bd-4428-ba59-bb523161abea,Phishing,2022-12-25,Resolved,1
+168,120,f298b406-2495-4746-b19f-eac96949b81f,Identity Theft,2024-10-15,Under Investigation,0
+169,121,d9d02875-9f9c-4de5-bd5f-1e84c4b4b97d,Card Fraud,2025-04-13,Resolved,1
+170,121,5c7b3c70-742e-415a-8c86-2bcf380f54e7,Account Takeover,2025-05-11,Under Investigation,0
+171,121,bf155d1a-e0c8-47ea-841f-095766bd17d4,Money Laundering,2025-05-01,Resolved,1
+172,122,6b948b56-2609-43f0-8863-308abfccca7a,Phishing,2023-08-24,Resolved,1
+173,123,f87f6fe6-e6d3-448c-bec3-89a403ecbfe9,Account Takeover,2025-05-05,Resolved,1
+174,123,5df8a81e-2ffa-4e68-b22f-f04f07a9a374,Identity Theft,2025-05-04,Resolved,1
+175,125,5a45da8a-6550-4663-8a5f-12e695c72c1b,Card Fraud,2025-05-09,Under Investigation,0
+176,126,253d5250-bda8-4cbd-8371-7bc88a179eb4,Money Laundering,2023-10-24,Under Investigation,0
+177,128,ad92c304-60de-4f76-8380-721d74c334cb,Money Laundering,2024-10-30,Resolved,1
+178,130,4176f6ef-c4f0-41ce-b1c7-31dbf84decff,Phishing,2025-04-10,Under Investigation,0
+179,130,922f5ad7-9a25-457e-9691-a447e3708a7f,Account Takeover,2025-03-30,Under Investigation,0
+180,131,9442f5c0-2ba4-4a11-aba0-58c1188797d7,Money Laundering,2025-05-11,Under Investigation,0
+181,131,7ddde5c4-a92c-42ab-a0d6-c36748103764,Account Takeover,2025-05-04,Resolved,1
+182,132,63d78bb7-2355-4142-8751-63fc34e52558,Identity Theft,2024-01-20,Resolved,1
+183,134,ecb6a6a4-8c94-4bf3-b7eb-7d54d2ae9faf,Identity Theft,2025-04-24,Under Investigation,0
+184,134,3fd6e127-8e76-47d9-9db7-6e95802c68ff,Phishing,2024-04-10,Under Investigation,0
+185,135,048e2d75-c448-4eea-94c5-5cb4b677b9bc,Card Fraud,2025-05-16,Under Investigation,0
+186,135,9d09cdfa-9494-4ba5-b6db-83e6121c6529,Account Takeover,2025-05-11,Under Investigation,0
+187,137,e040434a-5d07-47b8-b214-d8b840c54a04,Account Takeover,2025-04-28,Under Investigation,0
+188,137,f2a119b0-476f-4c41-831b-2465e4ebb2de,Phishing,2025-03-19,Resolved,1
+189,140,aadb5323-45df-473c-8342-10d88ee3fa5d,Money Laundering,2025-05-11,Resolved,1
+190,140,9de8b047-f715-446b-a527-1e78715c3817,Phishing,2023-12-02,Resolved,1
+191,142,fba0eb88-cb27-4327-974b-9b17f3ef1c50,Account Takeover,2025-05-04,Under Investigation,0
+192,144,93d7d441-1286-45d2-9dcc-8493ec8ce524,Phishing,2024-07-16,Under Investigation,0
+193,147,c18008bb-c61f-47ab-a3ea-09615dff57a9,Card Fraud,2025-01-31,Under Investigation,0
+194,147,8def0a49-d8ac-49f9-b53b-2884bedfdee0,Card Fraud,2025-03-05,Under Investigation,0
+195,147,3369850f-9b2f-49ed-bbdb-93de896965e2,Identity Theft,2025-05-04,Under Investigation,0
+196,150,84d73220-5b61-41cf-b051-303a2218925f,Identity Theft,2025-01-17,Under Investigation,0
+197,150,ad02e556-e3c5-4dd8-8430-f6d7a1860d06,Money Laundering,2025-03-23,Resolved,1
+198,150,4910b1cd-267a-4569-b86a-28df39fd4778,Card Fraud,2025-03-07,Under Investigation,0
+199,152,649268c9-5235-4ade-ad2f-1a508bcd6d78,Money Laundering,2025-05-12,Under Investigation,0
+200,152,1c2850a9-6213-4584-8c67-091513a2c658,Account Takeover,2025-01-16,Resolved,1
+201,152,56948e1b-b791-4241-9d56-4ea52eab6816,Card Fraud,2025-04-23,Resolved,1
+202,153,9ec7b19e-2b99-4f24-a8ab-df2edda69fd8,Card Fraud,2023-04-30,Under Investigation,0
+203,154,eb729863-3b00-438a-9f8e-f4dd28a19304,Card Fraud,2024-08-11,Under Investigation,0
+204,154,cc2f840a-53f8-4e7b-99f8-8753334e68aa,Card Fraud,2024-04-01,Resolved,1
+205,155,01ec2f94-36ec-441b-a4c2-e846c098115b,Money Laundering,2025-03-30,Under Investigation,0
+206,156,8de3c7a1-f2f4-42ba-ab8c-76e8901ec235,Identity Theft,2025-05-06,Under Investigation,0
+207,156,373a6e6e-afca-4367-8553-0d48d9d65fb6,Identity Theft,2024-12-29,Under Investigation,0
+208,157,e82c4853-4a11-4166-8ba9-801150ae6df2,Card Fraud,2025-02-12,Under Investigation,0
+209,157,0e2757b0-031f-465c-ba22-bc0b2e937cf1,Money Laundering,2025-01-29,Under Investigation,0
+210,157,c109d799-e71e-4797-bb53-4294e4f71e09,Identity Theft,2025-03-26,Under Investigation,0
+211,158,832904da-7090-430d-a3b0-d8ad00524c1d,Account Takeover,2023-10-04,Under Investigation,0
+212,158,8186caa0-2370-41af-947b-92b894cc66a1,Account Takeover,2024-11-23,Resolved,1
+213,160,1f1c9a3e-cdd4-4f57-a1cb-f301775071b8,Money Laundering,2025-01-27,Under Investigation,0
+214,160,6da79ce1-298a-45b6-969b-c727196261b1,Card Fraud,2024-09-03,Under Investigation,0
+215,161,e40ece0e-cac1-4245-981f-4157a840cffb,Money Laundering,2024-06-21,Resolved,1
+216,165,161003d1-c295-41c1-a5cd-da4912efd28c,Phishing,2025-03-26,Under Investigation,0
+217,165,a2f00d58-4b9f-4f67-967b-70146914a343,Card Fraud,2025-04-14,Under Investigation,0
+218,167,f4ed1ba0-2b6a-47d7-a118-18360ac5a5b7,Identity Theft,2024-12-11,Resolved,1
+219,167,8a914dc9-3d25-4915-ac69-4c13621c9c40,Money Laundering,2025-05-04,Under Investigation,0
+220,167,9b3d4d91-28f4-4cd2-80d0-beb6b81f6c40,Identity Theft,2024-05-28,Under Investigation,0
+221,168,f753f24c-074a-4967-9c2d-632060e5ccce,Money Laundering,2024-03-24,Under Investigation,0
+222,169,965792e0-9c04-4841-9f09-e37cfff8ce77,Phishing,2024-09-15,Under Investigation,0
+223,169,d5630544-2b10-4947-8f19-c9553874288e,Card Fraud,2025-05-14,Under Investigation,0
+224,169,7be83728-2637-4e55-9b60-0cdd3d60a0c6,Phishing,2025-05-14,Resolved,1
+225,170,b8164b9c-3503-4dbf-ad44-67d0b3944d0a,Money Laundering,2024-12-21,Under Investigation,0
+226,170,c374a707-35d3-4f9c-906c-a528dcd338a2,Money Laundering,2025-01-20,Under Investigation,0
+227,170,001e1d72-a5df-4607-9719-52cb5780bba2,Money Laundering,2024-11-05,Resolved,1
+228,174,fd6a163d-b2b8-43a5-8969-470a7ca2da01,Card Fraud,2025-05-12,Under Investigation,0
+229,174,507dc618-2d36-46bf-93e3-302f6a46b14d,Money Laundering,2025-05-07,Under Investigation,0
+230,175,16ba5f56-2c9b-4334-96a2-909e178b190b,Money Laundering,2024-06-09,Resolved,1
+231,175,886ea0f9-9c43-48b7-9e50-07ccdb2f7f58,Card Fraud,2025-03-26,Under Investigation,0
+232,175,7a133d3a-3cdd-4237-b7ce-464625d19690,Account Takeover,2024-11-22,Under Investigation,0
+233,176,ba686155-9c62-41e3-945a-b652c50e23f4,Money Laundering,2025-04-28,Resolved,1
+234,179,53fa94be-9d04-48b1-be61-edbd52261799,Money Laundering,2025-05-15,Resolved,1
+235,179,a5891ec2-eccc-4057-a139-6e58d7e87c52,Money Laundering,2025-05-14,Under Investigation,0
+236,179,1e7b4716-6d59-4bf0-86e7-c7e157b4bd33,Card Fraud,2025-05-14,Resolved,1
+237,179,06002471-b697-4e46-98bd-ff266b3f977e,Phishing,2025-05-13,Resolved,1
+238,180,d00523a7-1ace-4c76-9b48-b33b1274b301,Phishing,2025-05-08,Resolved,1
+239,180,3ad37937-e91d-45ee-bd51-0000000089a6,Identity Theft,2025-05-14,Under Investigation,0
+240,180,999e98f6-e42e-4d3c-b918-7d487b3ed77f,Account Takeover,2025-05-05,Resolved,1
+241,180,7d13859f-e9d3-4368-bafe-3eb8bd231931,Identity Theft,2025-05-05,Resolved,1
+242,181,7004aa97-d1af-4da3-9228-3900faef8174,Phishing,2025-01-19,Under Investigation,0
+243,181,9afca4d8-6122-4b75-a51c-80efaa403001,Account Takeover,2024-07-19,Resolved,1
+244,182,c776fd78-82ce-4561-a9ed-e5c3f2cc87b3,Phishing,2024-07-24,Under Investigation,0
+245,183,bb2dfb96-6da6-4aaf-a5c2-c920e6611e1b,Money Laundering,2025-05-13,Under Investigation,0
+246,187,7ff56e6b-6515-4de6-9761-a3d2dbbbd770,Money Laundering,2025-04-29,Under Investigation,0
+247,187,8175f6bb-84e5-4d5c-8f23-902be732d0c3,Identity Theft,2025-05-12,Under Investigation,0
+248,188,7d358efc-a54c-4566-9f22-ede44ffd1fc8,Account Takeover,2023-04-03,Under Investigation,0
+249,188,55d73c45-121f-4b32-bdcb-760d375d4cc1,Phishing,2023-08-25,Under Investigation,0
+250,188,13618a61-8b0e-41d9-bcdf-17b9bf54bb1c,Money Laundering,2025-03-12,Under Investigation,0
+251,188,d4d52ff0-d72e-4f71-9805-ea04abe72ded,Account Takeover,2024-04-08,Under Investigation,0
+252,191,6a7a01e6-2fc0-4166-994d-2c8dcff27a8a,Phishing,2022-10-13,Under Investigation,0
+253,192,360814e0-46ff-46b5-8270-58a50f0b1790,Account Takeover,2025-05-06,Resolved,1
+254,194,4503e30e-a365-4b8f-9058-4dcad288c91d,Money Laundering,2023-05-09,Resolved,1
+255,195,8dca9c1c-96a7-42a7-ba78-4750bb86799e,Identity Theft,2023-06-05,Under Investigation,0
+256,195,305dc923-c50e-4776-9ec6-93b044f5c287,Money Laundering,2025-03-09,Under Investigation,0
+257,195,e1fdf099-c410-4549-a2e3-ec23bbdf3226,Phishing,2024-01-05,Under Investigation,0
+258,197,0b5c4a17-9078-45a8-8833-9f0a0309a6e2,Phishing,2025-04-21,Resolved,1
+259,197,c6900888-22a4-48e3-b0af-d4b2ce5358e6,Money Laundering,2025-03-26,Under Investigation,0
+260,199,8985016e-c0f1-4db7-98b3-5652bbc6d4b9,Phishing,2025-05-02,Resolved,1
+261,200,95dea55a-e672-4be7-b499-bb3fee1d6500,Identity Theft,2024-11-22,Under Investigation,0
+262,202,55f68d3f-29fa-484c-9218-9454b3bd46f8,Identity Theft,2025-05-06,Under Investigation,0
+263,202,02d49dcb-926d-4dcd-833e-d9f0f785217c,Account Takeover,2025-02-10,Under Investigation,0
+264,204,bfe9065d-b50c-45e6-99fb-262f7c6a0805,Identity Theft,2024-06-23,Resolved,1
+265,205,4d934d2b-9bd5-47a2-b76e-7c63a9dd8321,Account Takeover,2025-03-01,Resolved,1
+266,205,0c7b9c4e-83f5-4ece-9d11-ecd8b055fddf,Card Fraud,2025-01-16,Under Investigation,0
+267,205,9bbb9c58-457b-4578-8150-717706d91dec,Phishing,2025-02-27,Under Investigation,0
+268,205,8c9e8b78-7552-4538-87e0-fec101e37613,Account Takeover,2025-01-29,Under Investigation,0
+269,205,af7c09d1-cbb9-43ba-b5cc-2b5eea0df176,Money Laundering,2025-01-14,Under Investigation,0
+270,206,d19a9ad1-6742-4b20-86e0-76c16a58a0b3,Identity Theft,2025-05-02,Under Investigation,0
+271,206,1f1b478d-a1d8-42d7-b5bb-7acd8f3ef316,Money Laundering,2025-04-09,Under Investigation,0
+272,207,934feeac-97e3-4108-89df-a048e2cf992b,Account Takeover,2024-09-03,Under Investigation,0
+273,207,d2cef987-6f6f-4c3c-8383-8a078748a0ec,Identity Theft,2024-07-27,Under Investigation,0
+274,207,2e3d0f0e-16f4-4bde-863f-e2714e3635e9,Money Laundering,2024-11-20,Resolved,1
+275,207,42727e46-bcde-4883-bb45-7aa20adfbe85,Phishing,2024-03-09,Under Investigation,0
+276,207,859263c4-3289-49d2-84fb-076719b9625e,Identity Theft,2024-04-10,Under Investigation,0
+277,207,68c0fca8-cd2f-475e-a991-14f70aed8b75,Money Laundering,2024-06-16,Resolved,1
+278,207,31d4ee58-05a2-4cc2-8a16-4830d23e39b9,Money Laundering,2024-11-19,Under Investigation,0
+279,207,13929282-d261-41de-974d-f5e79f41d22b,Phishing,2025-04-27,Resolved,1
+280,207,2debaeb4-cce0-4a8c-b8dd-565cf85fd889,Account Takeover,2024-10-31,Under Investigation,0
+281,207,1e995110-e374-4e4c-9c98-cec1c53d0585,Account Takeover,2025-01-25,Under Investigation,0
+282,207,7ecf2260-dff4-49fd-bf67-2386d19de1c6,Account Takeover,2024-12-28,Resolved,1
+283,207,c5ee7564-3b7d-4d6d-b1ae-89b7aab6bef9,Money Laundering,2025-03-24,Under Investigation,0
+284,208,18e0d193-6525-4727-8697-414b9d624636,Card Fraud,2025-05-07,Resolved,1
+285,208,de3b70d4-9819-48c0-bc8e-0459ded07ab5,Identity Theft,2025-05-12,Under Investigation,0
+286,209,7f80126e-8704-4963-92a2-8ccf5ef5a7f8,Card Fraud,2024-11-05,Under Investigation,0
+287,209,45bef616-512d-4a9c-a880-c41e98e80c47,Card Fraud,2024-05-04,Resolved,1
+288,211,6ee5c092-4069-4ec3-9990-eb2f0dc3ff78,Phishing,2025-01-20,Under Investigation,0
+289,212,456024bf-f0df-416b-b395-74c92ae00719,Identity Theft,2025-02-06,Under Investigation,0
+290,212,1e687d67-c59e-4a88-b2f1-e904318d2eb6,Card Fraud,2025-04-29,Resolved,1
+291,213,5a64ca0b-f31b-4c40-b482-de103bb47630,Money Laundering,2025-03-24,Under Investigation,0
+292,215,091212ee-aebc-49f3-a142-30fb2d8074d3,Identity Theft,2025-01-25,Under Investigation,0
+293,215,4e13739a-390e-430c-948b-acfd6501ab7d,Phishing,2024-11-08,Resolved,1
+294,215,bcf54766-bfbd-45fd-8344-d39b108c701d,Phishing,2025-04-22,Under Investigation,0
+295,215,370d52be-77bc-447d-aed7-b5f367857a70,Phishing,2024-12-10,Resolved,1
+296,216,3ec166fb-bc01-45ea-b4ac-c3603e3b8811,Account Takeover,2023-06-02,Under Investigation,0
+297,216,cb5f6ea7-0256-422e-b49a-de30971287e3,Money Laundering,2022-10-12,Under Investigation,0
+298,216,c305a206-d5d0-4943-baa1-35b43694035a,Card Fraud,2025-04-30,Resolved,1
+299,216,797e57e0-fad2-4578-87d0-dc4dd1622e9b,Money Laundering,2023-03-09,Under Investigation,0
+300,217,9f576099-3979-4bcb-8afa-a43264ce642c,Money Laundering,2025-02-21,Under Investigation,0
+301,217,b3a9613f-66fa-4c31-a444-951785e8f363,Card Fraud,2024-10-26,Resolved,1
+302,218,a8ef981c-823e-48fb-af75-b3899bcd5046,Phishing,2025-01-10,Under Investigation,0
+303,218,aefc5c8c-d8a6-4b2d-9225-6a81a27531f1,Phishing,2025-02-06,Under Investigation,0
+304,218,a11fd8bf-c97b-489d-afa1-00c54fe2128d,Card Fraud,2024-12-26,Resolved,1
+305,218,cfa4709a-3319-4129-886c-e853ee22380e,Identity Theft,2025-05-06,Resolved,1
+306,218,f6be6bef-b87a-4a0d-993c-f82afbb2b1fe,Account Takeover,2025-05-05,Under Investigation,0
+307,220,244c2db7-f17d-41b7-a519-703168f5f7f2,Identity Theft,2022-02-02,Under Investigation,0
+308,222,66cd56dd-ee60-49b7-ba86-c686757336a1,Account Takeover,2025-03-16,Under Investigation,0
+309,223,ca6d9a16-21f4-45fb-9793-463fe8992705,Account Takeover,2025-04-20,Under Investigation,0
+310,224,9f7036cf-d6ae-42d1-bb1e-739899766fb4,Identity Theft,2025-02-03,Under Investigation,0
+311,224,fdfdff09-9392-4866-b1c7-5154db0ac18d,Identity Theft,2022-12-24,Under Investigation,0
+312,228,29844ce0-aae6-4010-b1d2-458ee6633c76,Money Laundering,2025-05-16,Resolved,1
+313,228,6320e2ee-eaf6-43a4-beb6-8888808ed6ff,Account Takeover,2025-05-07,Under Investigation,0
+314,229,e7235280-9d52-470c-ac7f-c150d65a0227,Identity Theft,2024-12-08,Under Investigation,0
+315,230,ed304ae0-5d0a-4f6e-bc7c-f4f2557ae559,Phishing,2021-09-16,Under Investigation,0
+316,230,f914d41a-7dcc-4518-a5f1-2d7287296f37,Phishing,2022-10-18,Under Investigation,0
+317,230,42b09d4c-ccbb-4099-a872-9b499984a6c2,Money Laundering,2022-05-01,Under Investigation,0
+318,231,a7c192a3-f544-4e72-8db5-b1312f8f6280,Money Laundering,2025-04-19,Resolved,1
+319,232,ac3ee9f7-ad3c-48de-8e4d-7a4e85466ae1,Account Takeover,2025-03-08,Under Investigation,0
+320,232,2efc3765-3630-4d6c-99e2-8c7e2e2d56c8,Account Takeover,2025-01-18,Resolved,1
+321,232,ef30422d-0f75-42bb-a1fa-1925897a8514,Money Laundering,2025-03-01,Resolved,1
+322,233,21ca8cef-fa6f-469f-9d8d-1ba453eb34de,Money Laundering,2023-07-28,Resolved,1
+323,234,1001702a-199a-456d-bf69-586c6bc78068,Account Takeover,2025-01-21,Under Investigation,0
+324,235,0c5dbbe4-0dc7-49be-83c8-46c329cef16c,Money Laundering,2025-03-24,Under Investigation,0
+325,235,a76a3369-d60b-4c92-8e6b-c8f31c92fdf4,Identity Theft,2025-02-03,Resolved,1
+326,237,378a3d93-30da-4460-aedd-2031f81ebca8,Identity Theft,2024-05-23,Under Investigation,0
+327,237,b602b100-ecc0-4534-98c1-76a3f6dee3b9,Money Laundering,2024-09-26,Under Investigation,0
+328,238,16c02870-ea55-409b-b6b0-3b0f234f05b9,Card Fraud,2024-05-11,Under Investigation,0
+329,238,9a8b87fe-4faf-44cd-98c8-cd8884600488,Phishing,2022-03-22,Under Investigation,0
+330,238,f4ba785f-1eee-438a-8bbb-af93340a39ab,Identity Theft,2025-03-16,Resolved,1
+331,239,46a4813a-431d-434c-81b9-973761de4af9,Phishing,2025-05-02,Under Investigation,0
+332,240,a9ed1a75-94ad-4c00-b577-41ea1e8e2e9d,Phishing,2025-02-13,Resolved,1
+333,240,b45a436a-bbc1-4a02-85b0-630786c8f178,Phishing,2025-05-08,Under Investigation,0
+334,241,bb1f1727-64c3-46f2-b2b3-37cc0c677c8b,Account Takeover,2025-01-01,Under Investigation,0
+335,242,0b44c81b-b405-4b6a-972e-58829ef10792,Card Fraud,2024-09-02,Under Investigation,0
+336,242,8972da4b-e713-4883-9953-4fecec3ff1ba,Identity Theft,2024-08-17,Under Investigation,0
+337,242,7906e2e7-1b4c-46fa-ac37-8d2db4cc1901,Account Takeover,2025-04-15,Resolved,1
+338,243,528eb809-3678-48e3-ad17-81c7f8fce33e,Phishing,2025-01-22,Under Investigation,0
+339,244,db1c52cd-0cc1-4049-a1bc-36fc0d3b5702,Account Takeover,2024-06-14,Under Investigation,0
+340,244,5ff674fb-9430-4c64-8704-9d79162a95a6,Card Fraud,2025-03-29,Under Investigation,0
+341,244,16135aac-1879-4501-92e8-ee8d6e974517,Phishing,2024-05-29,Resolved,1
+342,246,506babd4-a94d-42c4-9baa-40a0a8f48647,Phishing,2021-04-28,Under Investigation,0
+343,246,576f4c6a-29f5-4719-b1c5-75ce3564103a,Card Fraud,2024-06-25,Under Investigation,0
+344,246,f6911443-e2ed-4ba9-bd1d-f80215aaaaa4,Account Takeover,2024-10-15,Under Investigation,0
+345,246,2da18421-29df-4462-b63a-5ee3ed8f97bc,Phishing,2025-02-01,Resolved,1
+346,246,c84604a1-aa79-4fc1-b096-0c27ff83fce4,Card Fraud,2024-03-03,Resolved,1
+347,246,5eadd35a-5b88-44a1-ae67-9b51c05bd45f,Identity Theft,2024-03-29,Under Investigation,0
+348,246,5cd54a07-e1a1-493a-8760-b54b1765387c,Money Laundering,2024-02-17,Resolved,1
+349,247,4591f9d8-ce34-4540-938f-e3fd6e3e0416,Card Fraud,2023-03-17,Resolved,1
+350,249,af4cf15c-a841-434f-8262-477086fbf824,Card Fraud,2025-04-04,Resolved,1
+351,250,eb926a58-8c1d-4d9b-a5fa-445fb86e9858,Money Laundering,2024-02-01,Resolved,1
+352,251,269e4a45-cc62-4083-8f97-fbed1d63b4fd,Identity Theft,2025-03-08,Under Investigation,0
+353,251,0c1862d0-d610-4b67-84de-8d8f32d856dd,Card Fraud,2025-05-06,Under Investigation,0
+354,253,c90137fb-d12c-48f6-b0d0-2ecba6c101dc,Money Laundering,2025-05-04,Under Investigation,0
+355,253,45f516c7-9f54-4a8c-8665-5db7c096ba24,Card Fraud,2025-04-24,Under Investigation,0
+356,254,667c5902-6baa-45f2-9a27-4c21be61cb47,Account Takeover,2024-07-04,Under Investigation,0
+357,255,8b3934be-e6da-4215-8971-e72fc81ef33d,Identity Theft,2024-11-08,Under Investigation,0
+358,255,d6d2d680-c3f0-49a7-8031-523944546375,Account Takeover,2024-03-30,Under Investigation,0
+359,256,638cb26c-6711-445f-8ec9-c1f8c861a084,Money Laundering,2024-08-19,Under Investigation,0
+360,257,c9580955-04a7-4090-b544-35068ff207cf,Money Laundering,2023-08-26,Under Investigation,0
+361,257,0b251905-2806-4fd8-89ba-bf6ce8414271,Phishing,2024-08-03,Resolved,1
+362,258,ef21478f-1099-42ed-99e3-ec09c2abe660,Money Laundering,2025-04-26,Resolved,1
+363,258,db93867d-5328-4ccd-b47c-3b1f06f7bcc2,Account Takeover,2025-05-11,Resolved,1
+364,259,f94b181e-0b41-4b97-995f-9818a206a375,Identity Theft,2025-05-14,Under Investigation,0
+365,260,ca109629-96e8-4c02-b011-5cc9392dbd22,Account Takeover,2025-05-01,Under Investigation,0
+366,260,288199ee-edf2-4bfe-b6ad-161f6861b1b3,Money Laundering,2025-05-09,Resolved,1
+367,260,255765aa-05cd-4499-bfcb-7a6acb860bdf,Phishing,2025-05-06,Resolved,1
+368,261,8df266ac-994e-4d8c-b421-8db006e1f686,Phishing,2025-04-29,Under Investigation,0
+369,261,f47bf40f-fd3a-4ba7-99f5-295f0bc31ece,Money Laundering,2025-05-09,Resolved,1
+370,261,5f3c3297-3b20-47b9-94f3-05be0b92e06c,Phishing,2025-04-09,Under Investigation,0
+371,261,af672ba1-2722-45cb-9e70-688316530839,Identity Theft,2025-03-14,Under Investigation,0
+372,262,de8bef10-e23c-48d9-9e94-03650770b963,Money Laundering,2025-04-03,Under Investigation,0
+373,264,ce32f48b-9223-470a-8bc9-cf69e79f5869,Phishing,2025-01-06,Resolved,1
+374,264,eaf91fcf-2f1d-40b8-b98d-0b37b8bf1d70,Card Fraud,2024-08-05,Resolved,1
+375,265,92435c0d-de0f-4bef-8681-a41daa39cefa,Identity Theft,2024-10-29,Resolved,1
+376,265,4f12387e-6da6-4880-9e4f-4625e522faa0,Account Takeover,2024-02-05,Under Investigation,0
+377,265,7dac5dcc-54ec-447a-8be2-79975d8af9fc,Money Laundering,2025-03-09,Resolved,1
+378,267,73060d59-366f-4b83-85e5-fd121c6197c8,Money Laundering,2025-05-16,Resolved,1
+379,268,377fe5c4-eb86-499c-a9c4-34a7285ae1f9,Identity Theft,2025-04-17,Under Investigation,0
+380,269,4e0dd6c8-c7c1-4496-b801-86a729bc547e,Account Takeover,2025-04-13,Resolved,1
+381,269,28f7b8e5-02a3-43de-a856-e4a78d88dee2,Account Takeover,2025-01-03,Under Investigation,0
+382,269,289b5709-b56e-4c03-a457-a27e999f4458,Account Takeover,2025-05-13,Under Investigation,0
+383,271,5a53b31b-f9eb-4bd3-a573-3c269e160988,Card Fraud,2023-09-25,Resolved,1
+384,271,98832adc-5cf6-4180-8e97-e520dbc11c11,Card Fraud,2024-06-17,Under Investigation,0
+385,272,8ef03b94-9b0f-4431-bb1f-8681647a082d,Account Takeover,2022-12-05,Resolved,1
+386,274,b0f96f42-b5cb-4a0f-bca3-641d700500d0,Money Laundering,2023-06-28,Resolved,1
+387,275,3cd0126f-4e45-471f-94d3-afe565da7b2c,Card Fraud,2025-05-09,Under Investigation,0
+388,276,2169b30f-0fc4-4a7c-b0b9-3d146ae3084f,Card Fraud,2024-03-28,Under Investigation,0
+389,277,5f5bd681-1fc1-480a-866e-39c5095a9a83,Account Takeover,2025-03-20,Resolved,1
+390,279,b2186a76-d2c2-4a7b-9630-b1d7d1f5b21c,Account Takeover,2023-03-19,Under Investigation,0
+391,280,2e7266ea-1b3e-4f3b-80d7-60914cfdde6a,Money Laundering,2025-04-24,Under Investigation,0
+392,282,0d0cecb6-961c-4b6b-aa78-0b2c6747ff4e,Account Takeover,2025-05-02,Resolved,1
+393,283,cef2078e-e4a0-49f1-a92b-f922e66c63f2,Card Fraud,2025-04-06,Under Investigation,0
+394,283,fd709a51-8fb8-4a2c-9bc9-976560446cdd,Phishing,2025-01-11,Under Investigation,0
+395,284,dd236c0a-3f09-40b0-923a-514ef1e14273,Money Laundering,2024-10-09,Under Investigation,0
+396,286,2ea3198b-5bfc-4680-8b10-e6d1ecfd9bcf,Identity Theft,2025-01-10,Under Investigation,0
+397,286,e4b74f88-6e25-49d2-a3a0-188be63899a6,Card Fraud,2025-02-24,Under Investigation,0
+398,286,d8ab16b1-c788-449a-823a-9be2aee2f186,Identity Theft,2025-05-06,Under Investigation,0
+399,287,4d613a7a-3b7c-4bca-ad5e-eb0936a8dbd1,Card Fraud,2021-07-02,Under Investigation,0
+400,287,2a9d26a9-f34f-4130-88b1-5b1896331c74,Account Takeover,2022-04-29,Under Investigation,0
+401,287,08d5cf00-6000-4a5f-9084-5333db1fc48a,Card Fraud,2022-11-07,Under Investigation,0
+402,287,6982ca66-bf91-4999-b3f6-df11289850f5,Money Laundering,2025-01-21,Resolved,1
+403,288,96d51b9f-477f-4d19-b965-6224177a2d40,Money Laundering,2024-09-25,Under Investigation,0
+404,288,de3908b4-88e1-4278-a493-1f809ff18a6d,Account Takeover,2025-05-12,Under Investigation,0
+405,289,7f118d81-bcae-4b56-8b01-c5267a8862b3,Phishing,2024-05-14,Under Investigation,0
+406,291,cc4822e5-a0e1-49f7-9002-4554578933f3,Phishing,2024-11-10,Resolved,1
+407,291,8430fa74-e640-4d5b-abcc-a3c67319eabe,Phishing,2024-12-25,Resolved,1
+408,291,b6088409-2461-4e0b-a291-755a03c12164,Money Laundering,2025-02-06,Under Investigation,0
+409,292,438ed835-fc95-4532-8f1c-b6583097f1fe,Identity Theft,2025-05-02,Resolved,1
+410,296,af38fc0d-cb35-4d3c-8a29-135ef02fdf2f,Identity Theft,2024-10-09,Under Investigation,0
+411,297,adb704c1-6162-428b-afda-705fa8ce9aef,Identity Theft,2025-02-27,Under Investigation,0
+412,298,cf87d30d-bb61-4a8d-ac41-06b758b9db6d,Money Laundering,2023-02-27,Under Investigation,0
+413,298,cb70329e-1cf7-40a0-bccf-abffa9b0f48e,Identity Theft,2024-10-11,Under Investigation,0
+414,301,279747e9-1362-48dd-93a4-a527fc384963,Phishing,2022-04-08,Under Investigation,0
+415,301,e73637f6-0407-4e0d-846a-bcf143ee2597,Money Laundering,2023-04-21,Under Investigation,0
+416,303,843bb28f-ff41-4566-99fd-a0fc6880a04a,Phishing,2022-06-14,Resolved,1
+417,303,9c091d8b-9653-44fe-a789-36ba07aeeacd,Phishing,2022-07-03,Under Investigation,0
+418,303,6c5950d3-4b07-49c7-825f-4b2f81d852d0,Phishing,2022-04-08,Under Investigation,0
+419,304,a2cab6f8-1a16-4ccc-8828-7cbf2709db98,Account Takeover,2024-03-08,Under Investigation,0
+420,304,b37334b4-fb00-4daa-9d64-2740400e4e7f,Account Takeover,2023-06-24,Under Investigation,0
+421,304,70ecb79a-628a-4614-b373-2da95ae8134a,Money Laundering,2023-10-31,Resolved,1
+422,304,a5cfbed0-1cc0-437e-b3bd-13b8a117fffb,Card Fraud,2025-04-15,Under Investigation,0
+423,304,8dbb0993-10da-453d-8482-82c7c14ec062,Money Laundering,2025-05-09,Resolved,1
+424,305,6722e8f8-fa77-4aab-8ad5-781946b105a7,Phishing,2025-04-24,Resolved,1
+425,305,5a3d13a8-fdb2-4fef-abce-c7a2b155dd2c,Identity Theft,2025-05-07,Under Investigation,0
+426,306,0d3c6769-14bc-4f7c-89e8-6a3b5dba5ebc,Phishing,2024-03-23,Under Investigation,0
+427,306,ce34f9a7-a83f-4665-9fce-fed1b9e280ad,Identity Theft,2024-11-07,Under Investigation,0
+428,307,2bcc69bd-e8cc-407a-b3e4-abc0fd62a219,Account Takeover,2024-12-27,Under Investigation,0
+429,308,03fac304-91bd-402c-8bd3-fc68f3bbd66b,Card Fraud,2024-07-30,Under Investigation,0
+430,310,04bb78ca-7b76-476d-ac3b-d4f1b10dacd2,Account Takeover,2025-01-28,Under Investigation,0
+431,311,6553a925-914e-470e-a83b-76d94e4c2eb3,Identity Theft,2025-02-15,Resolved,1
+432,311,45372f8d-e7c9-4296-90b2-e75da2a2b4a6,Phishing,2025-02-15,Under Investigation,0
+433,311,4a405613-e93a-4bda-82bc-96745fbe461c,Card Fraud,2025-03-22,Under Investigation,0
+434,311,4368ddb9-6cc1-4c7f-b092-f65eedaa25ed,Account Takeover,2025-04-02,Under Investigation,0
+435,312,25bde957-8009-4410-860a-8eca413686f4,Phishing,2025-04-24,Resolved,1
+436,313,66784705-5f0c-4836-b2c5-4fb82b2cf75b,Identity Theft,2025-01-24,Under Investigation,0
+437,313,7708c6ea-4592-4cf4-a23c-06a053e97893,Money Laundering,2025-05-08,Under Investigation,0
+438,313,2bbf1853-157e-41c5-a761-3e307cabff9d,Account Takeover,2025-01-13,Resolved,1
+439,313,92aaf199-6ee6-4ed7-b21e-1466870830c3,Phishing,2024-04-14,Under Investigation,0
+440,314,3de47b1e-9d2c-4c95-ad30-b9e6991bfdb1,Phishing,2025-03-28,Under Investigation,0
+441,314,54540db5-6e23-4b72-914a-104c7f58ccea,Card Fraud,2024-11-04,Under Investigation,0
+442,315,81d57aa7-7d0e-4e0d-b5d5-642abd6e51f6,Account Takeover,2024-04-24,Under Investigation,0
+443,315,27d0112f-c6ab-4d10-87b2-0ee6ac70750c,Card Fraud,2024-10-18,Under Investigation,0
+444,316,441c9f8b-5e34-4618-adba-5b41a5131207,Identity Theft,2023-02-26,Under Investigation,0
+445,316,db786c62-b45f-4a3f-a74d-b9702310666b,Account Takeover,2024-02-27,Resolved,1
+446,317,6c907a88-995c-406c-97df-0a0c40898fd2,Identity Theft,2025-04-29,Under Investigation,0
+447,318,a3faedb3-035c-486d-8754-0796612bce1f,Account Takeover,2024-08-25,Under Investigation,0
+448,318,ea5f1a96-6b72-4bff-ab32-f8b5fb66920e,Account Takeover,2023-02-22,Under Investigation,0
+449,318,228f90e9-f6ca-494b-b747-8686121fc3de,Account Takeover,2024-01-10,Resolved,1
+450,319,c321deca-353d-4dd5-844d-7242dfa9b112,Card Fraud,2024-07-02,Under Investigation,0
+451,319,79df6ffc-2613-4619-8d03-3534d0a488d0,Money Laundering,2025-01-06,Resolved,1
+452,321,302ce8b7-09f4-4398-9bf3-c23004686825,Identity Theft,2025-03-26,Resolved,1
+453,321,630de1d4-03d1-4ad0-b19e-6104fb085b77,Account Takeover,2024-06-29,Under Investigation,0
+454,321,3a451ff8-daf2-4225-8316-f2b93a776978,Money Laundering,2024-01-31,Under Investigation,0
+455,322,409463cd-2d96-4ba9-9294-58fa761e2eb4,Identity Theft,2022-11-13,Under Investigation,0
+456,322,c028b91e-2f6e-401b-a6cf-5848df06c850,Phishing,2025-04-23,Under Investigation,0
+457,324,ecc3608c-e50f-473d-ad3e-27f1b9235a1b,Identity Theft,2025-01-01,Under Investigation,0
+458,325,2df6d139-ef87-4f61-ae2e-f32bee7c255b,Card Fraud,2022-12-02,Under Investigation,0
+459,325,0afb556f-ad59-48b2-941e-a5a78a739bbf,Money Laundering,2024-07-19,Under Investigation,0
+460,326,e5882f2d-22e0-405b-8c0a-9fd110f7558a,Account Takeover,2025-03-25,Resolved,1
+461,327,c7f9a48b-edd8-4295-9536-a89108a85b68,Card Fraud,2023-05-05,Resolved,1
+462,327,4f5f7777-771f-4d61-afeb-6aab3c9a6276,Card Fraud,2025-04-04,Under Investigation,0
+463,327,ae39fb7c-c0ff-4b0f-a9d3-5f51939f4ba5,Card Fraud,2023-07-04,Under Investigation,0
+464,328,2cb56ba4-afe3-40e9-bd40-4931975c5cf7,Account Takeover,2024-03-18,Under Investigation,0
+465,328,287f5dbf-66f6-40bf-82d2-e2da691808d9,Phishing,2024-11-09,Resolved,1
+466,328,c58d4e60-93f5-4bd9-a85e-b3152670ff6e,Card Fraud,2024-11-13,Resolved,1
+467,329,305c6f27-b0bb-4cf7-8341-820b6e05a909,Phishing,2024-05-24,Resolved,1
+468,331,b9b82a56-af5c-48e2-838b-cec8ccd540e5,Card Fraud,2024-10-10,Resolved,1
+469,332,4fb31224-01fa-467d-b084-032224cb1809,Phishing,2024-05-14,Resolved,1
+470,332,0618f9cd-4aa9-4c19-8edb-ad70489e71e5,Phishing,2024-04-01,Under Investigation,0
+471,333,5b096eb6-cfe4-4290-9a4c-cfd7ada8d69f,Money Laundering,2024-09-16,Resolved,1
+472,334,4426a4e4-bc89-4074-8342-4a3835d3874a,Account Takeover,2025-05-16,Resolved,1
+473,334,e70ef712-6db9-411e-8b64-1c845e0286b3,Identity Theft,2025-03-24,Under Investigation,0
+474,334,9b16bf42-7920-4bfc-bdf5-da965178e9c1,Phishing,2025-05-06,Under Investigation,0
+475,334,5251eba4-dbde-44ce-b928-ec0ff7404e79,Phishing,2025-05-16,Under Investigation,0
+476,334,fcef1991-72cd-43e9-a814-95d9b23982c0,Phishing,2024-12-21,Under Investigation,0
+477,337,c6f25346-760b-40f8-8ad7-8ea041d725cf,Money Laundering,2021-01-21,Resolved,1
+478,337,f6513bb9-e703-4828-9689-a34c8a84e79a,Account Takeover,2021-01-29,Under Investigation,0
+479,339,cf92355a-f267-4b5e-9ee7-a8b5b1010ac0,Account Takeover,2024-07-20,Under Investigation,0
+480,340,fde6b0ab-83ab-4e07-aae5-3196988bbd24,Identity Theft,2024-08-14,Resolved,1
+481,340,fa7d5d90-a701-4b0f-8eee-17005ebc90bb,Money Laundering,2024-07-02,Resolved,1
+482,340,9567bc6d-1880-4ee7-8e68-8e42c2e17214,Phishing,2025-03-16,Resolved,1
+483,343,f285d166-35ea-4633-9bf0-c7770847ea29,Phishing,2024-05-07,Under Investigation,0
+484,346,65115f8f-3adc-4197-a25d-a22a644983ce,Card Fraud,2025-05-11,Under Investigation,0
+485,346,c7a025f0-4253-47df-953b-b3721e2c5ea9,Identity Theft,2025-04-29,Under Investigation,0
+486,347,2af91a56-b5b0-4a9b-be4e-d4a0bf342144,Money Laundering,2025-02-17,Resolved,1
+487,347,6ca3cc34-7a82-417f-a44b-ebdb0fc6501e,Phishing,2025-01-03,Under Investigation,0
+488,349,ddc4e5ae-9bd3-44b3-9d0f-cd6b42225a5f,Account Takeover,2024-08-25,Resolved,1
+489,349,4b8402e0-4553-43da-860f-0c081b29c4dd,Phishing,2024-10-13,Under Investigation,0
+490,349,9b500d5c-c6e9-40b7-b382-77785578588d,Phishing,2025-02-10,Resolved,1
+491,349,7c254174-f913-499a-8d39-c0f348b8a9a7,Money Laundering,2024-08-23,Under Investigation,0
+492,350,9b1853e2-da1a-40de-838b-e54441c886f2,Money Laundering,2023-05-02,Resolved,1
+493,351,1c35a157-621a-4b89-9c7f-0f4d843b0541,Account Takeover,2025-03-08,Resolved,1
+494,351,d88de38a-aacc-4f1c-98dc-37f907ede715,Phishing,2025-02-07,Under Investigation,0
+495,351,bb4d7875-97e9-4b90-8c49-9dadc82f3bd0,Card Fraud,2025-05-13,Under Investigation,0
+496,352,4589f6db-c08f-4bdb-bac9-8d64876a66cf,Phishing,2024-09-04,Resolved,1
+497,356,b22a86b4-f190-45f6-88f9-08f4b34a4f76,Card Fraud,2025-02-18,Resolved,1
+498,357,096b9095-4758-419b-90ba-7ab0fdacd248,Money Laundering,2025-04-08,Under Investigation,0
+499,359,89a273db-e21f-477e-a33e-e1e30f62e7b5,Account Takeover,2025-03-14,Under Investigation,0
+500,359,1e7da3b8-b2bf-48c8-b22c-b32c8d43e944,Phishing,2025-01-26,Under Investigation,0
+501,359,3a4be8d9-1a7d-4984-9623-a87f081a7207,Phishing,2025-02-16,Under Investigation,0
+502,359,5580f775-ff1c-467f-a264-3425029a578f,Money Laundering,2025-04-04,Under Investigation,0
+503,363,7bb0fe9e-5a53-4531-a582-7fb0a4e724bb,Money Laundering,2024-09-14,Under Investigation,0
+504,363,d091c788-8c6c-40f0-b3a6-021602a5df1b,Money Laundering,2025-04-20,Under Investigation,0
+505,364,b08dcdb7-3b5e-45e4-b0b9-73d120721aaa,Phishing,2025-03-20,Resolved,1
+506,364,87d462b8-d126-4a06-84bc-3230accfc268,Account Takeover,2025-05-06,Resolved,1
+507,365,304a8ffd-1283-441f-8e96-9106c30e1390,Phishing,2025-01-24,Under Investigation,0
+508,370,facddb73-2511-4a0f-8000-d0c96c20fbb4,Account Takeover,2023-09-08,Under Investigation,0
+509,370,7e5f8dd4-7605-46d5-9a16-94eb1e556f79,Money Laundering,2022-05-25,Under Investigation,0
+510,370,4d1c21a8-ff9b-4770-b630-e48e6cf3a0ef,Phishing,2022-07-16,Under Investigation,0
+511,371,3c4641e6-a55d-4df1-89d0-26e54f32042b,Phishing,2025-04-26,Resolved,1
+512,371,8e589621-bc44-414b-834e-4c6a72f39c91,Money Laundering,2025-05-14,Under Investigation,0
+513,371,a98063f8-3948-4614-a3f1-48dfb2445e90,Money Laundering,2025-05-16,Resolved,1
+514,371,7cb72800-5767-4828-b70f-b385ab398c1c,Card Fraud,2025-05-14,Resolved,1
+515,371,f7a91edd-8760-4d20-a4cc-780d0055e5db,Card Fraud,2025-05-14,Resolved,1
+516,371,e9b0caba-c722-4909-9698-3ec9ee360810,Identity Theft,2025-05-16,Under Investigation,0
+517,371,fd04c581-7f99-462d-b28f-97bab5be0979,Card Fraud,2025-05-14,Under Investigation,0
+518,372,121596c4-5623-4dfd-bc48-202deb5b8be5,Phishing,2024-05-13,Under Investigation,0
+519,373,63b75c3c-3360-4fe5-a711-8ba2f2473d8d,Money Laundering,2024-09-28,Resolved,1
+520,373,a37e8532-8c47-4336-bf48-4fd4ff6172cf,Money Laundering,2024-06-20,Under Investigation,0
+521,373,a1b1a168-158a-4248-8855-402d4d34a0ce,Identity Theft,2024-06-08,Under Investigation,0
+522,374,9d185ca7-03f6-44f3-8983-1978b0dce4cc,Account Takeover,2024-11-02,Under Investigation,0
+523,374,1e58d5fd-2bb7-4f55-be3a-155d2a9ae690,Account Takeover,2023-07-17,Under Investigation,0
+524,375,b00750be-61a0-418e-84be-a0c51a42fc0d,Identity Theft,2025-05-01,Under Investigation,0
+525,377,45a5637f-ddc5-4f67-a5fe-b47f3bae13f3,Identity Theft,2024-05-14,Resolved,1
+526,377,f7517737-46cf-4b44-bb2e-4c34511f7178,Identity Theft,2024-12-18,Under Investigation,0
+527,378,01dd0ee9-21af-4e4b-b2b3-9cdb2d1983aa,Identity Theft,2024-11-19,Resolved,1
+528,378,f8585da8-d933-472a-a3e4-10e2ef5516cb,Account Takeover,2025-02-23,Under Investigation,0
+529,378,d6665566-2111-4c46-a889-09dc25326836,Account Takeover,2024-11-20,Resolved,1
+530,379,0b78c52f-42ba-460e-94f7-f6fa01911e72,Money Laundering,2024-10-23,Resolved,1
+531,379,08fb878f-f0db-44b2-816a-2bb954fba472,Money Laundering,2025-04-29,Resolved,1
+532,379,b189c26f-471e-4a08-80e1-b524497bc35e,Money Laundering,2025-05-12,Resolved,1
+533,380,9de3455b-7043-4063-971d-027048e38574,Account Takeover,2025-03-22,Under Investigation,0
+534,381,70c6c1b1-53a9-41b1-a932-81b2f7dbcb03,Card Fraud,2025-01-21,Under Investigation,0
+535,382,54f25a11-512a-4e02-b45a-930097ee40a4,Account Takeover,2024-07-07,Under Investigation,0
+536,383,defaf318-480f-4ddf-a7d2-a2c3053a8988,Account Takeover,2025-04-13,Resolved,1
+537,384,019621c7-ff20-4572-93af-9e9f43f09f2e,Card Fraud,2025-04-21,Under Investigation,0
+538,384,9d86867a-c836-4d53-9bc4-d1e27e67f83f,Money Laundering,2025-03-30,Resolved,1
+539,386,fd4d5b0a-c530-49dd-b883-2ff070673859,Account Takeover,2024-12-10,Under Investigation,0
+540,386,27d22774-b8a6-4707-a059-a601e4a033b4,Phishing,2023-10-24,Under Investigation,0
+541,386,6df80bf9-5c85-4ded-a160-26706ba9bbf1,Phishing,2023-03-31,Under Investigation,0
+542,387,71f1f922-0956-47be-8cff-36603765a56a,Card Fraud,2025-02-26,Under Investigation,0
+543,387,ac0ba420-e2f3-49ee-ab02-aca2e45961c6,Account Takeover,2025-03-27,Under Investigation,0
+544,387,3eee443c-2c27-45f5-8ac3-c4c401027136,Account Takeover,2025-02-04,Under Investigation,0
+545,387,bd96842e-6909-4184-83d0-ded2639dd372,Account Takeover,2025-03-19,Under Investigation,0
+546,387,33463b83-b79d-49fe-9d43-095458cb73e3,Card Fraud,2025-02-21,Under Investigation,0
+547,388,d9969b6c-3ade-44f0-8d2e-42ece05ef6b0,Phishing,2025-05-13,Under Investigation,0
+548,388,ea6c6750-aa0b-4695-8350-d6e0c79ffeba,Account Takeover,2025-05-15,Resolved,1
+549,389,0cd8d43e-c7d5-4322-8780-b3b4b3cb875a,Account Takeover,2024-11-15,Under Investigation,0
+550,391,5225af23-bcff-46bd-bff9-9bde68f79471,Card Fraud,2024-04-18,Under Investigation,0
+551,391,2ae6472a-1a1e-4405-85ec-3221e257dfa2,Card Fraud,2024-11-18,Resolved,1
+552,391,c706dbf4-4e7e-456e-bc95-c859517c5568,Money Laundering,2024-07-27,Under Investigation,0
+553,391,e6d5bdf7-54c1-40fe-a371-97c4b161cc5b,Account Takeover,2024-03-20,Under Investigation,0
+554,391,3d749032-36b1-4cb8-843b-3433d8690f78,Money Laundering,2022-11-15,Under Investigation,0
+555,392,a1881b69-fb57-41c1-a9f9-3ed6efba5fd5,Money Laundering,2024-10-25,Under Investigation,0
+556,394,b5332634-9582-445f-bb54-194d9d7f3dae,Money Laundering,2022-08-01,Under Investigation,0
+557,394,0f1e376d-991a-4649-882b-d84e0ed30541,Money Laundering,2023-12-08,Resolved,1
+558,395,50311d44-9d44-4fc6-820b-d691a8e23ff2,Money Laundering,2024-02-24,Resolved,1
+559,395,5930ed0e-63bb-48b2-afa1-d7d0837be666,Card Fraud,2024-01-20,Resolved,1
+560,397,86e80b15-78f5-4c5a-8945-a8f217986cb7,Phishing,2025-04-16,Resolved,1
+561,397,8d24cc3f-215c-49b1-9361-89e6947bac1c,Identity Theft,2025-02-21,Resolved,1
+562,397,b4d99a8a-3876-4953-bcbd-ae584d3e2765,Money Laundering,2025-04-15,Under Investigation,0
+563,397,90d60805-7f38-48c7-98be-34dea2245280,Account Takeover,2025-04-15,Resolved,1
+564,399,fa3c7d2c-1cbb-4806-a6de-2a6afd227026,Money Laundering,2024-12-11,Resolved,1
+565,399,2cb656bd-7cb2-4c71-9f41-d50d6db810a2,Account Takeover,2025-05-13,Resolved,1
+566,399,bde0ee38-3c6b-439a-8234-aabebeb2ff0b,Card Fraud,2025-05-08,Resolved,1
+567,401,b83fc762-493a-447e-9e24-589f55d10815,Card Fraud,2023-05-28,Under Investigation,0
+568,403,f782587c-9a55-4b8d-bd6f-e1d1c9966fe5,Phishing,2024-08-03,Under Investigation,0
+569,407,a9936453-349a-4366-9f02-95013a021428,Phishing,2024-05-23,Resolved,1
+570,408,8e74f922-df56-44b0-b3ab-b8cebd3ba893,Phishing,2024-04-01,Under Investigation,0
+571,412,44fe1a89-d293-49c5-a483-feb8e762cfd8,Money Laundering,2023-11-27,Under Investigation,0
+572,413,6f6699d0-21c9-44a1-9370-3b93ef9d31ce,Money Laundering,2024-12-13,Resolved,1
+573,416,1d9f54b0-4f9a-4823-9030-e0766ca7438e,Identity Theft,2025-03-06,Resolved,1
+574,418,9d5672e5-5738-44f5-8f64-90dd8f6cbf15,Card Fraud,2023-10-10,Resolved,1
+575,420,dc57a913-18a5-4144-96ed-e91fd0d56808,Card Fraud,2024-01-29,Under Investigation,0
+576,422,7aab6e9f-fe37-4c69-9b70-e2a1756cd387,Card Fraud,2022-06-10,Resolved,1
+577,422,c67416fb-3756-408e-a678-f3ef1d4dfe7f,Phishing,2024-08-16,Resolved,1
+578,422,f53bbf63-6726-4cca-8239-6a9d5b31f6d6,Money Laundering,2024-04-17,Under Investigation,0
+579,423,6d1cf943-5674-4527-98a1-521e7174aee5,Card Fraud,2024-09-17,Under Investigation,0
+580,423,a1eb4bfd-5877-4cbe-8a4e-6642711fca49,Card Fraud,2023-04-09,Under Investigation,0
+581,423,b42be1d5-c1c4-4240-8706-3d7fd79cde87,Phishing,2024-01-09,Under Investigation,0
+582,424,8db964dc-9f20-4b2f-8bb2-3dad43114d2e,Account Takeover,2025-05-01,Resolved,1
+583,424,2e5378da-5ac9-4574-8a52-0366e1b5c614,Account Takeover,2025-05-04,Under Investigation,0
+584,426,c91eb6cb-cfc0-4b55-9122-4eac2312bbb9,Identity Theft,2022-04-03,Under Investigation,0
+585,426,634c26d2-324d-47c4-a727-615b0d68e872,Identity Theft,2022-01-28,Resolved,1
+586,426,844e99a0-d76d-4411-af4b-1807896cdcef,Phishing,2024-04-18,Under Investigation,0
+587,426,64ea0471-49e3-4f56-986b-99a2e5136f5a,Card Fraud,2022-03-03,Resolved,1
+588,426,bd95204a-d3db-44f5-9198-a73bc2db5604,Account Takeover,2022-09-03,Under Investigation,0
+589,426,ae3984ca-a352-4cc3-b2b1-2460f4bbff93,Card Fraud,2024-06-26,Under Investigation,0
+590,426,802752af-8a75-4a13-a262-205a0ec15685,Card Fraud,2025-04-22,Resolved,1
+591,428,218677ff-e75f-477b-9bdc-8b1c3132bb2d,Card Fraud,2024-04-16,Resolved,1
+592,429,c24a372b-7e39-4be4-bf93-5c66cdc238ec,Card Fraud,2025-05-03,Under Investigation,0
+593,429,3e79b18c-3a07-49b6-9548-9438829442d1,Account Takeover,2024-03-23,Resolved,1
+594,429,7ca679d1-9b8a-45a3-ad8c-ce0b7efa92f5,Money Laundering,2023-08-25,Under Investigation,0
+595,429,d06ae388-009b-4495-975d-d1278bc73e28,Account Takeover,2022-12-15,Resolved,1
+596,430,ebf85268-aeab-465e-9b55-cad216cb8187,Money Laundering,2025-04-04,Resolved,1
+597,431,d5756d2f-ee04-4d07-99c6-b2c7deead2dc,Phishing,2024-12-19,Under Investigation,0
+598,432,6ea499cc-3222-468f-a8ca-dfbb92eb8d0f,Card Fraud,2024-09-29,Under Investigation,0
+599,432,73b86f17-66cd-4689-9508-3527f478a19d,Phishing,2025-04-09,Resolved,1
+600,433,536cfd50-035e-4163-af08-bc196706e24f,Account Takeover,2024-12-19,Resolved,1
+601,433,b527699e-3e11-4582-9f05-337948a9a79e,Identity Theft,2024-11-26,Under Investigation,0
+602,434,faaaab54-6c7a-4ced-a0c0-88b1a3c14020,Money Laundering,2023-07-31,Resolved,1
+603,434,b84bb65d-6e58-40a3-ba9d-2109f2e7987d,Money Laundering,2023-02-09,Resolved,1
+604,437,da0bb9e2-dba2-4a43-aa81-847ddea56048,Phishing,2025-04-26,Under Investigation,0
+605,437,5ed9fe8e-9c52-4e76-9396-7af16a991153,Identity Theft,2024-08-28,Resolved,1
+606,440,1590324c-f2a2-4c09-8768-5634e369b385,Money Laundering,2025-05-15,Under Investigation,0
+607,440,e3b55ea4-573b-4ed1-906c-88dea8709b4a,Card Fraud,2025-05-11,Resolved,1
+608,440,224e6d62-ec69-43b1-9064-d2c35cdca3d2,Phishing,2025-05-10,Under Investigation,0
+609,441,784f96fe-132f-4ea7-8350-9f337687f5d2,Card Fraud,2023-04-01,Under Investigation,0
+610,441,e5cb034b-9ec6-4b43-96b4-92da77c554db,Account Takeover,2023-05-12,Under Investigation,0
+611,441,81210e3f-4ab7-46d5-be28-673dcc41f0d0,Card Fraud,2024-03-07,Under Investigation,0
+612,441,2167bd20-adaf-4835-ba36-a8451d72e4d2,Account Takeover,2024-08-31,Under Investigation,0
+613,442,2d665827-65bd-49c2-a96e-1829a97a1a43,Identity Theft,2024-12-17,Resolved,1
+614,443,38d3d309-12e6-437e-9ce0-35decdc5db78,Phishing,2025-03-22,Resolved,1
+615,444,c2e9f1c4-f75e-48ae-bc81-786afb379aaa,Account Takeover,2024-12-10,Resolved,1
+616,444,c416d9bf-f496-4a4b-935f-00cd58226927,Card Fraud,2025-02-11,Under Investigation,0
+617,445,865275e5-3b1f-40b7-bb85-20536dde1586,Phishing,2023-01-29,Resolved,1
+618,445,04061c8b-a8db-410f-a668-a65018943299,Card Fraud,2024-04-15,Under Investigation,0
+619,447,59e1d422-1e8d-4c8e-b175-4d0f566a0caf,Identity Theft,2025-05-15,Under Investigation,0
+620,447,4a77c93a-27c8-4c83-9d72-97bb3d856574,Identity Theft,2025-05-15,Under Investigation,0
+621,448,56bdc954-e0bb-4314-999a-210729363e57,Money Laundering,2025-04-11,Under Investigation,0
+622,448,f78888dc-6855-4cf5-ae9f-1b9907eb4469,Money Laundering,2025-05-01,Resolved,1
+623,448,2cfe8c3f-048b-4c0f-a3bf-1c675a7e835b,Card Fraud,2023-06-09,Resolved,1
+624,448,7ae74dd5-6f18-4a9f-8624-cfc4056774bb,Account Takeover,2025-02-03,Resolved,1
+625,448,b125ebcf-2f83-4627-800c-7a902d021535,Phishing,2025-01-19,Under Investigation,0
+626,448,5f9616cf-c554-4ca3-af1a-21eeec808e8a,Money Laundering,2025-01-17,Resolved,1
+627,449,3c708077-504d-4db5-94ba-cf5d1b5e294d,Card Fraud,2023-09-30,Resolved,1
+628,450,e082011e-cf92-481a-bfdf-23e83b97efe5,Money Laundering,2024-11-15,Under Investigation,0
+629,450,ae4bb9d4-1c75-4e27-a0ea-7ebeed6bceb8,Account Takeover,2025-02-12,Under Investigation,0
+630,451,552ec3a7-ff7c-4227-8558-6b7c2ea2ee99,Account Takeover,2023-08-15,Under Investigation,0
+631,451,975aa9e5-1867-4684-9192-18664eb208fd,Phishing,2024-11-03,Under Investigation,0
+632,453,e8501eb3-d574-49d5-81dd-cd2e7899fcdc,Money Laundering,2024-07-16,Under Investigation,0
+633,453,4f4a448e-9f13-4bf5-befd-58043b83a470,Phishing,2024-09-23,Resolved,1
+634,453,5363a0e0-f29a-4b15-9e2f-fcb66a3a8a1f,Card Fraud,2025-05-04,Under Investigation,0
+635,453,382a3f26-9fa7-4ae9-b710-d27dbb12e4b7,Identity Theft,2024-04-29,Resolved,1
+636,455,7785fcfb-760a-49d7-9352-4d4d289bb292,Identity Theft,2025-04-13,Resolved,1
+637,456,28c340b1-6cd3-458c-a257-2eea9c48f904,Account Takeover,2025-04-13,Resolved,1
+638,456,17e677c6-97c2-4df0-893e-c559450ed453,Account Takeover,2025-03-03,Resolved,1
+639,456,51447c62-8022-4032-bf24-dcbedb13b772,Money Laundering,2025-03-15,Under Investigation,0
+640,456,b03f2d39-83c6-43ab-9c9e-f0d7c3ab38ab,Money Laundering,2025-04-14,Resolved,1
+641,458,312de7b9-c4f7-4fa1-809a-91477b7dd8fb,Card Fraud,2025-03-12,Under Investigation,0
+642,459,430ce69d-21b1-46e2-808a-c44c05ef703c,Money Laundering,2023-01-01,Resolved,1
+643,459,f444f737-96a3-4607-a092-80d367c3819c,Phishing,2023-04-29,Resolved,1
+644,459,615bfb07-1c71-490b-be47-b7716a6fc219,Money Laundering,2024-12-15,Under Investigation,0
+645,459,3efa5eea-f93a-47d8-9021-7365b21bf36e,Money Laundering,2022-08-20,Resolved,1
+646,461,0b40dcad-62b5-442b-9150-10a5f45fe62a,Identity Theft,2025-04-19,Resolved,1
+647,461,b783960a-a609-456e-9ffe-1070d7f477a3,Card Fraud,2025-02-22,Under Investigation,0
+648,463,13edf619-6e6c-41f5-b432-e432e5e26c7b,Identity Theft,2024-09-04,Resolved,1
+649,463,9b4c5373-6401-4829-980a-8ee0cb9b0bab,Money Laundering,2025-05-15,Resolved,1
+650,463,67b856dd-9eb1-4241-b0db-b29fc445b6ed,Money Laundering,2025-05-14,Under Investigation,0
+651,463,a9a74ae6-b209-40d7-953a-cc3be1f8f7fa,Card Fraud,2025-05-15,Resolved,1
+652,463,c6829040-1a27-4661-876b-2f5545c70a1e,Identity Theft,2025-05-15,Under Investigation,0
+653,464,d547239d-c882-4446-995a-385894fe6fbd,Money Laundering,2024-01-16,Under Investigation,0
+654,464,10c01fc4-df1a-43ea-aadf-db55c635418c,Money Laundering,2025-05-06,Under Investigation,0
+655,464,a1b6dfe2-ac35-48a3-9b71-7c90713793e8,Phishing,2024-03-06,Under Investigation,0
+656,466,fc5b3070-0b7c-45c8-88ee-6a4b9ecdfc5f,Card Fraud,2025-02-09,Resolved,1
+657,466,c37e5535-2437-4389-ac96-466473da46d1,Identity Theft,2025-05-03,Under Investigation,0
+658,469,c67ea566-4232-41ef-8d59-1e9b879b2475,Account Takeover,2022-08-20,Under Investigation,0
+659,469,94613ef4-56dd-4fb6-8d15-8ec1f70fb78b,Card Fraud,2023-02-21,Under Investigation,0
+660,470,545cdb50-561d-4279-bffc-111ff4c1ca4c,Money Laundering,2025-03-22,Resolved,1
+661,470,90db7491-6613-4707-b93c-da01fd1043b3,Account Takeover,2025-04-12,Under Investigation,0
+662,471,a2151c69-b8c3-4954-9409-25ea8b6f8a2f,Account Takeover,2023-11-03,Under Investigation,0
+663,472,5a64a8ee-2ac4-403c-b225-8e9b33dbbf37,Card Fraud,2023-08-11,Resolved,1
+664,472,8c7a6a97-b202-4547-92fe-1a7583e224ff,Identity Theft,2022-08-01,Under Investigation,0
+665,473,fbc3d13a-0287-482f-8d29-5d2c9203bfde,Money Laundering,2021-04-19,Under Investigation,0
+666,473,84b60a9f-b94c-4033-81f1-cba2ff513af4,Money Laundering,2025-01-02,Under Investigation,0
+667,473,7e3e2090-5aae-45bd-971d-f94eb0e6d719,Identity Theft,2024-08-03,Under Investigation,0
+668,473,d7903497-b18c-4b74-87c2-6bdc9a5cd163,Identity Theft,2024-04-29,Resolved,1
+669,475,af9d970f-955d-48c1-9388-7f6c990c8a53,Money Laundering,2023-10-28,Resolved,1
+670,476,cd817c13-73c6-407b-97e7-fa5ce845ecdd,Card Fraud,2024-07-14,Resolved,1
+671,477,0cc8f2f1-a6af-43a7-bd19-1f014e84e821,Identity Theft,2024-10-08,Under Investigation,0
+672,478,3c4bacd5-5ee1-4c2e-bc35-113aa6e8b59d,Money Laundering,2024-12-15,Under Investigation,0
+673,478,d76eea96-2083-4158-8efb-630aa4db95cc,Card Fraud,2024-10-14,Under Investigation,0
+674,479,7c295ef9-10b8-42d3-81e7-5664ddfc4b15,Account Takeover,2025-01-22,Resolved,1
+675,481,eb1e8fee-88da-4202-ab04-59ee02004e8d,Phishing,2024-09-08,Under Investigation,0
+676,481,1ee5da55-830f-4df9-a2e2-47ce2ca7eddb,Account Takeover,2024-12-14,Under Investigation,0
+677,481,5ad64fed-6944-4539-a60a-13bbe13fb55b,Card Fraud,2024-06-07,Under Investigation,0
+678,482,6757d8fb-0f05-4921-a6a4-c94e31626caa,Account Takeover,2025-03-28,Under Investigation,0
+679,483,5f26c866-1e0f-44fa-8c3a-85fa9d8b94d1,Card Fraud,2025-04-20,Resolved,1
+680,486,adae607f-e659-4596-b277-8daffdf8605a,Identity Theft,2025-05-12,Resolved,1
+681,486,f6da03f8-f003-4390-9878-8ee8baa43231,Money Laundering,2025-05-14,Under Investigation,0
+682,486,5bc4ebbf-7043-4ffc-8a88-29ff8b48d426,Account Takeover,2025-05-09,Resolved,1
+683,486,2ce12e27-0ea9-4ef9-9375-23093a7954ad,Money Laundering,2024-09-15,Resolved,1
+684,487,7a344384-a24b-4069-b89b-3bec1aac0a58,Phishing,2025-01-22,Resolved,1
+685,487,1814560d-b7da-4dcf-a60b-fb33d83a88ab,Card Fraud,2024-12-24,Resolved,1
+686,487,e00e6639-e172-41f4-981f-01a4f453aab1,Money Laundering,2025-01-05,Under Investigation,0
+687,487,5d4a988c-5f44-4d28-b04b-33b4a9170c09,Money Laundering,2024-12-18,Under Investigation,0
+688,488,0d745060-02f1-4aa4-a06f-9ff66cd49868,Identity Theft,2024-10-24,Under Investigation,0
+689,489,426a0241-f108-4139-b7f9-67f7d388b776,Phishing,2025-05-04,Under Investigation,0
+690,490,47fdb686-2226-4144-9cf5-499475374a36,Identity Theft,2025-03-25,Resolved,1
+691,490,97069191-242d-4199-8a76-6866d56b6c49,Card Fraud,2024-10-13,Under Investigation,0
+692,490,855b12d4-d74f-4ad6-a3f8-379441234d89,Account Takeover,2024-12-27,Resolved,1
+693,492,6c86f773-a663-407f-adbf-daaa36503fc1,Phishing,2024-09-26,Resolved,1
+694,494,2cdffbab-5102-4e81-b095-01891ff218d9,Money Laundering,2024-02-17,Under Investigation,0
+695,494,b97481df-9bc9-401d-97dc-ae93e429a28d,Account Takeover,2024-02-01,Under Investigation,0
+696,494,0a2f1fa8-917a-41ef-b5ca-fd39a4c89fe7,Account Takeover,2024-10-28,Resolved,1
+697,495,5f3a04ab-0606-4911-82fd-0145f852c1cd,Identity Theft,2023-10-07,Resolved,1
+698,495,c1fd3f9a-f9b5-4a02-80ac-c6881ff09174,Identity Theft,2025-04-01,Resolved,1
+699,495,45246e99-d6c1-4317-97fd-d585f935f6e5,Account Takeover,2024-06-13,Resolved,1
+700,495,36867302-4bdf-40de-82ed-8aed54ad0442,Card Fraud,2023-05-23,Resolved,1
+701,496,720da124-a0da-4148-b18d-6ffc12fa1abf,Card Fraud,2023-12-19,Under Investigation,0
+702,496,95876c96-7da9-41c0-ba8a-c6d43b6b3f45,Phishing,2023-03-29,Under Investigation,0
+703,496,06872591-8e85-47c2-aa01-3233cd0ed193,Money Laundering,2022-08-21,Under Investigation,0
+704,498,d51ff084-3f25-4334-a61a-2606664e4446,Identity Theft,2024-10-28,Resolved,1
+705,498,17072bdd-8eee-4285-b56c-b5dd5e0ac500,Identity Theft,2025-04-09,Under Investigation,0
+706,498,c702314b-22ca-48e5-8b33-08a540c48f7a,Phishing,2025-04-09,Under Investigation,0
+707,499,c48c47d8-485b-480b-a228-0cc063eded4a,Identity Theft,2025-04-03,Under Investigation,0
+708,500,5aaf2e51-26b0-4061-9994-becc273395a0,Card Fraud,2023-12-25,Resolved,1
+709,500,f21a6d38-0bed-487f-baea-5993d10f8642,Card Fraud,2023-08-03,Resolved,1
+710,500,975af86a-5fcc-4eff-9d80-6ca8c9164053,Card Fraud,2023-01-29,Under Investigation,0
+711,502,0a276051-3233-4f81-8b1a-6d3559d1c2c5,Account Takeover,2024-11-22,Resolved,1
+712,503,1265168f-e532-4f8c-acba-0692ac01b8f7,Money Laundering,2024-10-16,Under Investigation,0
+713,506,e528a35e-aec3-48bb-985c-c5205447a5c0,Phishing,2025-05-01,Resolved,1
+714,507,12b1d49b-1e59-4ea4-9309-e5ae463605b4,Card Fraud,2024-12-28,Under Investigation,0
+715,508,102f8589-3648-4479-9956-f4ad6f030ec9,Card Fraud,2024-08-04,Under Investigation,0
+716,508,ea600e65-656e-4b3d-ace4-71a17e8c42ed,Money Laundering,2024-10-09,Resolved,1
+717,508,990a26a6-6e17-4a3b-8b4b-5a91a899a4f5,Money Laundering,2023-09-04,Under Investigation,0
+718,510,830cd6f2-ee86-4eb0-b14d-d0374299e8cd,Card Fraud,2025-05-04,Resolved,1
+719,510,4e582434-7eac-48fe-ac1d-25755f8b90c5,Phishing,2024-12-18,Resolved,1
+720,510,5dd5cc61-4c8b-45e1-828e-0550a973ad20,Money Laundering,2023-12-27,Under Investigation,0
+721,510,43a8da43-c9cd-438b-84b5-8071feb6e321,Phishing,2025-03-07,Resolved,1
+722,511,ab6eb75a-2d50-415c-a4ea-8d9aec14ef5a,Identity Theft,2025-04-28,Resolved,1
+723,511,dfd4a6f0-90b0-4f64-b4a7-6c4840165c69,Card Fraud,2025-05-16,Under Investigation,0
+724,513,23f6627a-5407-4528-b427-8fee9c097045,Card Fraud,2023-10-13,Resolved,1
+725,513,a6387e22-6458-461d-b54f-30c4a3a69322,Card Fraud,2024-09-02,Resolved,1
+726,513,8eb0b474-64c4-4336-8eff-be59a76d3228,Identity Theft,2023-07-25,Under Investigation,0
+727,514,62b9e58f-ef6c-4fc9-aed0-fb51425fa9b9,Phishing,2022-12-06,Resolved,1
+728,514,e96c3b4e-63e5-45f8-87ca-70374ad3b57d,Phishing,2022-07-12,Resolved,1
+729,516,0244df8b-e095-481b-86e6-1d953ffc1095,Card Fraud,2025-04-12,Under Investigation,0
+730,516,3593e1ef-9108-4205-84fe-f3f26ed97731,Card Fraud,2024-02-14,Resolved,1
+731,517,0c45c67c-1e69-4238-bb2d-a3005bd0b4fb,Account Takeover,2022-11-06,Under Investigation,0
+732,517,66db8358-8249-4518-8521-9dff96f7b48e,Card Fraud,2020-12-20,Under Investigation,0
+733,517,4d2ad1fc-b0e3-4b66-ac2f-d13132a9e7c4,Money Laundering,2023-03-22,Under Investigation,0
+734,517,db79ad60-4cbc-4503-bcb2-ac2df94128c8,Account Takeover,2020-12-31,Resolved,1
+735,518,e0cfe079-2945-4ed5-995d-77856b90c360,Card Fraud,2025-01-23,Under Investigation,0
+736,518,4e8c6415-29d5-48c1-bb50-0ff566b6f451,Account Takeover,2025-04-28,Under Investigation,0
+737,518,7f5d132d-a874-4603-b154-e0310c3313e3,Money Laundering,2025-01-31,Resolved,1
+738,519,c8fd3a72-2743-4d7c-9b82-1e7ddd99a2f0,Card Fraud,2025-03-25,Under Investigation,0
+739,519,62579aca-d821-4f4a-84aa-6ae8b66edce7,Account Takeover,2025-01-21,Under Investigation,0
+740,519,0226bc48-55c1-464d-8c0d-f13645c8065a,Card Fraud,2024-12-08,Under Investigation,0
+741,520,6c8361a0-41b9-41a7-8ee8-83e346f83485,Money Laundering,2025-02-28,Resolved,1
+742,522,478373c2-1313-4591-ac54-305050956bf0,Account Takeover,2023-07-15,Under Investigation,0
+743,523,f9ebaf82-bb78-4655-a3b2-815f2f9157c3,Phishing,2021-08-24,Under Investigation,0
+744,524,5db8d672-cdb7-47c2-ad7f-62ac7b0aef75,Money Laundering,2025-04-26,Under Investigation,0
+745,524,e330faea-69db-432e-95b7-738548f28839,Card Fraud,2025-05-05,Under Investigation,0
+746,525,2c6d40f6-28c4-43ca-bfe3-f76939654ffe,Identity Theft,2025-05-12,Resolved,1
+747,527,ef6c340d-1951-491c-824b-a83b7df44228,Identity Theft,2024-12-06,Under Investigation,0
+748,529,3d5c4aff-07c0-4d9f-b304-19d4fc90fcef,Identity Theft,2022-07-22,Resolved,1
+749,529,67120b70-df28-4f2d-8096-b4481739e07a,Phishing,2021-12-26,Resolved,1
+750,532,12f14f23-37b3-449e-9b7b-504af752e105,Money Laundering,2025-01-20,Under Investigation,0
+751,533,4b304375-1edd-4322-b298-25f1a2fb13c7,Account Takeover,2024-08-15,Resolved,1
+752,533,d4d31dfb-0288-4269-ac9d-40aca3614ad5,Card Fraud,2025-02-20,Under Investigation,0
+753,533,0d816cec-3b55-48ba-9d8d-dd77784a07d6,Identity Theft,2025-04-11,Resolved,1
+754,536,4b700ba1-7a05-4cf8-b608-92e42a61bdf0,Phishing,2025-04-30,Resolved,1
+755,536,24b8cb84-f28d-4b0a-8a82-421ffa0d7312,Money Laundering,2025-04-14,Under Investigation,0
+756,536,d545fec0-5c89-4764-9ef2-e2c8656b07aa,Identity Theft,2025-01-30,Under Investigation,0
+757,538,26f0b865-6722-45db-ac4b-e7bf84c83d7a,Identity Theft,2024-11-17,Under Investigation,0
+758,540,4ba040be-41b1-41a3-9780-2aab8261cb34,Money Laundering,2024-05-30,Under Investigation,0
+759,542,b8d0d054-b08b-4ff9-9b5c-968c7b9cc976,Account Takeover,2025-04-03,Under Investigation,0
+760,542,2f6ed39f-a49d-48c2-b7be-683164eb7e76,Card Fraud,2024-09-24,Resolved,1
+761,542,73293715-53f9-45f9-9ec7-32f995afe790,Card Fraud,2024-04-02,Under Investigation,0
+762,543,26a71de3-91e8-4b43-87b1-f3b95d6d6a5f,Phishing,2025-04-17,Under Investigation,0
+763,545,6b370b39-df2d-4f34-b3db-2686569c0522,Identity Theft,2024-03-07,Under Investigation,0
+764,547,3d70af2c-a564-4ab0-b151-2252797c017b,Identity Theft,2024-11-29,Under Investigation,0
+765,547,9f1b1cc9-016a-4cf8-b604-89b67de95985,Account Takeover,2024-07-12,Resolved,1
+766,550,b57fc1c3-f53e-40f1-af3b-12f99d051390,Identity Theft,2024-07-17,Under Investigation,0
+767,550,2e525909-07d1-4d80-b491-c99e5a569f20,Account Takeover,2024-07-12,Under Investigation,0
+768,550,4f1aace5-34c2-47d3-b528-862dbda51782,Phishing,2025-05-09,Resolved,1
+769,552,b88d43f2-108f-4885-b0aa-d02015f21ea6,Identity Theft,2025-03-11,Resolved,1
+770,552,b4580eb1-4eee-42c3-a364-832b83c3b473,Account Takeover,2022-08-24,Under Investigation,0
+771,552,d2e7d416-965c-4409-9099-c6ab221f45ff,Phishing,2025-03-05,Under Investigation,0
+772,552,66bd9ad0-0ae3-4264-96fa-a22eb3b6fec1,Card Fraud,2024-01-05,Resolved,1
+773,553,1ed17d3c-c139-4ae0-a864-d371c2a58919,Account Takeover,2024-10-03,Under Investigation,0
+774,553,5bc03ed4-2f0a-4f93-b4a8-995b66844863,Phishing,2024-12-14,Under Investigation,0
+775,553,8c5f90cd-e97b-4abe-867f-33841016049b,Account Takeover,2025-03-30,Under Investigation,0
+776,553,4366b5b2-0bb1-47b5-8a34-48437a7020c8,Phishing,2025-04-02,Under Investigation,0
+777,553,589f5df3-5120-4bd1-8685-06284a8c28bd,Phishing,2025-03-26,Resolved,1
+778,554,88a080ed-5044-453f-8ada-ccbdbf6dd94c,Identity Theft,2025-01-24,Resolved,1
+779,554,d7f173b9-d7f8-4ebd-bfea-9e5b6325f5a6,Money Laundering,2024-08-08,Under Investigation,0
+780,554,21e10087-bd89-4b8b-ae65-127ba820fcc4,Identity Theft,2024-12-11,Under Investigation,0
+781,556,9d62d4c8-4559-4fcf-8b6d-69905c6e7a4b,Money Laundering,2025-04-05,Under Investigation,0
+782,556,5aa4f1fa-0413-4fe5-93f7-b5ad4c969f6f,Phishing,2025-01-21,Under Investigation,0
+783,559,e8ce95cf-4df8-4a7b-bd8c-2365f9fc274a,Account Takeover,2024-10-25,Under Investigation,0
+784,559,a6f33371-1120-445c-9777-c4ea3a1da4e5,Account Takeover,2025-02-04,Under Investigation,0
+785,561,81786c97-f549-45d8-90f3-86b3a0fb8a40,Identity Theft,2024-10-11,Resolved,1
+786,561,05a4d23b-8e71-44b1-a5cc-894cc3059637,Money Laundering,2023-06-14,Resolved,1
+787,563,aaf479a0-4c52-410d-9275-66233d2c81e2,Card Fraud,2023-02-05,Resolved,1
+788,563,44ded61f-fe8b-40be-9db2-07f8311c90d4,Identity Theft,2022-09-08,Under Investigation,0
+789,563,fa6c022e-b5da-4da0-95af-0332e4b7792d,Phishing,2022-08-15,Resolved,1
+790,566,c4056d7a-f995-4840-8f3f-01808dbfe7e7,Card Fraud,2023-11-29,Resolved,1
+791,568,7aec7671-8776-43e3-9582-5a0e630f6080,Account Takeover,2024-12-12,Under Investigation,0
+792,568,5e873bc0-82ac-450f-a10e-b16c53e27692,Identity Theft,2024-12-17,Under Investigation,0
+793,569,6948c637-545a-4cf1-b04d-57abf4aa696a,Account Takeover,2023-06-19,Resolved,1
+794,570,a47f0417-92cf-4f58-8a84-2b3e0baa2bf5,Card Fraud,2025-02-01,Under Investigation,0
+795,570,009c044c-af42-4373-bb15-4bf698cec875,Account Takeover,2025-05-13,Under Investigation,0
+796,572,b75bc6d4-af57-47cc-aed8-d04467b38a70,Identity Theft,2025-03-03,Resolved,1
+797,575,09407799-a5cb-4698-b304-01024dc40bf0,Identity Theft,2025-04-18,Resolved,1
+798,576,776ede1c-e0a5-49bd-a504-dffb93fc57bb,Identity Theft,2024-04-21,Resolved,1
+799,576,403b4343-4a15-4c2a-9962-59f035fdc70b,Money Laundering,2025-04-20,Under Investigation,0
+800,576,07ca8e34-1e20-4060-ba00-6cefe239e3f4,Card Fraud,2025-03-23,Resolved,1
+801,578,cccd42ea-1e69-4b8c-a5df-947e57d0a272,Account Takeover,2023-02-19,Resolved,1
+802,578,96997a43-7546-4ed1-9421-8b21b5564a4e,Identity Theft,2024-09-21,Resolved,1
+803,579,5a2b0d3c-ebcc-49a6-90c5-ed1d5aef9f80,Card Fraud,2025-03-24,Resolved,1
+804,579,7143da4b-cab0-4c15-bd18-855c73f3389b,Identity Theft,2025-03-04,Resolved,1
+805,579,092a1348-3c46-47bb-bacb-6abc76d13c9d,Money Laundering,2025-02-01,Resolved,1
+806,579,2a7c0e75-293d-4e51-841d-15f31fe48fb8,Card Fraud,2024-12-23,Under Investigation,0
+807,580,8dacd364-b914-4ebb-a3c6-03d5cfd675ff,Account Takeover,2024-01-05,Resolved,1
+808,580,f182acd0-5cd3-4c05-be51-8e4fb9c60ad5,Money Laundering,2023-09-19,Under Investigation,0
+809,580,990ab96c-4b09-4d4a-8623-68e430efd95e,Money Laundering,2023-02-26,Resolved,1
+810,580,c7e7d6d0-dc78-4fc1-949f-1f2f52ad9ac8,Money Laundering,2025-03-23,Under Investigation,0
+811,581,18f3fefb-295c-474d-b5ab-0d44d077b8b1,Card Fraud,2023-08-20,Resolved,1
+812,581,f9e309fb-f471-4668-847d-333480b19a23,Money Laundering,2024-02-21,Under Investigation,0
+813,581,5518154a-d2d5-4566-9b52-a2a294efe739,Phishing,2023-08-04,Under Investigation,0
+814,581,7ff38c49-63bc-4c3e-b7c3-9dae31022a09,Phishing,2023-08-13,Under Investigation,0
+815,581,4cc287ae-49d9-4863-b3f7-17ffc8fc1d90,Account Takeover,2023-09-18,Resolved,1
+816,581,c150d982-489a-497a-bcab-5a2e1824f576,Card Fraud,2024-07-27,Under Investigation,0
+817,581,67c7887e-14c4-475b-9ac5-79009359be04,Account Takeover,2023-11-13,Resolved,1
+818,581,06a82bd7-b555-4ba7-a5e7-14200c7f4a00,Identity Theft,2024-04-21,Resolved,1
+819,581,b859a65d-76b6-4342-a51f-3e24ed9225ac,Phishing,2022-11-25,Under Investigation,0
+820,582,5ec761ad-0f58-46ec-94df-799668cbe6d1,Phishing,2023-04-16,Under Investigation,0
+821,583,228738a5-1b11-42e5-b64c-8601974f1c68,Phishing,2025-04-13,Under Investigation,0
+822,583,d8b86595-c45e-4e39-8727-13425ea0d896,Identity Theft,2025-04-12,Resolved,1
+823,583,b6d1b8ee-6b69-46ca-a39c-e973f8230cda,Money Laundering,2023-07-27,Resolved,1
+824,585,c9e83915-c998-48ce-84e6-79a5edeb3733,Account Takeover,2025-05-16,Under Investigation,0
+825,585,b0518293-c684-4067-a04d-bc77d4d1ad9c,Money Laundering,2025-05-13,Under Investigation,0
+826,586,fc604180-e681-48da-94f3-e1992d72f0af,Money Laundering,2025-02-23,Resolved,1
+827,587,ef5ea025-2e56-4d5d-ad51-079df41524e8,Phishing,2023-08-21,Resolved,1
+828,588,84a5f52a-167e-4ec5-a122-7597a9e118ca,Account Takeover,2025-03-14,Resolved,1
+829,588,dcf16323-1e51-49a9-a8d3-717982fa9e14,Account Takeover,2025-04-26,Resolved,1
+830,588,06133c46-32c1-4bbf-8be1-5e7b706defb2,Money Laundering,2024-10-19,Resolved,1
+831,589,f2a22381-5957-42cd-8369-9f96c4e4e426,Account Takeover,2024-12-21,Under Investigation,0
+832,589,f6b5c69b-f80e-415c-ade5-3931b4ae6759,Account Takeover,2025-03-19,Under Investigation,0
+833,589,41fa69b8-d12e-4656-94ff-64cf4f19525f,Phishing,2025-01-17,Under Investigation,0
+834,590,75c5c9f8-df32-4eff-ac25-fd82956dd1ef,Phishing,2025-05-06,Resolved,1
+835,590,428362e7-f1bf-454b-8029-bddecbc206de,Card Fraud,2025-01-04,Resolved,1
+836,592,865e6472-f239-4338-b4a4-6fd0e1fad1d9,Money Laundering,2024-10-11,Under Investigation,0
+837,592,7bc7d355-d518-47b1-ac09-fa69e6484107,Identity Theft,2024-12-19,Resolved,1
+838,593,f17e0b0e-2c8a-4140-aaab-8ddb1c2e1de2,Identity Theft,2025-03-03,Under Investigation,0
+839,593,29205f2a-8a25-4a37-b670-9d54dc3923d1,Phishing,2025-03-25,Under Investigation,0
+840,594,450b9c9d-2f1a-40f3-89b5-02ffeeb9cd72,Card Fraud,2025-03-09,Under Investigation,0
+841,596,9a1043b8-b553-4784-ab39-57e08263abab,Card Fraud,2024-08-26,Under Investigation,0
+842,596,fc61197e-6545-43b3-a538-6ec1fe68a243,Account Takeover,2024-11-13,Under Investigation,0
+843,596,4a72d77e-ee29-4e04-b0e9-62ae9347e264,Phishing,2025-04-24,Under Investigation,0
+844,596,eadb9273-83ad-4793-ab11-5ad3df97c79c,Phishing,2024-08-06,Resolved,1
+845,596,2bc251ec-9afe-4f1a-8d9a-500ab9caf3fb,Money Laundering,2024-09-16,Under Investigation,0
+846,597,1608cb53-7d05-43a4-bfdd-07d2e17f329f,Account Takeover,2025-03-28,Under Investigation,0
+847,597,b5745d03-095b-431f-8f1c-6753b4d0e223,Money Laundering,2025-03-27,Resolved,1
+848,597,d202de5f-ba9b-4add-ab8e-3d474f34e391,Account Takeover,2025-03-23,Resolved,1
+849,598,98b6a727-d2bd-457d-9996-c7ac3c034c06,Phishing,2024-04-16,Under Investigation,0
+850,600,106b5a82-735b-4e7f-8545-693357aa7473,Card Fraud,2023-10-19,Under Investigation,0
+851,600,e3950c0f-8830-4a25-bec8-130e87b02c5f,Money Laundering,2024-06-27,Resolved,1
+852,601,3f730751-cfa2-4533-8cfe-f8263faf6857,Identity Theft,2024-07-20,Resolved,1
+853,603,f928f4bd-8d94-41c9-8669-c4271c682942,Card Fraud,2023-06-24,Resolved,1
+854,603,69a81dbe-af67-4d5e-86f9-4f72a3818e7d,Phishing,2024-09-27,Under Investigation,0
+855,603,12a28070-43a6-45b8-93a5-2e4fccf79635,Identity Theft,2024-06-20,Resolved,1
+856,606,1c059e81-4ea0-4d9c-bff2-150ba194562b,Card Fraud,2025-02-22,Under Investigation,0
+857,606,7c9122fb-5c42-4334-abf2-f95d63a3311f,Identity Theft,2022-04-06,Under Investigation,0
+858,609,1c8c09f2-2fc3-4536-b19c-b15abac2dcd7,Phishing,2025-04-16,Under Investigation,0
+859,610,37db0438-4b51-47dc-bdb5-f60ec2de8f45,Identity Theft,2025-05-10,Resolved,1
+860,610,42e6b7ba-9561-4129-9758-bcc36b3b3617,Phishing,2025-04-14,Under Investigation,0
+861,610,664186f2-a184-401d-bb28-1b3fa8b5d452,Phishing,2024-11-23,Resolved,1
+862,611,849945d6-b138-4925-87f5-aa73c1a037fa,Account Takeover,2025-04-23,Resolved,1
+863,611,0fa63e85-5ccb-4b88-99a6-78edfe5a4304,Account Takeover,2025-04-16,Resolved,1
+864,613,2a927884-4616-45b1-98ba-e6ab39691f54,Money Laundering,2025-05-07,Resolved,1
+865,613,409151dd-91bc-46f9-a4c8-419f8db793b3,Card Fraud,2025-05-08,Under Investigation,0
+866,613,2ed9ea0b-c5c6-4179-9dd0-44eb4e683fd7,Card Fraud,2025-03-30,Under Investigation,0
+867,614,1a2b60ef-12b7-4055-814b-7fc1e096a74e,Account Takeover,2025-04-22,Under Investigation,0
+868,614,a8dc9d69-c4bc-442c-8f1a-2e13ebc0c27e,Money Laundering,2025-05-11,Under Investigation,0
+869,616,28426a08-8b1b-4486-a6d6-c95462c59d30,Card Fraud,2024-10-14,Under Investigation,0
+870,616,f548624c-e838-489e-965f-abcd901b07fe,Identity Theft,2025-04-23,Under Investigation,0
+871,616,ef5d7aa9-3333-4ffa-9c96-de2ed87f3cf9,Phishing,2024-07-23,Resolved,1
+872,617,d74aaa6f-f5f3-4356-a79b-675e4548c6c6,Identity Theft,2023-06-16,Resolved,1
+873,618,3eb95a63-4685-4273-8892-b5396b0201cf,Phishing,2024-10-06,Under Investigation,0
+874,619,30329569-484d-4a84-b2bb-fb1f0d493c44,Card Fraud,2025-05-05,Under Investigation,0
+875,620,07a2e7da-e4fd-4d17-9bbb-2cbf17f98dff,Card Fraud,2025-04-28,Resolved,1
+876,620,d4054d38-ae2b-4a43-b21e-554fd1c6c72a,Account Takeover,2025-04-04,Under Investigation,0
+877,620,ff6df056-ceeb-4a91-aba3-f6c4e90b9f54,Money Laundering,2025-05-02,Under Investigation,0
+878,620,e5ef3230-57fc-4dbf-8715-3414db0807ae,Phishing,2025-04-20,Resolved,1
+879,629,902c65e8-4f50-443e-bc00-7562d760e56d,Identity Theft,2024-09-26,Under Investigation,0
+880,630,fa031d66-f7fb-434c-94cf-8ee3c39ad850,Account Takeover,2024-06-07,Under Investigation,0
+881,630,af052fab-b3e5-44c4-8488-9eb84ec9c75a,Money Laundering,2023-12-02,Under Investigation,0
+882,632,32195646-d428-4c31-968a-8eb7d30e8348,Account Takeover,2024-08-04,Under Investigation,0
+883,633,a3cd3a00-e600-4ce0-9dfd-818752b89e07,Phishing,2025-04-28,Under Investigation,0
+884,633,0e23c4af-09b7-48c8-9178-1556a8f943d2,Account Takeover,2024-02-15,Resolved,1
+885,635,df7db8cd-73ea-418a-9079-605196282603,Account Takeover,2024-10-05,Under Investigation,0
+886,635,7dc60aff-402e-4286-be3a-24acc9650caf,Phishing,2024-08-06,Resolved,1
+887,636,ac072bab-6081-453c-b1cb-5ee9ca3bf746,Identity Theft,2025-04-15,Under Investigation,0
+888,636,8d3d9c1f-ef9f-4b55-b36d-8786503e7395,Phishing,2025-04-10,Resolved,1
+889,637,767b6fc5-cb3b-4cbe-88a6-412744764bbc,Identity Theft,2024-10-05,Under Investigation,0
+890,637,e07f73f0-75a2-48ec-a73d-c66161420c75,Money Laundering,2024-10-06,Resolved,1
+891,637,1e7f9089-5193-4181-b56c-0c8f25a5b672,Card Fraud,2024-05-19,Under Investigation,0
+892,638,4ddfeda9-5ab3-428f-81e7-c993320c09b5,Card Fraud,2022-05-17,Resolved,1
+893,639,4b22dc02-945e-406d-8624-904d34f705c6,Card Fraud,2024-10-12,Under Investigation,0
+894,640,20195d9b-00b8-488a-84cb-273179ce27d7,Money Laundering,2024-05-23,Under Investigation,0
+895,641,94dc81d9-f8c0-4f4d-ac6f-3afb3fd83c28,Phishing,2025-03-22,Under Investigation,0
+896,642,1d07e14a-71a6-4a84-9d54-a4eca54b83ed,Account Takeover,2024-06-26,Under Investigation,0
+897,642,0a5eba68-a0a5-405e-8ae4-cd0850b32a27,Identity Theft,2024-08-27,Under Investigation,0
+898,643,f8b497b0-8522-4ef7-9572-bfdead3415ed,Money Laundering,2024-09-20,Resolved,1
+899,644,ee2a1ce0-0e0e-4482-a753-28d45b60b5c5,Identity Theft,2025-03-12,Under Investigation,0
+900,644,3dd05e5d-140c-4e30-bd70-c7b8245bc801,Identity Theft,2024-11-03,Under Investigation,0
+901,645,1f929a89-b3a5-4328-b852-1c6e33c2447c,Phishing,2025-05-13,Under Investigation,0
+902,645,0705ba68-05db-4740-a731-bdff6ecaacf0,Money Laundering,2025-05-13,Under Investigation,0
+903,645,c91a7558-04ae-445b-b01e-cd73a45743df,Account Takeover,2025-05-14,Resolved,1
+904,647,2bc3366c-6b3a-410f-ab7e-b4b57c24677a,Account Takeover,2024-02-09,Resolved,1
+905,649,239dce4e-ca2a-4218-871e-e1a25c40f9f4,Identity Theft,2024-06-29,Under Investigation,0
+906,649,d32ea47e-b85c-4df0-9512-baef6904dfe7,Card Fraud,2025-01-23,Under Investigation,0
+907,649,6fb13012-9cef-4b80-b0af-c0540c603d19,Account Takeover,2024-11-01,Under Investigation,0
+908,649,24293550-fc1c-4415-a636-04c06cfed600,Account Takeover,2025-05-13,Resolved,1
+909,649,b5737850-baf7-4ff2-8c00-1fce8423d9ae,Phishing,2025-05-14,Under Investigation,0
+910,651,44097581-25c0-4c12-862e-b5e1a2b10ac4,Account Takeover,2025-01-15,Resolved,1
+911,651,43833b3b-6f71-44a8-a6d7-bc25821a3f1a,Money Laundering,2024-11-04,Under Investigation,0
+912,654,234485c9-0f86-4967-8cec-f96eb1003b88,Card Fraud,2024-12-30,Under Investigation,0
+913,654,1fddfbca-5c25-4596-9a3d-71b2a6649cb3,Identity Theft,2025-04-28,Under Investigation,0
+914,654,32063429-054b-4df7-b13d-576d54f5d424,Money Laundering,2025-05-05,Under Investigation,0
+915,657,aec5cd01-468e-4a40-970d-32383b15ac79,Money Laundering,2023-07-11,Under Investigation,0
+916,657,317b511a-27d8-4c59-b5e6-7d845ef42066,Card Fraud,2024-11-11,Under Investigation,0
+917,657,d6274909-c064-4643-9e15-6d6241ba268f,Money Laundering,2024-07-01,Under Investigation,0
+918,657,e70e169d-1fd9-4392-9acc-23f38b0e5433,Account Takeover,2024-01-15,Resolved,1
+919,659,8a2df576-5563-4ce9-a1c4-fcbd3f9acd1d,Card Fraud,2025-04-04,Under Investigation,0
+920,659,94a65010-8922-47ae-a295-9be2d9ce7e80,Identity Theft,2025-05-10,Under Investigation,0
+921,659,04b98407-e31b-4588-be9e-34ad96418fdc,Account Takeover,2025-03-30,Under Investigation,0
+922,659,7dfdf298-8af4-4d4f-9813-c1070c07f58b,Card Fraud,2025-03-20,Resolved,1
+923,659,38ae7471-f711-4684-b3ee-c9a2fc8d22f0,Money Laundering,2025-04-04,Resolved,1
+924,660,bd666b81-38ce-4a45-ba56-9e97bcc01256,Account Takeover,2023-05-21,Resolved,1
+925,661,8dda04ca-8f75-4a67-8bee-c0cc777db1be,Phishing,2024-03-11,Under Investigation,0
+926,661,7659d85f-7ff8-4244-8696-a72e9beb01e2,Account Takeover,2023-11-08,Under Investigation,0
+927,663,8930d448-4224-4ab8-8854-9738f4233720,Card Fraud,2023-08-01,Under Investigation,0
+928,664,e46943e5-7924-4c8d-8999-6d3970824c2f,Money Laundering,2024-09-24,Under Investigation,0
+929,664,18380bf7-ca36-416f-b96d-9452665ee25d,Phishing,2024-09-03,Under Investigation,0
+930,664,80aeda8b-4f13-4db5-8bd1-c999e858f476,Money Laundering,2024-09-22,Under Investigation,0
+931,664,2253958a-3cd6-42b8-ba73-d874c881f0ea,Identity Theft,2024-06-16,Resolved,1
+932,665,091d3318-5346-4d69-9c17-0cd2cfc093bf,Card Fraud,2023-07-26,Resolved,1
+933,666,6ff8080c-fcbf-4063-a867-bdbc6b3ba6fd,Phishing,2025-02-23,Resolved,1
+934,666,c0f363df-37f4-4f8e-9700-155ee34c371c,Account Takeover,2024-12-09,Resolved,1
+935,667,810494b2-fa75-43b4-a754-5e37c3bd0781,Phishing,2024-03-16,Resolved,1
+936,667,567dcf43-8dc1-4028-a7d0-52d36e04ef89,Phishing,2023-12-17,Resolved,1
+937,670,f288375c-7422-406d-8451-506c1e43d2b9,Card Fraud,2025-03-25,Under Investigation,0
+938,671,2babfebf-bcb0-4896-afca-a7a838d6f731,Identity Theft,2025-02-24,Under Investigation,0
+939,672,dd0a4dc6-32fa-4c8b-a866-4a8d8e42bbb9,Identity Theft,2025-05-04,Under Investigation,0
+940,672,4e1c46b5-1a83-4e89-a053-d9f653af5bd7,Phishing,2024-12-11,Resolved,1
+941,672,4ab6a3c7-e5fe-4058-bcc3-1a5fb707dd52,Identity Theft,2025-03-03,Under Investigation,0
+942,672,abd451a1-5da0-485f-b5da-7e12b2aa4a72,Phishing,2025-04-28,Under Investigation,0
+943,673,268492fa-fbc2-4869-a655-ee28c7edbac4,Phishing,2023-10-22,Under Investigation,0
+944,673,4b912b68-2dec-4abc-b0d5-591984121a0a,Money Laundering,2023-03-29,Under Investigation,0
+945,673,e02272fd-52db-45a2-a15f-86188c9890ef,Money Laundering,2023-04-11,Resolved,1
+946,675,1c2907e2-0ac3-49a1-93c1-d9ef560965cd,Money Laundering,2024-10-09,Under Investigation,0
+947,675,2ea1502b-dbee-4682-89e1-a7989604fa47,Account Takeover,2024-06-05,Under Investigation,0
+948,676,3f4eddaf-6590-41e3-a9ef-314fd3a9b74b,Identity Theft,2024-11-29,Under Investigation,0
+949,676,74248d05-dd0a-4840-af5f-0984c827e5e5,Phishing,2024-12-22,Resolved,1
+950,676,0b1c42f5-04d3-43b3-96c3-f9e7dff253af,Money Laundering,2025-04-21,Under Investigation,0
+951,676,61232f48-4a42-4e87-81bd-6c4296fcbd04,Identity Theft,2025-03-10,Under Investigation,0
+952,679,0898ee3f-3471-4072-8000-d1aea9aef21b,Account Takeover,2024-06-07,Under Investigation,0
+953,680,6af435c1-e14b-4b17-a51e-cecb6fc8c870,Money Laundering,2025-02-16,Resolved,1
+954,680,c03155ed-1e14-4225-ab4c-8daec5027706,Money Laundering,2025-01-19,Under Investigation,0
+955,681,53c8755a-c967-476a-9abb-835edac6b9b2,Account Takeover,2024-12-04,Under Investigation,0
+956,683,2e9ec30a-fafa-4dd3-8bcd-00820716044b,Money Laundering,2025-04-29,Resolved,1
+957,683,7c83cbd2-5ebc-4c32-ae4f-60f0137ddf77,Phishing,2025-04-25,Resolved,1
+958,683,82e54033-39e7-4b92-ae69-41806c3a94d7,Account Takeover,2025-05-11,Under Investigation,0
+959,684,ba961e02-5814-4008-b871-9e162698444c,Card Fraud,2024-11-07,Under Investigation,0
+960,684,586875e7-9f73-45df-adf7-c92beceb509a,Account Takeover,2025-03-10,Under Investigation,0
+961,684,c657c2c6-a3ab-41f2-988b-25111072725f,Money Laundering,2025-05-03,Under Investigation,0
+962,685,2e7586ed-b37c-489d-9201-cdf519c9fc79,Money Laundering,2023-01-06,Resolved,1
+963,686,21e3fbb1-8776-4236-946e-1e0c5558a36b,Card Fraud,2024-09-06,Resolved,1
+964,686,4d0e202b-55d5-4364-87c7-3ac36d8f5f55,Money Laundering,2025-01-24,Under Investigation,0
+965,687,f3b91c1e-d271-435d-8743-2afdeabf533d,Account Takeover,2024-05-04,Resolved,1
+966,687,5e2b5f85-d18b-4840-ba09-79b9c78fd8a3,Identity Theft,2025-01-06,Under Investigation,0
+967,688,7efc4c13-1ead-4bcb-a276-96d3cbf3db54,Card Fraud,2025-01-23,Under Investigation,0
+968,689,3ea50cbe-6db1-4fe8-a9bb-5eefd0fc5d3f,Identity Theft,2025-02-20,Resolved,1
+969,690,048e78d9-8520-41cb-9950-a55c0c9e7f74,Card Fraud,2025-05-03,Resolved,1
+970,690,95aae501-e151-49cd-acc3-74ac8b7c2c42,Identity Theft,2025-05-01,Under Investigation,0
+971,690,a8a91cb6-1f6e-4e6f-89a6-36b77cf6c519,Money Laundering,2025-05-16,Under Investigation,0
+972,691,e5a473e9-9f14-4a17-ad3f-4610cc9f67e2,Account Takeover,2025-01-19,Under Investigation,0
+973,692,2cf06e4e-8cef-4509-9997-e3bf6b27ef81,Identity Theft,2025-03-13,Under Investigation,0
+974,693,7661a72f-f231-4e14-9063-059f53376222,Identity Theft,2025-03-19,Resolved,1
+975,693,b5e14537-ed21-40e4-9047-7898862836bc,Card Fraud,2025-04-06,Under Investigation,0
+976,693,681c6de4-ec9a-4f00-bf7a-92fe009df1ad,Card Fraud,2025-04-16,Resolved,1
+977,693,d4c0e304-f425-43e3-b451-81fceab151a6,Account Takeover,2025-04-14,Under Investigation,0
+978,695,3c94cdba-d02e-48e5-bfcc-52b77ccf1e0c,Identity Theft,2025-01-09,Under Investigation,0
+979,696,c81a9e4b-fe73-4752-8c28-7f94b0e5d8f8,Identity Theft,2024-12-27,Under Investigation,0
+980,696,659c00a2-4ad4-4881-95de-7bf93b8dbea2,Money Laundering,2025-02-21,Resolved,1
+981,698,fe4b34b8-d7b7-446b-a0a3-db313080f7a5,Account Takeover,2024-01-10,Under Investigation,0
+982,699,47535ee2-ca52-47a0-95c5-3282a2f634d3,Money Laundering,2024-12-30,Resolved,1
+983,699,10f981d8-d3a8-4059-bb4a-0bc08f37d31d,Card Fraud,2024-11-29,Under Investigation,0
+984,700,0e62ef79-7b78-4679-857d-f9db1124de6c,Identity Theft,2023-05-05,Resolved,1
+985,701,2c36591a-f9a8-446d-9d0d-c8641a4c033c,Phishing,2025-02-03,Under Investigation,0
+986,701,dcb2b40a-6c52-426f-8a41-2a2ad4447364,Money Laundering,2025-05-13,Resolved,1
+987,701,35bd7e62-5e0e-4a67-b100-3c41e1624189,Money Laundering,2025-04-06,Resolved,1
+988,705,acb39d70-bdd5-4559-934b-d296052b93af,Account Takeover,2025-05-13,Under Investigation,0
+989,705,70797a90-e792-440e-a40c-ccad17803db5,Phishing,2025-04-27,Under Investigation,0
+990,706,cad3e08f-f59b-47a7-b30f-26a01e4d6429,Phishing,2024-04-04,Under Investigation,0
+991,706,6d51fa0d-3fe9-4120-8f08-9ec9c0224399,Account Takeover,2025-04-19,Under Investigation,0
+992,706,42715b28-bc03-4009-be7a-208d659fa0ae,Account Takeover,2023-09-05,Resolved,1
+993,706,75470dbb-c86d-460c-b7ee-5f265bf12836,Card Fraud,2024-05-13,Under Investigation,0
+994,706,2b5640fb-f56d-4275-ac61-2d2abf5dde5c,Money Laundering,2023-12-27,Under Investigation,0
+995,707,497d5d60-4157-431b-afa7-1745cb1779c0,Identity Theft,2025-05-11,Resolved,1
+996,707,2fc6416c-267a-4599-9e16-55edb77633b2,Account Takeover,2025-05-12,Resolved,1
+997,707,e0b301d0-460b-416d-b464-eea33ee40035,Account Takeover,2025-05-11,Under Investigation,0
+998,709,5e91e527-e5af-4e6c-9eb4-8bd3115a5503,Card Fraud,2023-01-02,Under Investigation,0
+999,712,2a98e4ba-7241-451c-b64b-1c649f447955,Card Fraud,2024-11-30,Under Investigation,0
+1000,712,5ea06198-ce5a-409d-8ace-abc689fb3e33,Card Fraud,2025-05-05,Under Investigation,0
+1001,712,5c6d6ba7-8a21-4269-bb22-b3ba43800eb4,Phishing,2025-04-23,Under Investigation,0
+1002,716,c7ca5464-6d32-43b1-a05c-73d6a78dd5c6,Phishing,2022-05-08,Resolved,1
+1003,717,0973c7f6-e0cf-4c15-b79f-8a9240d6d6c0,Money Laundering,2025-01-19,Under Investigation,0
+1004,718,ba2a949d-5b4c-4d8c-b319-cf0e6f508911,Account Takeover,2025-04-24,Resolved,1
+1005,718,520ca8f4-abc3-4159-9d7c-645132b93605,Account Takeover,2025-05-05,Resolved,1
+1006,719,69b72050-3119-4d00-a478-68ea2dcf25fd,Identity Theft,2023-07-28,Under Investigation,0
+1007,719,344534b1-695c-438e-a435-72600884b601,Card Fraud,2021-12-30,Under Investigation,0
+1008,719,d83b87c6-72c9-4b41-bfa2-5af5bb90d38c,Money Laundering,2021-12-09,Under Investigation,0
+1009,721,bb338a24-b3f5-4990-b2bb-573f7ec3355f,Identity Theft,2025-02-19,Resolved,1
+1010,721,70784851-2c4d-4dc2-ac3f-cfabb7fc444f,Phishing,2025-05-13,Resolved,1
+1011,722,d8780586-8c73-420f-986e-653fe04399f2,Account Takeover,2025-05-02,Resolved,1
+1012,724,5ce4f65b-9ff3-48aa-a3ae-37b1a3789a1e,Phishing,2024-06-16,Under Investigation,0
+1013,724,eaf8b209-9556-4829-ac03-339d405dad8a,Phishing,2024-12-25,Under Investigation,0
+1014,725,c55aed43-e924-4a5e-9c78-4d64fe46a230,Money Laundering,2025-02-15,Resolved,1
+1015,725,6c310408-8a88-4e35-9c0a-d38abcb09644,Account Takeover,2025-04-01,Under Investigation,0
+1016,726,5b7140aa-0d45-4f29-97cd-a9d0278747dc,Phishing,2025-02-14,Under Investigation,0
+1017,726,9056b542-7bfc-4592-be72-bbcbc34733f1,Phishing,2024-06-10,Resolved,1
+1018,727,7ba09176-8df8-4428-be25-1e159d42110d,Identity Theft,2023-05-07,Under Investigation,0
+1019,727,dcd47a9a-7de4-43da-8a8a-2cfe2e94419d,Phishing,2024-08-24,Under Investigation,0
+1020,728,9492a0b5-4a85-4f68-9736-647f513eb1df,Phishing,2025-04-27,Under Investigation,0
+1021,728,972560ff-903a-4be4-9194-afa9b2a06980,Identity Theft,2025-04-02,Resolved,1
+1022,729,1f41ac04-787e-4a04-96e2-0f9b4af99a3e,Card Fraud,2024-06-09,Resolved,1
+1023,729,321d9ab6-0aaa-42ea-b432-24ba551bdff5,Money Laundering,2024-03-20,Under Investigation,0
+1024,730,a03d1eeb-dd5e-4d9e-bd3e-a1a6a8477b46,Account Takeover,2024-10-13,Under Investigation,0
+1025,730,eff454b7-5161-49c5-9a27-8b217937cc77,Account Takeover,2024-05-11,Under Investigation,0
+1026,733,8e24576d-70d8-4d82-98a0-2ba27fccabc9,Identity Theft,2025-02-13,Under Investigation,0
+1027,734,4dca383e-d4a2-46fd-a153-b680dec44c5b,Identity Theft,2024-08-09,Under Investigation,0
+1028,734,f1058846-fcfb-45ce-85af-d192b467603c,Card Fraud,2025-01-15,Resolved,1
+1029,735,cb712c4a-7bf8-4cf3-bbcb-cd5e6f53b776,Phishing,2025-03-06,Under Investigation,0
+1030,735,384aba9e-8180-4957-8ce5-bf83094296d0,Money Laundering,2025-05-03,Under Investigation,0
+1031,735,5ee4bfdc-406d-4107-ab45-8e11abff8567,Card Fraud,2025-04-03,Under Investigation,0
+1032,735,0472b4fa-da69-4fbe-9872-3bcd26fc3c1f,Card Fraud,2025-02-14,Resolved,1
+1033,736,0839e351-1b1e-40b0-bd57-124c3c116b5c,Phishing,2025-04-22,Resolved,1
+1034,737,af9f9f7d-e425-4f2e-8ec4-24f47e9e0a94,Money Laundering,2025-04-04,Under Investigation,0
+1035,739,93776771-0c13-480d-8e37-cc988ca91297,Card Fraud,2025-05-09,Resolved,1
+1036,739,936a02ee-05ad-41aa-a746-9b057b402548,Card Fraud,2025-04-17,Under Investigation,0
+1037,739,00c6db46-d75e-4c8c-8cf1-e0078ac084d3,Card Fraud,2025-04-26,Resolved,1
+1038,740,68d4797f-ddb3-42b1-90b0-e7092e9e1be1,Card Fraud,2024-11-05,Under Investigation,0
+1039,740,3f77338a-8b40-40dc-b8e5-b00e78968f50,Account Takeover,2023-10-17,Under Investigation,0
+1040,740,4a700316-493a-4ac2-9432-d0061fe9ed97,Card Fraud,2024-07-19,Resolved,1
+1041,741,0520606e-22d6-41ba-a6cb-43ff26c1de1e,Account Takeover,2025-03-31,Resolved,1
+1042,742,158a09a6-709f-4797-8b90-1bb262577996,Money Laundering,2025-02-20,Under Investigation,0
+1043,742,be19caf3-2acd-45b9-8f1d-a5005805ed2d,Card Fraud,2024-12-22,Under Investigation,0
+1044,743,bc33adc9-e8ab-4912-b7cb-c7785cc8d19d,Card Fraud,2023-01-14,Under Investigation,0
+1045,744,ed4c16bb-52ed-458c-a836-13e6b7fe0fd1,Money Laundering,2024-12-21,Under Investigation,0
+1046,744,c17ecb64-4ccf-4088-a462-913c5ae68722,Card Fraud,2024-12-28,Under Investigation,0
+1047,744,9f1eda9e-c6fb-42c3-9341-079a00d86675,Money Laundering,2024-10-17,Resolved,1
+1048,744,f7f55273-5e68-49b6-a867-d5cf0ed8508d,Phishing,2024-10-16,Resolved,1
+1049,744,f6c96597-8b5c-4e97-bca2-0757da682fd4,Phishing,2024-09-13,Resolved,1
+1050,744,cef67346-eba2-42f8-8d96-c3d8c0da289c,Identity Theft,2025-01-23,Under Investigation,0
+1051,748,1c1af567-6fce-46df-855a-e594da2b9966,Phishing,2024-03-29,Under Investigation,0
+1052,749,4c030e1b-70a5-4ae5-b912-f2a38a385f6d,Account Takeover,2025-05-06,Under Investigation,0
+1053,749,2a28bb71-3280-4c7a-88b4-ba649fc1a2e5,Account Takeover,2024-08-04,Resolved,1
+1054,751,7ed35a91-8e08-4ba2-95f3-c48c3e0e2d80,Money Laundering,2025-02-21,Resolved,1
+1055,753,c8263096-4283-4acf-8c12-c780feb77774,Identity Theft,2025-01-31,Under Investigation,0
+1056,753,65734a53-edae-4fa0-9967-e23dd69fdd7f,Money Laundering,2025-01-07,Resolved,1
+1057,753,b5e0aee0-c785-4b16-8882-8e8ba0b762ce,Account Takeover,2025-02-24,Under Investigation,0
+1058,754,8bd8f39d-60ac-46ed-828b-d6bd9314da01,Identity Theft,2025-05-15,Under Investigation,0
+1059,755,89e1c159-923c-401e-a7de-5aeedd30fecf,Card Fraud,2025-01-17,Under Investigation,0
+1060,756,09a372b4-a7ca-4003-8094-71e7e46f519e,Money Laundering,2025-01-21,Resolved,1
+1061,756,995e9bdb-40ac-4b80-abc4-c7ecd9059c6f,Card Fraud,2024-07-01,Under Investigation,0
+1062,757,72cb5acd-7034-452f-be51-61562960d6fc,Phishing,2025-02-13,Under Investigation,0
+1063,758,c2aabb33-372e-4df5-b47e-b608ddf965d5,Account Takeover,2024-11-01,Resolved,1
+1064,758,78188ea1-b621-43a9-abd9-8bc7fee9ae08,Phishing,2024-01-08,Under Investigation,0
+1065,758,2d95f65c-6d74-47cd-ad34-39cde770ed37,Money Laundering,2024-11-29,Resolved,1
+1066,761,65a12094-1e43-4fbc-800a-d8bffc43dc94,Money Laundering,2023-12-27,Under Investigation,0
+1067,761,bdc58c6f-596e-475a-bcc1-fa25a7115d63,Identity Theft,2023-10-18,Under Investigation,0
+1068,761,d4b5d59b-60c4-4b78-8792-593387a35a0a,Card Fraud,2024-02-06,Resolved,1
+1069,762,10a5c3ce-c353-4c2a-8132-582986dd46ac,Money Laundering,2025-01-24,Under Investigation,0
+1070,763,a24797aa-88ad-4355-bd92-8f619f96d2bf,Identity Theft,2025-04-30,Resolved,1
+1071,763,17442c7f-8e03-4182-8fdd-14ba2584d642,Phishing,2025-04-13,Under Investigation,0
+1072,763,df5046f0-f38e-4602-94ce-1a141077f635,Identity Theft,2025-04-23,Resolved,1
+1073,764,b8770afc-d371-45e6-b537-ac4b25f00e66,Account Takeover,2024-12-21,Under Investigation,0
+1074,764,2b58b9dc-91e9-4e63-8982-cbe9396d95ba,Identity Theft,2024-12-29,Under Investigation,0
+1075,764,b982324a-d1c5-43c4-8162-65bc7493cfa9,Identity Theft,2025-05-07,Under Investigation,0
+1076,768,8502a58b-3d38-49eb-8d05-9c04c39b499a,Card Fraud,2025-02-24,Resolved,1
+1077,769,3c46fb00-e158-4aa5-892a-91be942dfa34,Card Fraud,2023-11-19,Under Investigation,0
+1078,769,321db574-5a4a-4ed5-b9e5-dc0e2a9a1693,Money Laundering,2024-02-02,Under Investigation,0
+1079,769,e61ab479-fac0-40b5-9468-6bbdc69cdcec,Identity Theft,2023-04-23,Under Investigation,0
+1080,773,dd37bd11-0be8-4db6-ae2b-5222aa107ea8,Identity Theft,2024-12-08,Resolved,1
+1081,774,ecacea9f-0a32-4c66-9fb9-5a32cdc16f65,Money Laundering,2025-05-13,Resolved,1
+1082,776,83570cb5-2223-4314-adf0-42edd9bb35fc,Account Takeover,2025-05-14,Under Investigation,0
+1083,776,613e83f6-624c-4fec-b650-f5d2390e8337,Card Fraud,2025-05-10,Under Investigation,0
+1084,776,4c17fc43-441e-4e32-a651-4ad5c38eafe2,Money Laundering,2025-05-12,Resolved,1
+1085,778,2ef3e6a1-39e0-4549-83f3-0d1d0bc838ca,Card Fraud,2025-05-05,Under Investigation,0
+1086,778,70c70379-1aec-4a20-a7ab-6a8a32626c1a,Account Takeover,2025-04-18,Resolved,1
+1087,779,bc1bafae-4cbd-46c1-8349-a2a89590a902,Phishing,2025-03-29,Resolved,1
+1088,780,fd496b90-5c4b-469d-bb67-0878196f1815,Identity Theft,2025-04-06,Resolved,1
+1089,783,147d1502-2c01-47ee-bc75-491b895e62da,Card Fraud,2025-03-13,Resolved,1
+1090,783,b5a4917d-5beb-4d80-b525-05bea6f202e9,Account Takeover,2024-09-21,Under Investigation,0
+1091,783,5ffb372f-cafc-43bc-8452-13c0111c96ad,Card Fraud,2024-10-13,Under Investigation,0
+1092,785,5615f362-a6e0-4a61-9659-70cf9bf7c98c,Phishing,2025-03-30,Under Investigation,0
+1093,786,6b6b9dc6-31ad-4b31-937a-8b8a258b1273,Identity Theft,2025-05-09,Under Investigation,0
+1094,786,73c6bc41-0e56-429a-abe3-fa6a52ce82ae,Account Takeover,2025-01-10,Resolved,1
+1095,786,19fdb771-c9d6-4663-b588-3bd39581b6bf,Phishing,2024-10-16,Resolved,1
+1096,786,e82c3b91-24e4-4874-87f1-398679831325,Account Takeover,2025-02-28,Resolved,1
+1097,787,6f74906c-c570-450b-8a53-9485acbe0465,Identity Theft,2025-01-25,Resolved,1
+1098,787,2f82943b-acaf-4cbf-8c3e-e80580f5736f,Identity Theft,2025-04-17,Under Investigation,0
+1099,787,9fb3eb47-df8b-41fc-8d4f-7298e03f423c,Account Takeover,2025-05-10,Under Investigation,0
+1100,788,6738c64a-d9f7-45dd-bf5a-9d64099a9e4c,Card Fraud,2024-12-10,Resolved,1
+1101,788,0ac24fcc-a336-479e-bb9d-585efcc6c42c,Account Takeover,2025-03-15,Resolved,1
+1102,789,df9da630-1cc2-48a3-bb9f-56aef87db997,Phishing,2024-07-16,Under Investigation,0
+1103,789,f35e162f-9475-4055-b093-e3a5e00a0963,Money Laundering,2024-12-06,Under Investigation,0
+1104,790,cf428e3d-e2ac-4eeb-b127-7991db540544,Card Fraud,2024-03-03,Under Investigation,0
+1105,791,91111580-bbd8-43ec-a8d4-b37dfb59c23f,Account Takeover,2025-05-09,Resolved,1
+1106,793,8650bd96-339b-4ad7-a595-8c9ece9b8bc7,Phishing,2024-01-12,Under Investigation,0
+1107,793,177db489-8546-4cc5-b9a1-a59da0548c1b,Money Laundering,2025-01-31,Under Investigation,0
+1108,793,b933d296-baa4-4bc9-88fa-3ed494933bcf,Card Fraud,2024-06-04,Under Investigation,0
+1109,794,b7628274-f560-41fe-9fb6-a6e465d22978,Card Fraud,2023-06-13,Under Investigation,0
+1110,795,387d0f74-6c27-4158-9450-edf97729fb0f,Money Laundering,2024-10-25,Under Investigation,0
+1111,796,cd101339-b877-4f4f-8c02-751210da1f26,Identity Theft,2024-02-24,Under Investigation,0
+1112,796,6567ade0-7d20-4156-8965-9274d4cfa309,Money Laundering,2024-11-24,Under Investigation,0
+1113,796,25b8e20a-deb6-4542-8e3e-720ae2fd33f1,Phishing,2024-05-21,Under Investigation,0
+1114,796,fe3e537a-2244-431d-98c3-9a9a7d78de5b,Account Takeover,2024-09-17,Resolved,1
+1115,798,e60764ed-a747-4b82-9a9f-196fcbdf6921,Money Laundering,2025-03-05,Resolved,1
+1116,798,56c84e5d-b9d1-4444-8b68-acc198d61e1c,Account Takeover,2024-08-27,Resolved,1
+1117,798,3393ffd3-a2b3-45b2-a7cf-1a698e2dbda5,Phishing,2022-08-26,Resolved,1
+1118,798,570b2a07-f287-4c32-9477-be7155f2b5e6,Account Takeover,2023-11-30,Resolved,1
+1119,798,e046551e-82dc-4e47-940f-29c6a6ba0ef2,Identity Theft,2025-04-06,Resolved,1
+1120,798,076bd6dc-726d-448e-9bd4-5da2776f019b,Money Laundering,2025-04-10,Resolved,1
+1121,798,11d201b6-67c2-4752-9527-cc8afd0c5091,Card Fraud,2025-04-10,Under Investigation,0
+1122,802,e3b5e55f-e54e-46bc-8fb4-91f8a1ff15ca,Identity Theft,2024-10-20,Resolved,1
+1123,802,8c292ea9-f7ce-4508-8e3c-7b2ce472dc09,Phishing,2025-02-07,Under Investigation,0
+1124,802,ca3d74a2-217d-4ed1-9e46-298a35d515a2,Phishing,2025-04-29,Under Investigation,0
+1125,803,9b8c62f1-1406-4423-9cbd-9196e17cfd74,Account Takeover,2023-11-05,Resolved,1
+1126,803,d35cec91-e0fa-46c5-80ae-e8ad8225e41c,Phishing,2025-02-07,Resolved,1
+1127,804,9f37a47c-3ebf-46b8-b36e-ecd13b196448,Account Takeover,2023-03-02,Resolved,1
+1128,805,1d06023b-3c92-42d1-bd4d-764de06a7cc0,Card Fraud,2025-03-13,Under Investigation,0
+1129,805,cb1e034d-52b2-4bc8-b3e9-8b287de88660,Account Takeover,2025-03-29,Under Investigation,0
+1130,806,47c151ff-92f6-48cd-9b41-7000bbe3e60a,Account Takeover,2023-11-20,Under Investigation,0
+1131,807,6c3d8fe8-fd7c-4cb2-82e0-adf33ddf39f6,Card Fraud,2024-11-30,Under Investigation,0
+1132,807,9446df9d-f410-4aca-8308-ee84dc4c234a,Identity Theft,2025-01-29,Resolved,1
+1133,808,efdfa046-ef2b-422b-97be-bf2c1b42a2bd,Card Fraud,2025-01-26,Under Investigation,0
+1134,808,c79bf76e-2a38-42af-833a-00ed1dee00f2,Phishing,2024-08-10,Under Investigation,0
+1135,809,562e1726-7c4e-4d32-b40e-38aaef56c7ff,Account Takeover,2023-05-19,Under Investigation,0
+1136,809,7ea9159a-7c7d-4550-936f-aa3b70567a05,Identity Theft,2024-02-13,Resolved,1
+1137,809,ded04d35-e9f6-46d4-a4e8-71d01f087970,Money Laundering,2023-11-04,Resolved,1
+1138,810,77ee4406-3c98-4cbf-a3d5-ac3dcb8f82a0,Account Takeover,2024-08-24,Under Investigation,0
+1139,811,9964b125-1861-4cfe-b41e-61edc437003a,Card Fraud,2025-05-09,Resolved,1
+1140,815,2ddedd48-0d0c-4daa-a3e7-ad94234a2e66,Account Takeover,2025-01-28,Under Investigation,0
+1141,815,7d357242-920c-418f-86eb-eb3dbbc9b820,Phishing,2024-06-18,Under Investigation,0
+1142,816,fdef9fab-29e8-4167-8b19-4407cd2fe77b,Phishing,2024-07-13,Under Investigation,0
+1143,816,f369528c-048a-494a-adf7-f7947078d585,Account Takeover,2025-03-14,Resolved,1
+1144,817,bf723f85-e59a-4cdb-acde-5f0ea09566ae,Account Takeover,2025-05-15,Under Investigation,0
+1145,818,24393b2c-7f0c-43bf-b89d-bb03f82854f8,Phishing,2025-04-03,Under Investigation,0
+1146,818,77cf3226-51b5-4932-ad9f-48f65ac859e4,Identity Theft,2025-04-16,Under Investigation,0
+1147,818,4c1917c3-8e54-496e-ac45-a18f8d332c40,Phishing,2025-05-01,Resolved,1
+1148,818,b301cf5c-1e17-4cd1-b81e-97560a9e5e40,Account Takeover,2025-04-08,Under Investigation,0
+1149,819,63e824fd-d24d-4517-88cf-2e58c2de9d6a,Card Fraud,2025-04-28,Under Investigation,0
+1150,819,62a9d6de-0c82-4164-9a4b-490dd338ca33,Money Laundering,2025-03-22,Under Investigation,0
+1151,819,89a581a3-dd05-413f-81a1-1a411a896e09,Card Fraud,2025-02-04,Under Investigation,0
+1152,819,3c44066b-481c-465e-b183-63af0ba21761,Phishing,2023-04-04,Resolved,1
+1153,821,2d642650-d5cd-414a-905a-62cd44c496dd,Money Laundering,2025-01-22,Under Investigation,0
+1154,822,bd29c93f-d33f-4373-b350-b96b832c20ed,Account Takeover,2023-02-03,Resolved,1
+1155,823,04b88165-78ae-4fc7-8c2d-a0ba182ea340,Card Fraud,2025-03-02,Under Investigation,0
+1156,823,1d47e593-3cf6-4d77-a273-702391851533,Account Takeover,2024-12-06,Under Investigation,0
+1157,823,5fea20a9-df58-476d-b87d-54e31f52a518,Account Takeover,2025-03-06,Under Investigation,0
+1158,823,57758b99-a0a8-488a-9107-29ee83435666,Phishing,2025-04-03,Under Investigation,0
+1159,825,49ff3f56-5556-43be-93f8-ef7f20ac43e1,Phishing,2025-04-11,Under Investigation,0
+1160,826,926b43e7-f3c4-45f2-84a5-4918b4b50215,Account Takeover,2025-04-29,Under Investigation,0
+1161,826,d43d772b-4620-4c08-a749-6ddfe1108c69,Account Takeover,2025-04-01,Under Investigation,0
+1162,827,0ceaa6d9-f946-44e8-a824-7f09840b7acd,Phishing,2025-04-17,Under Investigation,0
+1163,827,2df51798-e383-44df-8edc-d9e4483a3349,Phishing,2025-05-04,Under Investigation,0
+1164,828,6e255365-e6c5-42ee-ae03-b766c98bd6ed,Card Fraud,2024-01-02,Resolved,1
+1165,828,5169a7eb-ec7f-4c57-92ea-a4e743e6fda3,Card Fraud,2025-02-01,Resolved,1
+1166,829,c4b4eef2-3967-4ce2-a37d-b09f967ba5e5,Money Laundering,2025-04-09,Resolved,1
+1167,829,374bfa54-8bc6-43be-a131-6b39a105c74c,Identity Theft,2025-04-09,Resolved,1
+1168,830,cc3376ea-ce6c-4a7d-a6de-97fde6051a25,Money Laundering,2024-12-23,Under Investigation,0
+1169,831,952e30ee-cfca-4eba-9f54-f8cb5913e6a9,Card Fraud,2024-10-28,Under Investigation,0
+1170,831,1d55d064-ba66-4462-bf3a-13d33b9bd89d,Phishing,2025-01-12,Under Investigation,0
+1171,832,25f582b4-a8c0-4c34-95cf-b45c72de565f,Account Takeover,2024-06-10,Resolved,1
+1172,834,d0a1533c-2c1c-45b7-8a59-c2c83c942d54,Account Takeover,2023-03-15,Under Investigation,0
+1173,834,c6bc9334-dea4-47d2-931c-7b5809531d10,Phishing,2023-02-06,Under Investigation,0
+1174,836,814a5951-d5c5-439c-9358-7c5bc80c0ad4,Phishing,2024-06-11,Under Investigation,0
+1175,836,65fc566c-0056-4a21-8726-7f206d193cc9,Money Laundering,2023-09-21,Under Investigation,0
+1176,836,428ad6ff-e0a3-462f-b210-eea286faa1c9,Card Fraud,2025-02-26,Resolved,1
+1177,837,14418c24-c7b8-4635-b2e5-9b3a2cf78e10,Money Laundering,2025-04-16,Under Investigation,0
+1178,838,088a0295-a37a-44ad-8709-3b608b14cce4,Phishing,2023-01-30,Under Investigation,0
+1179,839,25f4b744-679f-4ea9-9afd-5bd102508829,Card Fraud,2023-04-20,Under Investigation,0
+1180,839,8b80f141-060a-4f75-aabb-8b1d2b1cd116,Identity Theft,2024-10-11,Under Investigation,0
+1181,841,3520b46d-7a31-48d4-81c0-506926bc9909,Card Fraud,2025-05-14,Under Investigation,0
+1182,841,b27b86d7-3174-47d0-80c9-85bd5d2fa7ae,Identity Theft,2025-05-14,Under Investigation,0
+1183,841,ad9f39ea-cb88-431f-a0ec-80a7cc0f7e37,Identity Theft,2025-05-16,Under Investigation,0
+1184,842,18fd251a-ae6f-457b-ac66-a647476bc2ec,Account Takeover,2025-01-01,Under Investigation,0
+1185,843,756b2656-2887-463e-9473-79bbd51c1580,Card Fraud,2025-04-26,Resolved,1
+1186,843,a0f47f4a-8441-41e4-a468-abb264e89a31,Card Fraud,2025-04-20,Resolved,1
+1187,843,6c82a88b-4968-4933-91b9-dd2fe9a30ad0,Phishing,2025-04-13,Resolved,1
+1188,844,1da485c6-c9c3-4a5c-bc82-d3f90a434a77,Card Fraud,2024-10-19,Resolved,1
+1189,845,0d8eedd3-1bc8-4b44-93a8-3d302d7ca0b3,Identity Theft,2025-01-17,Under Investigation,0
+1190,847,a628d226-487d-4bb1-b3b2-1ca53e1f6fe0,Card Fraud,2025-05-01,Resolved,1
+1191,848,97fd0bbe-c305-4538-8bbd-10de78fe334a,Identity Theft,2025-03-19,Under Investigation,0
+1192,848,2c12311f-64e2-4f67-bec8-fe34b9933c32,Phishing,2025-03-25,Under Investigation,0
+1193,848,de5ea783-3f22-4f27-8842-301f7d894a0a,Identity Theft,2023-12-17,Under Investigation,0
+1194,850,6a561dbe-1f8a-401c-9e7e-2eb81a96e550,Account Takeover,2025-04-01,Under Investigation,0
+1195,850,e517101f-1bfb-4565-ab7e-2736129243b0,Phishing,2025-04-02,Resolved,1
+1196,852,1c093f87-b5f5-4438-b5d8-ad371ef044f4,Money Laundering,2025-04-19,Under Investigation,0
+1197,852,ad3f9e74-8cc2-4030-b669-82ff2bbda995,Card Fraud,2025-04-19,Resolved,1
+1198,852,508fd152-eb4d-4bea-8e36-ef0b670cd973,Identity Theft,2025-04-22,Resolved,1
+1199,855,14882b76-d1aa-4480-a9e8-9030075028b4,Card Fraud,2024-10-05,Resolved,1
+1200,855,71d8e918-cdda-4642-83ae-83a85e957afd,Identity Theft,2024-10-17,Resolved,1
+1201,857,e9e115fe-4796-4b40-b86d-ad157f73453d,Phishing,2024-03-13,Under Investigation,0
+1202,857,d8bb6c34-40ac-4e49-ba27-cfe76ee498a1,Phishing,2024-08-22,Under Investigation,0
+1203,859,65a8f122-8015-459f-b7b0-f17f257e2228,Card Fraud,2024-09-03,Under Investigation,0
+1204,859,6da842f9-a50d-4797-8f4e-9cd567c890b5,Identity Theft,2024-10-11,Under Investigation,0
+1205,861,3466853e-8cdd-4ebd-9370-a43f829a4c4b,Account Takeover,2024-11-17,Resolved,1
+1206,862,5d8dc101-6e31-47c3-9fd1-b6b0b84e903f,Account Takeover,2025-02-24,Resolved,1
+1207,862,eeafc999-5cd2-4624-8810-8f53209f61fe,Account Takeover,2025-01-20,Under Investigation,0
+1208,863,8a070011-6753-4549-a513-357e2d8d42fd,Phishing,2022-04-12,Resolved,1
+1209,863,7d59b206-fdd7-4540-80fe-d0f90e51e455,Account Takeover,2022-06-15,Resolved,1
+1210,863,37869a28-d78e-4450-b697-987acec63d3e,Account Takeover,2024-03-25,Resolved,1
+1211,864,b5485627-d6f5-44a6-846e-cdc7703cdd2b,Account Takeover,2024-03-07,Under Investigation,0
+1212,865,22434067-31b1-4e6d-822c-58fc3d3544b2,Money Laundering,2025-04-02,Under Investigation,0
+1213,865,fd0b18c9-6273-44eb-ba67-d3c22fe0cd56,Identity Theft,2023-02-05,Resolved,1
+1214,866,7776c23b-e34f-4c7a-83b9-19cac86d064e,Identity Theft,2024-08-06,Resolved,1
+1215,866,e630230f-141b-44aa-99d3-39d2b5c6eccc,Phishing,2024-11-28,Under Investigation,0
+1216,866,09fe3c32-2423-4a9a-8c70-f8140f960e4e,Phishing,2025-03-07,Under Investigation,0
+1217,867,4d010ac8-47cc-49b8-b50b-b8a0767e6a50,Phishing,2025-05-11,Under Investigation,0
+1218,867,751477b5-8bb0-416a-9eb6-c18090ba70d5,Card Fraud,2025-05-15,Under Investigation,0
+1219,868,25449c0f-99d2-47fc-8dd6-6ab9e60278d9,Money Laundering,2025-05-12,Resolved,1
+1220,868,b490be66-d54d-4493-aef0-a6a122db3107,Identity Theft,2025-01-10,Under Investigation,0
+1221,869,35aa5892-fab2-4af2-a3fb-9ccfcc724f03,Account Takeover,2022-10-01,Resolved,1
+1222,871,59490a86-a879-4073-9d0c-96771dfe0ab6,Card Fraud,2025-05-16,Under Investigation,0
+1223,875,629ad4fa-4d6c-44b8-aa98-2fabd2e84505,Account Takeover,2023-12-04,Under Investigation,0
+1224,877,54cf498b-360e-4ac8-91d3-9ecf8f8ea937,Identity Theft,2023-03-23,Resolved,1
+1225,879,666f04ac-d32f-40a0-ab38-2cb764ae11c8,Account Takeover,2023-09-20,Under Investigation,0
+1226,879,a77f34f6-1273-4c1b-857f-b76e022e2817,Money Laundering,2022-11-21,Resolved,1
+1227,880,34f774be-7a89-4f3c-8b36-f8a982f2254b,Identity Theft,2025-05-03,Under Investigation,0
+1228,882,40748690-3d5a-4ed7-9f97-ee239c911d76,Card Fraud,2024-01-04,Under Investigation,0
+1229,882,d5160181-1d0b-428f-978a-38175ae3d259,Phishing,2024-07-04,Under Investigation,0
+1230,882,a34e6d38-3266-4b2a-acd5-a869d986d3e5,Phishing,2025-04-04,Under Investigation,0
+1231,884,170d24b1-6309-4707-a188-b8e2e2b27b06,Phishing,2024-09-26,Under Investigation,0
+1232,885,cb5dd7ea-161e-4256-9797-ea3cd01598a2,Money Laundering,2024-07-13,Under Investigation,0
+1233,886,65a65b84-f77f-43bd-8f75-b76e108c859f,Money Laundering,2025-03-05,Under Investigation,0
+1234,887,1c439870-df97-4a80-84d3-e3cf72dda4ea,Card Fraud,2025-01-29,Under Investigation,0
+1235,888,bd0d985e-6ea1-4d6d-a60c-989640fd331b,Money Laundering,2025-05-15,Resolved,1
+1236,888,8ae5e0ea-4f6d-4271-9b8e-9b7b71268650,Card Fraud,2024-05-29,Resolved,1
+1237,888,cc7d4f9a-71dc-4f83-8865-ac1ed7f9c051,Identity Theft,2024-11-28,Under Investigation,0
+1238,890,214780ec-e0b5-4b00-a8a7-2a5e9d100447,Money Laundering,2025-03-22,Resolved,1
+1239,892,149940a9-9075-4521-a049-af14e066d1b4,Account Takeover,2025-05-15,Resolved,1
+1240,892,855f64f2-88f4-476e-b9e6-4cb08eff4b07,Phishing,2025-05-15,Under Investigation,0
+1241,892,ee78148e-836d-44fe-beea-feb3e1d2a98f,Phishing,2025-05-07,Under Investigation,0
+1242,893,a27237ac-fe37-4d75-9d91-fd4b882c0e0c,Card Fraud,2023-11-06,Resolved,1
+1243,894,6327cc18-4ef8-43d9-a68d-613fbf66efe3,Account Takeover,2024-10-24,Under Investigation,0
+1244,896,2db14996-4262-42f7-add6-6870dc6092b1,Account Takeover,2024-11-02,Under Investigation,0
+1245,896,e8d4e208-ce1d-4f54-93d8-fb98ffe92b8b,Money Laundering,2024-08-27,Resolved,1
+1246,896,0017ff31-5a39-4148-9074-242edc131b7a,Identity Theft,2024-03-09,Under Investigation,0
+1247,898,ff462342-e3f4-4af9-b0aa-23e890d3b90d,Account Takeover,2024-12-07,Under Investigation,0
+1248,898,3eb69e7d-84ee-4eee-b59c-4b0708a1ee17,Card Fraud,2024-09-10,Resolved,1
+1249,899,4df18d35-e7c8-40c4-9cbd-29c2f6dadc97,Identity Theft,2025-04-16,Resolved,1
+1250,899,4f1b6116-8357-4d51-97d6-7bf381841166,Phishing,2024-08-26,Resolved,1
+1251,902,07c3748a-368f-4bc2-91e3-b280099a55bb,Card Fraud,2023-10-26,Under Investigation,0
+1252,902,cf233605-2526-498d-8a8d-e82fa46c23d8,Account Takeover,2024-02-05,Under Investigation,0
+1253,902,8b008ca1-0e12-4567-88d2-e1e35fff8d72,Card Fraud,2024-04-28,Under Investigation,0
+1254,903,a2a3e8a8-ae21-4e77-9440-7ea53c97b452,Account Takeover,2025-04-26,Under Investigation,0
+1255,903,c9346a00-d394-4dc5-9787-7d32cdb424b1,Identity Theft,2025-05-03,Resolved,1
+1256,903,9a81efc8-5a2f-42ad-93a6-ac2379667d85,Phishing,2025-04-09,Under Investigation,0
+1257,905,78602f3e-9b35-44dc-aaea-f09dfcbe3075,Account Takeover,2024-11-21,Under Investigation,0
+1258,905,f569b1a9-2e57-48b9-adec-24859c9f8d34,Money Laundering,2025-04-02,Resolved,1
+1259,905,086acf1e-f53d-4df8-b25f-2ee0bf1dd9d5,Card Fraud,2025-03-13,Under Investigation,0
+1260,906,2aaf872b-f74f-4b4a-afe3-c9b2790b1e38,Phishing,2025-03-24,Resolved,1
+1261,909,c9e20a89-b36f-47b1-9d19-03166f1bd8ff,Identity Theft,2024-08-12,Under Investigation,0
+1262,909,d14ebe0a-d393-4b84-8ebe-fb114c864348,Account Takeover,2024-01-08,Under Investigation,0
+1263,910,8ce840f1-786c-42d8-9f25-e65e62c0fd4e,Phishing,2023-02-06,Under Investigation,0
+1264,910,2133254d-07f9-4986-a0cd-1d973b015889,Phishing,2023-12-11,Under Investigation,0
+1265,910,18f2aa7e-ced4-42a7-9917-6f1cd836e684,Account Takeover,2024-02-22,Resolved,1
+1266,911,87fe68ee-3e50-4549-aaf4-e5d53a22888e,Card Fraud,2025-05-15,Resolved,1
+1267,911,8fd3dd39-9aae-4d27-aa81-6cb3b5a201b1,Phishing,2025-05-15,Under Investigation,0
+1268,911,67dfffe4-dd5a-4da2-af3a-bc08ca697c0e,Account Takeover,2025-05-15,Resolved,1
+1269,914,934cff1b-1e16-4dbc-88de-ce79edc8e189,Money Laundering,2023-03-13,Under Investigation,0
+1270,915,f96a2009-a05a-403b-811d-e2147d3c0af5,Account Takeover,2025-04-15,Under Investigation,0
+1271,916,677d9adf-994e-4924-9426-cf1dc44215e6,Identity Theft,2023-11-18,Resolved,1
+1272,916,cfa5edd2-4f9d-4e71-960f-0304a516f9a6,Money Laundering,2025-02-03,Resolved,1
+1273,917,c0172b0f-91fa-4fb0-b58d-76246c379383,Identity Theft,2025-01-22,Under Investigation,0
+1274,919,c1b2bc98-e6e2-4862-9d14-f0b1d9b682b4,Identity Theft,2024-11-29,Under Investigation,0
+1275,919,a5772924-8ae8-4ea3-8a6e-e6aed9aa89b3,Money Laundering,2024-02-01,Under Investigation,0
+1276,920,5f772c28-57a5-4d53-aa9b-aaa84f3074c7,Account Takeover,2024-07-23,Resolved,1
+1277,920,b27713c0-1fc6-46bd-a858-5ebcf848d7b8,Identity Theft,2023-08-10,Resolved,1
+1278,921,44164482-59fd-47db-8ac7-58c7313b27c2,Phishing,2025-04-16,Under Investigation,0
+1279,921,614d6852-d8de-4f30-a2cd-491658a8f87d,Card Fraud,2025-05-01,Under Investigation,0
+1280,921,900613e3-411b-47da-8290-fc2aae949717,Account Takeover,2025-05-05,Resolved,1
+1281,921,9175c416-2dd7-43b6-801f-8bb030cae4b7,Phishing,2025-04-11,Resolved,1
+1282,923,6cc108da-3ff8-4ee3-a633-b34c8a8b5960,Identity Theft,2024-12-24,Under Investigation,0
+1283,923,60bda2cb-42df-4bc6-9408-ec276d92ea8b,Card Fraud,2025-03-12,Under Investigation,0
+1284,924,e8e03692-5f7f-4e11-802e-61b29ea28339,Account Takeover,2025-04-22,Under Investigation,0
+1285,924,49bbdaf1-6a11-4f23-aa91-e5afa3456b62,Card Fraud,2024-09-02,Resolved,1
+1286,925,79e6db8b-ba08-47e2-920e-30cac7e76c4e,Identity Theft,2025-04-02,Under Investigation,0
+1287,925,cfb38ca7-3e06-430e-ab5d-0fa7618b4037,Phishing,2025-04-21,Resolved,1
+1288,926,23ac9542-2537-4f66-a1d6-83579293f4aa,Money Laundering,2023-08-17,Under Investigation,0
+1289,926,5117c2c8-af4a-4fe0-9bfa-c9828e8968e0,Account Takeover,2024-09-11,Under Investigation,0
+1290,927,79ce261a-f788-48e1-8abe-ca2122111e73,Card Fraud,2023-03-17,Resolved,1
+1291,928,c474961c-b0fd-4670-a9b2-d2355184d3ec,Account Takeover,2025-04-28,Under Investigation,0
+1292,928,61555b2a-c464-4636-a357-2c454ebe5a2c,Identity Theft,2025-05-11,Under Investigation,0
+1293,928,0fed85dd-40af-453a-8066-ae7e4bfb69f3,Phishing,2025-05-10,Under Investigation,0
+1294,928,77f15cf7-60e6-4f54-b621-dc672fb2427e,Money Laundering,2025-05-07,Resolved,1
+1295,932,e9b36a62-a67b-4e5d-86ca-ad4ae46e22ff,Money Laundering,2025-04-09,Under Investigation,0
+1296,932,fbb1a597-4f9f-4dfe-9ceb-008188ae9b08,Phishing,2025-02-04,Resolved,1
+1297,933,ab56ad6c-453b-4ba9-a196-d1d84cb38bd9,Card Fraud,2025-05-06,Resolved,1
+1298,934,01ddc64c-4aba-4724-bec7-80ebf608866a,Card Fraud,2025-05-08,Resolved,1
+1299,934,76717ad6-16ad-4f84-90bf-e0025dd023cd,Card Fraud,2025-05-09,Resolved,1
+1300,936,e032cd5c-dc20-4eba-8038-55a355e7cc69,Card Fraud,2023-11-20,Under Investigation,0
+1301,936,c542ab4c-0073-4045-8a97-cc6fe38d69b8,Identity Theft,2023-01-20,Under Investigation,0
+1302,938,85793472-3a8e-4ff5-8bd1-538c3647cd84,Money Laundering,2024-10-01,Resolved,1
+1303,938,8c35d6a8-08e0-49b1-a6c8-2bebd4548ca4,Money Laundering,2025-04-26,Resolved,1
+1304,939,3fa93f5c-d424-44d2-a754-be766adf41cf,Account Takeover,2025-05-16,Under Investigation,0
+1305,939,c1b011c5-015a-4b06-8592-fafcf7bb9fc4,Phishing,2025-05-14,Resolved,1
+1306,939,97e8cbbf-82ab-48b7-8cb7-dba068555b59,Phishing,2025-05-13,Resolved,1
+1307,939,1dfee37d-fbd7-40b2-9c0d-eb2d59a7157f,Identity Theft,2025-03-16,Under Investigation,0
+1308,939,42c47358-2346-4f45-8770-65b704d20cfa,Account Takeover,2025-03-11,Under Investigation,0
+1309,941,9a0d298f-7fb3-4b7f-a639-78e5f2141168,Card Fraud,2025-01-17,Resolved,1
+1310,941,3941eaec-d44a-4516-86cd-db5d183a09cc,Phishing,2025-02-09,Resolved,1
+1311,941,20b1a292-00bd-4ea8-92c5-e7332fe01cf2,Card Fraud,2025-04-03,Under Investigation,0
+1312,944,642d9713-6a32-4961-b934-b583ced75961,Phishing,2025-05-08,Under Investigation,0
+1313,944,e22c23b3-6c4f-4f8a-9fb6-7f452df8239b,Money Laundering,2025-04-14,Under Investigation,0
+1314,945,eefcf9b7-b45a-423d-931a-f194f1008834,Identity Theft,2024-09-06,Under Investigation,0
+1315,945,2d6ae70c-0498-4abe-ac4e-363a46572a86,Identity Theft,2024-10-17,Under Investigation,0
+1316,945,b3081e7f-1f6e-4ad2-8624-2d41bf21e9cd,Card Fraud,2024-10-18,Under Investigation,0
+1317,947,b543226b-7bed-40a5-ba0e-002e6425c549,Account Takeover,2024-11-03,Under Investigation,0
+1318,947,79282190-2875-4c4f-8baa-19cfc8ee6fc4,Identity Theft,2024-12-26,Under Investigation,0
+1319,947,1235042d-4f79-440a-a4aa-ac51885a31eb,Account Takeover,2023-09-24,Under Investigation,0
+1320,947,24c4b346-3819-44bb-b89a-f5d710572f14,Account Takeover,2023-08-31,Resolved,1
+1321,947,144088af-d169-459e-8e88-bb37f47171f4,Identity Theft,2024-12-12,Under Investigation,0
+1322,947,05db77b5-1e0f-4993-ab00-0f9f52d9b0e5,Money Laundering,2024-09-18,Resolved,1
+1323,949,92128578-fa36-4a7a-b4f1-288bce8e08cc,Card Fraud,2024-03-01,Under Investigation,0
+1324,950,3d401627-887d-4098-895b-9b75aea1fe8a,Identity Theft,2023-04-13,Under Investigation,0
+1325,951,2854bfaa-572b-463b-b2e3-3a4c4fdb8220,Money Laundering,2025-03-17,Resolved,1
+1326,951,1071e908-dc73-4953-ae89-05d015caa7c3,Money Laundering,2025-03-31,Under Investigation,0
+1327,951,685b882d-d112-4eb5-a2d3-f7cdb1418d5b,Account Takeover,2024-12-10,Under Investigation,0
+1328,952,ddc52cfb-2184-48fc-93c6-438a198e2851,Phishing,2022-11-25,Resolved,1
+1329,952,02f795ae-c4af-4188-8abc-d9c2869a8798,Money Laundering,2025-01-13,Under Investigation,0
+1330,953,2f139084-6dda-4bab-9aab-11b1b232f82e,Account Takeover,2025-02-11,Resolved,1
+1331,954,0f9397dd-dee8-4401-bfb0-26f581036103,Money Laundering,2025-04-14,Under Investigation,0
+1332,956,9d327041-642f-4881-893e-131ec6ae4cf2,Money Laundering,2024-01-07,Under Investigation,0
+1333,957,a09988a8-c741-4ffa-b70a-c634ff472b00,Money Laundering,2025-02-28,Resolved,1
+1334,958,cd824e5f-60e0-458e-890b-4c6ba29ed8f2,Money Laundering,2024-12-28,Under Investigation,0
+1335,959,c125af80-4378-4bc4-b3cd-b2177eb98e3f,Card Fraud,2025-05-12,Under Investigation,0
+1336,959,42e51330-d721-4f88-a2c3-ef1efa528802,Account Takeover,2025-05-13,Resolved,1
+1337,959,e52b7f58-7522-4dbe-bef9-c93b38bcb59c,Identity Theft,2025-05-11,Under Investigation,0
+1338,959,8be65ebb-b74d-4a1c-82e5-b0e5eb261ade,Identity Theft,2025-05-14,Resolved,1
+1339,959,4b7b2ab5-18c2-4a06-9c99-d11a6bea68d9,Money Laundering,2025-05-15,Under Investigation,0
+1340,960,08918b38-928d-4a25-8fbd-741ca1aabf8a,Identity Theft,2024-05-14,Under Investigation,0
+1341,960,46d1acf2-0a2c-46e7-94d4-d3f3cbd19940,Money Laundering,2025-01-28,Resolved,1
+1342,960,d82de712-bea8-47fc-9dcc-9ae90fe766ce,Card Fraud,2025-02-23,Under Investigation,0
+1343,960,13b26995-f7c0-4b2b-a050-827c03aadd21,Identity Theft,2025-03-09,Resolved,1
+1344,961,8d23d494-5a2b-4bbb-a273-b81333a11a7a,Phishing,2024-07-22,Under Investigation,0
+1345,961,33b38435-8ba6-460e-897c-e03b4ed54095,Card Fraud,2024-06-21,Under Investigation,0
+1346,961,c889217f-3e8a-4085-b1df-f3c1d7eb2a98,Account Takeover,2024-06-18,Resolved,1
+1347,961,5261e3bd-893b-410f-b927-9a0ef5e5124e,Card Fraud,2025-03-01,Under Investigation,0
+1348,961,ef3179c9-4ae0-46d5-a7dc-08605036a57a,Account Takeover,2025-04-13,Under Investigation,0
+1349,962,c16ac9fd-b6f2-44e4-9981-e9e2233ce231,Identity Theft,2023-06-19,Resolved,1
+1350,962,4b119864-cb12-4af7-995f-fb5ec4cc30ad,Money Laundering,2023-08-19,Under Investigation,0
+1351,962,5bf7e59a-9ac9-48f9-b10f-993965e5198e,Account Takeover,2024-07-26,Under Investigation,0
+1352,962,4aabb211-0aad-46dc-b385-0e9d09f5c42e,Identity Theft,2024-08-21,Under Investigation,0
+1353,963,8ceba79f-8ebf-427f-9330-827c430c0a5a,Phishing,2025-04-08,Under Investigation,0
+1354,963,860a5760-6681-41b5-a6d2-4eb4fd97982a,Account Takeover,2025-05-12,Under Investigation,0
+1355,963,97fb0f5c-bce1-4fe7-a10e-e2ed441d27fa,Account Takeover,2023-05-16,Under Investigation,0
+1356,963,a69ff572-d90e-4b41-a716-82d371b6a18c,Identity Theft,2022-12-24,Under Investigation,0
+1357,963,0bdf702d-fc23-410a-b2e2-27b92dc6b2a1,Identity Theft,2025-01-11,Resolved,1
+1358,964,01d749fa-f177-4605-98e4-c6867961f8ed,Account Takeover,2025-02-07,Under Investigation,0
+1359,964,9b707cc5-b9d0-4a47-8e81-a7e9cb880548,Money Laundering,2023-07-12,Under Investigation,0
+1360,965,af21b85b-e9c1-40c9-9789-c745968abb2f,Account Takeover,2024-11-08,Under Investigation,0
+1361,965,4407da1c-382e-4d91-96c5-9c5e85fd8038,Identity Theft,2024-04-03,Resolved,1
+1362,967,b4ccc635-4fff-4ed2-8ff6-dbeb6e3fed13,Account Takeover,2024-12-13,Under Investigation,0
+1363,967,ae1acb9d-389e-46e2-a73a-64d354f41d53,Identity Theft,2024-01-07,Under Investigation,0
+1364,967,cd3ca30a-a006-4470-9378-f51f56e848f1,Identity Theft,2024-04-07,Resolved,1
+1365,967,636c868f-1d6f-4414-af37-1191006033c7,Phishing,2023-12-02,Under Investigation,0
+1366,968,92d4901b-2309-455a-97d6-aee9a470139f,Money Laundering,2023-12-01,Under Investigation,0
+1367,968,9d853d00-598c-4ee5-8abb-b404c4de4809,Money Laundering,2023-05-15,Resolved,1
+1368,969,ca1fd6a8-1f14-4de8-aff7-27a5470e817c,Account Takeover,2025-02-24,Resolved,1
+1369,969,3cca6f13-2a08-4c5f-9f0e-d72b9b18e24c,Account Takeover,2025-04-17,Under Investigation,0
+1370,969,e1e56209-8cf2-4e0e-a6ee-1b4c2978b810,Card Fraud,2025-04-21,Under Investigation,0
+1371,970,c31227b2-d2e2-4fb7-ae6c-decefea1069a,Identity Theft,2024-10-25,Resolved,1
+1372,970,3aca376c-d81b-48c9-8bb1-c08f8a09615e,Money Laundering,2024-11-29,Resolved,1
+1373,971,634d457a-18ae-40a1-b009-c43d2080b8b9,Identity Theft,2022-06-18,Under Investigation,0
+1374,971,741164bb-3200-4a04-81ea-292712bb6a9e,Money Laundering,2023-04-28,Resolved,1
+1375,971,073fb25f-1832-4a4b-bd68-27a8ed6148ed,Account Takeover,2024-09-21,Under Investigation,0
+1376,972,2dd079aa-208d-4bbf-acbd-377837d7bc0d,Identity Theft,2022-07-07,Under Investigation,0
+1377,973,d7d13c1b-afeb-4b86-bca8-13f8524c655b,Money Laundering,2021-12-12,Under Investigation,0
+1378,973,a7e64de7-5f31-4894-bccb-17e199b139cb,Identity Theft,2023-05-19,Under Investigation,0
+1379,975,4c960a06-af7f-4362-8d9a-3dfeb121a884,Phishing,2023-12-02,Under Investigation,0
+1380,975,cacd5a47-dbb2-4b40-a629-a2d6ab878990,Card Fraud,2022-09-07,Under Investigation,0
+1381,978,014699ad-3ca3-4c0c-a457-b0d458940ad6,Phishing,2024-10-04,Under Investigation,0
+1382,979,53fbf980-f912-4ff2-9409-c2dda751e9b5,Phishing,2024-11-25,Resolved,1
+1383,979,828952e1-6b04-4f4c-a880-1fc2593d0f96,Identity Theft,2024-10-02,Under Investigation,0
+1384,980,e0074b79-346d-45c0-8540-71e0c13dd0f1,Phishing,2024-06-26,Resolved,1
+1385,982,30c4239c-dd94-4e4b-9cb0-e52b7798b604,Identity Theft,2025-05-13,Resolved,1
+1386,983,77959e50-d1bf-46bc-9ac9-efc3c4e0e2d4,Money Laundering,2023-10-31,Resolved,1
+1387,984,9d14f372-8346-4430-a19e-39d5985ea874,Phishing,2025-04-26,Under Investigation,0
+1388,984,ecfeda7d-f119-4039-be08-ee7d3ec9e29c,Phishing,2025-05-01,Resolved,1
+1389,985,65bba3d7-dd54-4036-92d4-8dabbdd86b94,Identity Theft,2025-05-12,Under Investigation,0
+1390,986,5bb3e775-23e8-4668-94ff-baf4ece93d17,Card Fraud,2024-02-14,Resolved,1
+1391,986,0f6a607b-50b8-4687-b786-6ca02cc337db,Identity Theft,2024-01-04,Resolved,1
+1392,986,2ae33eb9-c919-4bd2-bdda-b01805b7763f,Account Takeover,2025-01-31,Resolved,1
+1393,987,78dd4b4a-2084-4e5c-b6d7-91963c3e9a53,Identity Theft,2025-03-08,Under Investigation,0
+1394,988,35b6472a-ee99-48c4-a242-3e6353094760,Identity Theft,2025-05-03,Resolved,1
+1395,989,d2d66dd5-8122-4632-b0ec-a9b60e7a5245,Identity Theft,2025-01-18,Under Investigation,0
+1396,989,2e3ae537-3ade-4926-8eee-19fc4b537557,Phishing,2023-06-17,Resolved,1
+1397,989,4bdbd7fc-2072-4ecb-ad4d-295c3cfdc05d,Identity Theft,2024-09-11,Resolved,1
+1398,989,9aee8e3c-7b36-4bbb-9453-0a9b9df59fc1,Money Laundering,2025-02-03,Under Investigation,0
+1399,990,0a33c603-8a50-461c-823d-16e5295a677e,Card Fraud,2025-02-08,Under Investigation,0
+1400,990,4251b3aa-2f09-46ad-9f32-4d00eb89a12d,Account Takeover,2024-10-16,Resolved,1
+1401,990,e14d4d8b-16cc-4d68-a99d-31456fdbfad3,Card Fraud,2024-12-12,Under Investigation,0
+1402,990,76f67b45-0bd6-499c-84c1-bf6ceae1f2d1,Phishing,2025-03-08,Under Investigation,0
+1403,990,6e90dff5-6d61-473b-9a95-277d72c7556f,Card Fraud,2024-10-15,Resolved,1
+1404,991,a781565c-e902-47bf-b1da-b07ca0f78ccc,Identity Theft,2024-10-29,Under Investigation,0
+1405,991,ceb250d2-0dcc-4219-8646-062f8c564262,Phishing,2024-06-07,Resolved,1
+1406,995,70965428-271d-4880-884d-16ad1ddeef80,Phishing,2024-05-29,Resolved,1
+1407,996,8bc06340-caca-4e75-b99d-7ee8f2b8d892,Identity Theft,2025-05-12,Under Investigation,0
+1408,997,1158756f-2866-4070-9929-0f3dcc6567fa,Account Takeover,2024-10-11,Resolved,1
+1409,997,64ae495a-cb14-4f46-9600-d09907e10081,Phishing,2024-06-19,Under Investigation,0
+1410,999,9c1abd96-fdc3-441d-8a16-c3e5c0a634cb,Account Takeover,2025-01-16,Under Investigation,0
+1411,999,648fc506-a1bd-4d8e-a9ac-5ef07d1036cc,Card Fraud,2025-05-13,Under Investigation,0
+1412,1003,d37c1c3d-6275-42c8-90b0-5fd026e57a29,Account Takeover,2025-02-20,Resolved,1
+1413,1003,f365c637-3b18-48bc-b52d-0d5f59894407,Identity Theft,2025-01-31,Resolved,1
+1414,1003,6faa60a6-8d3e-491c-bdf7-cd60e38d7db5,Account Takeover,2024-11-11,Resolved,1
+1415,1005,47210f27-c073-44d4-9cb3-b5d13e9a1e6c,Money Laundering,2025-05-08,Under Investigation,0
+1416,1007,b74a4334-eb59-461d-b05c-550fe9a4924b,Account Takeover,2024-05-04,Under Investigation,0
+1417,1009,bbd27239-3a94-4387-9d6c-499751d6de7a,Money Laundering,2025-03-18,Resolved,1
+1418,1011,ca8e219c-5a48-4116-a761-aa11ba26913e,Card Fraud,2023-06-17,Resolved,1
+1419,1013,b733e258-270b-4457-a680-9b5a7ffc2ea9,Card Fraud,2025-01-13,Under Investigation,0
+1420,1013,6dfaa33d-96d7-45d3-8790-b0aea5d261f5,Phishing,2025-03-07,Under Investigation,0
+1421,1013,f59d16db-a949-445a-94b8-c282d0a44915,Money Laundering,2025-05-14,Resolved,1
+1422,1013,d3dba6e7-3d65-4a9a-93fc-cc8806961317,Card Fraud,2025-01-10,Resolved,1
+1423,1014,fdc422b1-29d6-4acc-91fc-ad74b02a71e7,Card Fraud,2024-06-08,Under Investigation,0
+1424,1014,4911df91-7cb0-4660-b203-a8b4fee604f8,Phishing,2024-03-22,Under Investigation,0
+1425,1014,c9379c8b-9d81-4bce-b7b3-8bd79f9e7280,Phishing,2025-03-23,Resolved,1
+1426,1014,399c8b28-6d11-4604-bae0-d2b237610a72,Card Fraud,2025-03-18,Under Investigation,0
+1427,1017,d8aa2330-70ca-4a49-bdae-12d6c14320d4,Account Takeover,2023-09-27,Under Investigation,0
+1428,1018,409555a8-38ea-4147-9e87-ee95d7ca04b4,Card Fraud,2025-05-10,Under Investigation,0
+1429,1019,d05e930c-26d8-4f35-b08e-3065566fab82,Account Takeover,2025-05-03,Resolved,1
+1430,1019,05d5dc6c-3fb0-493a-b289-b292a7c1fcb4,Phishing,2025-04-11,Under Investigation,0
+1431,1019,04ff6c8b-5255-4cd0-88d6-bae51f4658a0,Phishing,2025-04-27,Under Investigation,0
+1432,1020,a79b5877-c927-4645-908d-538620633896,Card Fraud,2024-07-23,Under Investigation,0
+1433,1022,5da72f46-0ba1-46fb-bf7c-4e0a774bf0cc,Account Takeover,2023-03-13,Resolved,1
+1434,1022,daa6c1cb-1791-4a4d-8688-093c315480cf,Money Laundering,2023-01-18,Under Investigation,0
+1435,1023,ca757a40-14c0-4dc4-9af3-d0ed7228bab3,Card Fraud,2024-11-11,Under Investigation,0
+1436,1024,ce4fd16e-788b-478e-b390-6243423a0d57,Phishing,2025-04-28,Under Investigation,0
+1437,1024,8489ff5a-a386-49d1-b98b-fc6cec7c2d3d,Identity Theft,2025-05-05,Resolved,1
+1438,1025,69d6e34c-722b-4626-9012-d9ee651a27a4,Identity Theft,2023-09-06,Under Investigation,0
+1439,1027,e830b3ab-ff0f-4973-b24d-28824201440a,Phishing,2023-01-19,Resolved,1
+1440,1031,527f7db9-4578-4100-b346-a22ea3256e00,Account Takeover,2025-01-31,Under Investigation,0
+1441,1037,6b9ec8e4-74d7-43fa-a6d0-44458f40676e,Phishing,2025-05-03,Resolved,1
+1442,1037,7c658caf-040b-410a-a4cd-b4d054626ae7,Identity Theft,2025-05-12,Under Investigation,0
+1443,1039,3ff77ea4-8228-494c-8ab7-045f5c1d2bdf,Money Laundering,2025-01-28,Under Investigation,0
+1444,1039,d54599ce-475e-4b40-9191-fe41fc2b1480,Identity Theft,2023-09-25,Resolved,1
+1445,1039,a9e2fcba-a297-4ca5-8100-464cbb3a583c,Identity Theft,2024-11-29,Resolved,1
+1446,1039,8484dc78-06f0-45c1-87e6-6ec7a6463d41,Identity Theft,2023-03-16,Resolved,1
+1447,1039,f80fd2f8-84b1-471b-b964-4a968ccd24ae,Card Fraud,2022-05-09,Resolved,1
+1448,1039,b6e1bbf3-4510-4448-bb4e-3b210a2cb5dc,Phishing,2022-05-25,Resolved,1
+1449,1040,c26c5c49-ef08-499b-b786-52f608e7891c,Account Takeover,2025-02-17,Resolved,1
+1450,1040,120962cc-f201-4318-b265-4102e287c429,Card Fraud,2025-05-12,Under Investigation,0
+1451,1041,c9f00007-3490-44de-a11d-36cc3293304d,Phishing,2025-03-11,Under Investigation,0
+1452,1041,5b28a655-91d6-4a66-b48b-f7db67a9191a,Phishing,2023-03-30,Under Investigation,0
+1453,1042,fb1626d6-7527-4e89-a41f-a66fde9eb8e8,Money Laundering,2025-05-07,Resolved,1
+1454,1043,8e52dabc-5522-440c-88e1-441bb0b8e4b2,Phishing,2025-04-25,Resolved,1
+1455,1043,ad6e1f79-3668-4713-93e0-72b26cd80bf3,Card Fraud,2025-01-30,Under Investigation,0
+1456,1043,f3ad2cfb-0f2c-416e-a1b7-c39a1e82f482,Account Takeover,2025-05-06,Under Investigation,0
+1457,1044,163cc563-8f40-455e-bc18-ec38def7014d,Card Fraud,2024-08-18,Resolved,1
+1458,1044,673b2f84-6553-4cc0-a5d5-d9e5d76fd5af,Money Laundering,2025-01-09,Under Investigation,0
+1459,1044,7ba89f0b-a1cb-4cb9-ad07-1400a13bf96c,Phishing,2025-01-16,Under Investigation,0
+1460,1044,1e313ad3-88c5-4447-a632-f7bea4457ddc,Card Fraud,2024-10-13,Under Investigation,0
+1461,1045,aad70223-c76e-409e-8293-3f7bef1fceb6,Account Takeover,2025-04-07,Under Investigation,0
+1462,1045,45fd0111-36b5-4311-993d-60367df86b96,Money Laundering,2025-03-18,Under Investigation,0
+1463,1045,104a02fa-80ef-4b9a-a09c-fb59f2378d0e,Card Fraud,2025-04-16,Under Investigation,0
+1464,1045,c814d28c-2092-4308-a28b-dcbab55fbce6,Account Takeover,2025-04-26,Under Investigation,0
+1465,1046,33e0518b-2627-4771-ba7c-27bff4131888,Identity Theft,2025-05-15,Under Investigation,0
+1466,1046,afc7a198-fac7-466b-b274-d2ad8d225f90,Account Takeover,2025-05-10,Under Investigation,0
+1467,1047,a40b1523-266b-40a1-a2df-c7e3d5c04702,Account Takeover,2024-12-13,Under Investigation,0
+1468,1048,01dbcb0b-888d-4c4f-8f84-68fa87e29bca,Account Takeover,2025-03-09,Under Investigation,0
+1469,1048,e24d4f9a-7a78-4d3b-bf4f-79720471ded4,Phishing,2025-05-08,Resolved,1
+1470,1048,3eefe593-647d-49a5-b476-cb2bcc49dd51,Money Laundering,2025-01-21,Under Investigation,0
+1471,1048,69fb9a81-a68b-43f1-9211-ba6ea9ab74a4,Phishing,2024-09-25,Resolved,1
+1472,1049,14729071-60bb-4afd-b81f-ed18f4af8885,Money Laundering,2025-05-05,Resolved,1
+1473,1049,c7321baa-1ce6-4777-b29d-4bba22201b61,Card Fraud,2025-05-10,Under Investigation,0
+1474,1052,88112bd3-cacd-40bc-9aa3-2f9a54ba3d71,Phishing,2025-03-31,Resolved,1
+1475,1053,354beebc-6a58-4f7f-9494-90ce6ca4d6e8,Account Takeover,2023-06-16,Resolved,1
+1476,1053,528192de-5b97-4cd9-ae9f-dad8a651a53d,Account Takeover,2023-06-01,Under Investigation,0
+1477,1053,e014ea20-93ee-4fec-a549-29d2502dee45,Card Fraud,2024-01-16,Under Investigation,0
+1478,1053,d7453e94-cb41-482c-bdd0-a76730ec84a6,Account Takeover,2025-02-23,Resolved,1
+1479,1053,1e213751-e919-413f-a206-9918c6254830,Card Fraud,2025-05-12,Under Investigation,0
+1480,1054,5e2ad5ad-251a-438c-b03c-c70bf1e9093f,Card Fraud,2024-03-11,Resolved,1
+1481,1055,c35ae78e-bd47-430e-9c0d-fdb5cb30c614,Card Fraud,2024-10-28,Under Investigation,0
+1482,1055,fc0f2b1f-a133-4429-86c2-a333b531612c,Phishing,2023-10-13,Resolved,1
+1483,1056,2434de78-4f1a-4e87-b745-07466daee4d6,Money Laundering,2025-04-15,Resolved,1
+1484,1057,41c481e7-70ab-4ee1-a2ec-060600c11ded,Card Fraud,2025-02-14,Resolved,1
+1485,1058,6bc23dac-c3fb-4e1a-a4e1-bcca06a0b729,Phishing,2025-04-03,Under Investigation,0
+1486,1059,34027261-3e22-4f32-95f4-c353bd882036,Card Fraud,2025-04-05,Resolved,1
+1487,1060,4129c469-c6bb-4f4c-bbf2-d8aef06e4c7f,Phishing,2025-01-09,Under Investigation,0
+1488,1060,826c86ed-8205-41a7-af3b-7bb4fe05a40d,Phishing,2025-05-08,Under Investigation,0
+1489,1061,d1b3c0c7-0831-40ab-8a26-477064a5accd,Phishing,2025-02-28,Resolved,1
+1490,1061,e3201948-d3f0-4126-9e59-a007d6bb4b75,Money Laundering,2025-05-09,Under Investigation,0
+1491,1062,1521c50f-6d95-4214-a751-d97878a8d99e,Account Takeover,2025-03-23,Under Investigation,0
+1492,1063,b03bffff-99fd-4907-99cc-c121799999ed,Account Takeover,2025-04-20,Under Investigation,0
+1493,1063,f572d2c7-1ad3-4afc-8c52-976cd2c982ff,Account Takeover,2025-04-28,Resolved,1
+1494,1064,fa511e78-62fd-4a44-8aaf-d24c30443de5,Identity Theft,2024-07-28,Resolved,1
+1495,1064,9cecf2be-a650-4112-a48b-ee5498741921,Money Laundering,2024-11-10,Under Investigation,0
+1496,1065,cd9a9281-2291-410c-86d9-b0dc57cd101c,Money Laundering,2025-02-25,Resolved,1
+1497,1065,fb166acb-bc78-4d80-a4a1-a4272019a91e,Money Laundering,2025-03-08,Under Investigation,0
+1498,1065,8606c9f5-6f71-42d7-a8e9-d48e3e31e5a2,Phishing,2025-05-04,Under Investigation,0
+1499,1066,6c697ee5-ab4a-4feb-9707-71cfa25f2456,Identity Theft,2025-04-15,Resolved,1
+1500,1066,d1655a53-bf43-4c52-8a90-02085e1c49e0,Money Laundering,2025-03-14,Under Investigation,0
+1501,1067,c93c4f17-50ea-4ff9-8ca2-e5bc58d1fa3b,Money Laundering,2025-01-26,Under Investigation,0
+1502,1068,318e5b43-65cb-411a-a0dc-07bd6013e513,Identity Theft,2025-05-13,Under Investigation,0
+1503,1069,ac47ecbd-6b95-42bf-b769-03fa4fdbf80f,Card Fraud,2023-07-03,Under Investigation,0
+1504,1070,1427a609-208d-407f-b129-e51070a6f5d7,Phishing,2025-04-28,Resolved,1
+1505,1071,88ed6429-4550-493f-adf9-57e8aad6716e,Account Takeover,2025-05-09,Under Investigation,0
+1506,1074,4d235b5f-2f9b-4a48-bc0d-c463ed95fce6,Phishing,2023-12-11,Under Investigation,0
+1507,1074,e4cc0eec-096e-46fc-b49b-9ec01830b476,Card Fraud,2022-11-14,Under Investigation,0
+1508,1075,0b0da8ea-9e25-4469-8d9f-ebea7aa6f708,Money Laundering,2024-02-25,Under Investigation,0
+1509,1076,846f2405-1705-45cf-8954-84a7960fc979,Card Fraud,2025-04-05,Under Investigation,0
+1510,1076,496eaa62-5095-4b58-92ac-d0bb6ee9e577,Account Takeover,2025-04-01,Under Investigation,0
+1511,1079,bf4a9009-370c-469b-afd5-c8dea0531e1f,Identity Theft,2025-02-14,Resolved,1
+1512,1079,792c343e-58b3-48ad-ba41-d22983bbe6bc,Account Takeover,2024-03-07,Under Investigation,0
+1513,1079,3c1dbdc9-d8e9-48c7-a892-c964de216471,Account Takeover,2024-06-30,Under Investigation,0
+1514,1081,e3d693f7-9a82-47fe-9c61-379990106e65,Account Takeover,2024-05-17,Under Investigation,0
+1515,1081,a9d99e2d-9f42-4851-9105-ba5b654f0b60,Money Laundering,2025-03-24,Resolved,1
+1516,1082,a74ed43e-4fba-4512-8dba-b0295370dd2a,Identity Theft,2025-01-19,Resolved,1
+1517,1083,284943c0-05c4-4e16-b9eb-3b8681356f2b,Account Takeover,2024-06-10,Under Investigation,0
+1518,1083,968a1340-d1fb-4094-9403-9af8d38c106e,Money Laundering,2024-11-23,Resolved,1
+1519,1083,6da8e043-9375-49eb-ab28-4c8d2d771dc9,Money Laundering,2025-02-21,Resolved,1
+1520,1084,7bad9e7c-f54f-4b9b-9ba4-94707d9da2c9,Card Fraud,2024-05-18,Under Investigation,0
+1521,1084,54291c42-a318-41c2-8b28-86e63731343d,Account Takeover,2024-12-27,Resolved,1
+1522,1085,705ae1c6-1ba6-4ef7-94ab-f32af6fb01c6,Card Fraud,2024-10-21,Under Investigation,0
+1523,1085,50d40d43-891a-4cc5-ba11-a0ff8938a2ef,Account Takeover,2024-04-02,Under Investigation,0
+1524,1088,459c22f4-4459-417c-96d8-f0b6e30eeb64,Identity Theft,2024-11-22,Under Investigation,0
+1525,1089,03b29741-1b3e-41a3-aa12-54b8a920b564,Phishing,2024-11-03,Under Investigation,0
+1526,1090,26b7a4e7-7cb4-44fb-a387-bd34db2a2ae4,Card Fraud,2024-12-16,Under Investigation,0
+1527,1091,48f4c18e-16a4-4826-927b-06e67857e52f,Card Fraud,2025-03-02,Under Investigation,0
+1528,1091,9bad8f47-5642-4a76-b066-0d9c0197b4cd,Card Fraud,2025-03-08,Under Investigation,0
+1529,1095,df64e363-9897-44ab-bec2-17ad91a01f39,Phishing,2025-02-26,Under Investigation,0
+1530,1097,ae2b13c8-12e6-4c3b-9d59-15ecb856da7a,Phishing,2025-05-14,Under Investigation,0
+1531,1098,b7b1dc5e-27e0-4834-bbff-c058cd7ee853,Money Laundering,2024-07-31,Resolved,1
+1532,1098,5ad0555a-140e-47f8-93aa-e80b4c3d7803,Account Takeover,2025-05-04,Resolved,1
+1533,1098,103890f7-1106-4403-b709-751149abbe9b,Account Takeover,2025-05-09,Under Investigation,0
+1534,1099,c6f55563-3c3a-4f2a-bcf9-cb45dbd0a090,Account Takeover,2024-10-15,Under Investigation,0
+1535,1099,d9846ebc-ce5f-4b0b-b477-549532c6daf4,Account Takeover,2025-05-02,Under Investigation,0
+1536,1099,0596315a-b918-47c0-a09e-f77e5c98e6e1,Account Takeover,2025-02-27,Resolved,1
+1537,1100,76dd7de4-5703-4c32-b022-9b2fc1b892f9,Money Laundering,2024-05-03,Under Investigation,0
+1538,1103,0f1ae3e1-6ab0-4cdd-9af6-df8194954dec,Account Takeover,2025-05-15,Under Investigation,0
+1539,1103,664a15c8-9f34-4ec2-bca1-545c9fdbe1ac,Account Takeover,2025-05-14,Under Investigation,0
+1540,1103,0f3e3d13-4fd3-47b9-bdfa-d790977ae0fb,Phishing,2025-05-15,Under Investigation,0
+1541,1103,4b08b31c-e9f2-4b21-b7ed-da00fdef38b3,Card Fraud,2025-05-06,Under Investigation,0
+1542,1105,5cc40e82-a1cc-418b-a1fa-d19c2b83bb58,Identity Theft,2024-07-31,Under Investigation,0
+1543,1105,8606cce7-b84b-41e8-b3cf-baa4f42d5c7d,Card Fraud,2024-12-13,Under Investigation,0
+1544,1106,b991ba61-bac3-4243-bbeb-a4951c946e5a,Phishing,2024-09-03,Under Investigation,0
+1545,1106,13ecc70d-7dbf-4447-aa11-28c66b8a5522,Money Laundering,2025-02-22,Under Investigation,0
+1546,1106,7b4897bc-a414-4798-96ab-19c6b26baeb9,Account Takeover,2024-11-25,Under Investigation,0
+1547,1107,d14e644b-79d0-47ba-9919-34fed4c47b48,Identity Theft,2021-08-27,Under Investigation,0
+1548,1107,2ed26cc4-fb0d-47f4-9615-ab0ca0c9efa7,Account Takeover,2025-02-13,Under Investigation,0
+1549,1108,f4e0f05d-f9d5-4218-9030-f29b578b9639,Phishing,2023-07-14,Under Investigation,0
+1550,1108,87143b86-c06a-452b-8310-f2d5c1264069,Phishing,2022-12-22,Resolved,1
+1551,1108,118598de-8f57-48f0-ab4f-6563a40893bc,Money Laundering,2025-02-22,Resolved,1
+1552,1109,31efab11-5f00-4c6e-9b1f-56ef3bd0d90b,Card Fraud,2023-11-10,Under Investigation,0
+1553,1110,80c73a5a-ba43-47aa-a68f-d2481ffe3d82,Identity Theft,2025-04-09,Resolved,1
+1554,1111,b0b579ce-2d96-490b-bc88-cd977fb1faa4,Card Fraud,2024-09-27,Under Investigation,0
+1555,1113,32ed5f1d-6933-44a3-b022-498543a44f39,Card Fraud,2025-03-20,Under Investigation,0
+1556,1113,e9c42cf9-1e4b-4a3f-8414-99158b59538e,Identity Theft,2024-10-08,Under Investigation,0
+1557,1113,e81e69bc-debd-4ed5-af6a-a02ba12d2143,Phishing,2025-03-14,Resolved,1
+1558,1113,4fc28844-9a69-4afd-8abf-c8e6fd59beca,Phishing,2025-02-06,Under Investigation,0
+1559,1113,48afd9bd-1c5c-46de-8d9b-5f0fa1994787,Identity Theft,2024-08-29,Under Investigation,0
+1560,1114,4e3b3c76-12d4-48b6-8721-06a42d5c811a,Card Fraud,2025-03-10,Under Investigation,0
+1561,1115,092f395a-a8af-4257-9c6b-383cdbce84a4,Identity Theft,2024-03-11,Resolved,1
+1562,1115,009354da-79f1-427c-bf0c-f2298165d910,Account Takeover,2024-03-05,Under Investigation,0
+1563,1115,529c4e55-079e-4d90-a7ae-8ee8dffcb382,Card Fraud,2024-05-29,Resolved,1
+1564,1116,59acfb31-6741-4b32-aff4-bfbf06367fee,Money Laundering,2024-05-16,Under Investigation,0
+1565,1116,4d654d0f-302f-4777-9b13-064bf4ff9365,Account Takeover,2024-04-13,Resolved,1
+1566,1119,0b973969-319f-4ba0-a3a3-664c6dfe1bec,Card Fraud,2025-02-24,Under Investigation,0
+1567,1120,d5e20223-6739-48fe-a2b6-660e0cca55b3,Card Fraud,2024-07-07,Under Investigation,0
+1568,1122,81c69082-11a8-41d2-87f0-f9d3678ac842,Account Takeover,2025-04-13,Under Investigation,0
+1569,1122,fd1f920c-f1ff-4bec-967a-1c88c0dc0663,Phishing,2023-10-30,Resolved,1
+1570,1122,e1786aef-1ed5-4649-a4df-ca7844977ce8,Account Takeover,2024-03-17,Resolved,1
+1571,1124,96d36fa1-41ed-444a-8f41-3be49878eba6,Phishing,2024-07-01,Resolved,1
+1572,1125,64a48c94-76b5-4002-8888-dd2a866d91a4,Card Fraud,2025-04-21,Under Investigation,0
+1573,1125,8d20ebe0-cca7-47a1-a460-915468b179c8,Phishing,2025-04-21,Under Investigation,0
+1574,1126,f22d4730-0731-42aa-8702-62b09fbf3790,Account Takeover,2024-09-02,Under Investigation,0
+1575,1127,bb33b28a-a43e-47b5-9062-ea679d4d872c,Card Fraud,2025-04-30,Resolved,1
+1576,1128,470d85b8-09d5-43a9-b3b7-215513288d6d,Card Fraud,2025-04-16,Under Investigation,0
+1577,1129,c45864bb-901a-4a83-b3b6-946e427b92e2,Account Takeover,2023-08-11,Under Investigation,0
+1578,1131,c24ba906-a6e2-465c-8e9c-f382f874b19e,Account Takeover,2021-10-27,Under Investigation,0
+1579,1131,a7de722d-8486-41ce-886c-84e86c9ab19e,Phishing,2022-04-18,Under Investigation,0
+1580,1132,1b2fe95d-2fc8-48b4-b8a1-77d01d64de57,Money Laundering,2024-10-26,Resolved,1
+1581,1133,11c56f7c-4f0c-4ca6-8ec9-07006666de36,Card Fraud,2025-05-08,Resolved,1
+1582,1135,2c0ab467-efd8-4c05-9270-c263c31502d0,Identity Theft,2022-09-04,Under Investigation,0
+1583,1137,d8675668-401b-49eb-b3ba-0c5674d412d6,Money Laundering,2025-04-27,Under Investigation,0
+1584,1137,f3ab641f-35aa-4c77-b585-aa9e478f069a,Card Fraud,2025-03-08,Under Investigation,0
+1585,1139,5f86fb3a-877d-4268-8bc8-1672cf70f5e2,Card Fraud,2025-04-04,Resolved,1
+1586,1139,19e889b4-7cf2-4913-9350-e766ceb28d44,Card Fraud,2024-12-02,Resolved,1
+1587,1139,05c71c8e-9a01-4ebd-9cc6-a450c9b80290,Identity Theft,2025-02-19,Under Investigation,0
+1588,1142,ce0ca437-ded2-44d5-9be4-0050016143e1,Account Takeover,2025-05-10,Resolved,1
+1589,1142,8937acbb-ea20-43d7-aa7c-4f55d4cce76e,Account Takeover,2024-12-03,Resolved,1
+1590,1143,8687f2bd-25fd-4978-b43a-ca7e24d00ddb,Phishing,2024-10-23,Resolved,1
+1591,1145,46ff7202-c856-4ae0-8f4e-43d910477a36,Phishing,2025-04-02,Resolved,1
+1592,1149,54a38ca0-bf44-4241-b03c-dc0bb34a2f8f,Phishing,2025-05-14,Under Investigation,0
+1593,1149,a4489fbf-1260-4215-9209-d254610e48e2,Identity Theft,2025-05-11,Resolved,1
+1594,1150,be048e8a-3d18-4bf2-8264-6d9fae6e3564,Card Fraud,2022-11-25,Under Investigation,0
+1595,1150,0bdb4e71-533c-4a60-84c0-59aad51ec6c9,Money Laundering,2024-09-11,Resolved,1
+1596,1150,feea419e-2a0d-4101-aff8-9f064bbc4c23,Money Laundering,2025-01-13,Under Investigation,0
+1597,1151,a518e8b0-f6d0-43ee-8359-7a1de58b79c9,Identity Theft,2025-02-11,Under Investigation,0
+1598,1151,27fee988-709e-4df4-9946-c7342e6c967b,Card Fraud,2025-02-18,Under Investigation,0
+1599,1152,5299b3f3-a952-4b1c-9b02-9e310df89a16,Card Fraud,2025-02-08,Resolved,1
+1600,1153,9b14efbf-28a3-4f67-a0fb-6e18602272d3,Account Takeover,2024-06-16,Under Investigation,0
+1601,1153,fbc6d1d8-9ecf-4fba-b9c2-796d2c482009,Card Fraud,2025-02-20,Under Investigation,0
+1602,1154,4df0716f-3012-4abb-adc2-1124fd332eed,Card Fraud,2024-07-17,Under Investigation,0
+1603,1155,6c6c8e9b-e7ba-4119-b0bc-cf1e647eff5d,Money Laundering,2025-01-24,Under Investigation,0
+1604,1156,e8133ec5-b61e-4390-8e13-dc1f83225b52,Identity Theft,2024-08-06,Under Investigation,0
+1605,1157,ab8fa3a6-85b6-4886-ae20-c3e02c154b08,Identity Theft,2025-03-16,Resolved,1
+1606,1157,734916f5-6328-4c2e-aee4-bceb4adca23d,Account Takeover,2025-02-14,Under Investigation,0
+1607,1157,5bd9cc76-2979-4352-a14d-de744df29c48,Money Laundering,2025-05-06,Under Investigation,0
+1608,1158,c16aece1-7cf9-49dd-92ce-3e6682183476,Money Laundering,2024-11-21,Resolved,1
+1609,1158,dceaf827-ada6-469e-a975-bb16e73c55f6,Card Fraud,2024-09-02,Resolved,1
+1610,1160,a4d984e3-2246-47a2-8f23-24e334b614d4,Money Laundering,2024-10-10,Under Investigation,0
+1611,1161,3973a7ab-2a9d-4a1d-8ab3-bebaf97de556,Money Laundering,2024-10-05,Resolved,1
+1612,1161,700a59ad-8e10-466c-a670-ea29b1bc7217,Money Laundering,2024-10-27,Under Investigation,0
+1613,1162,c469d797-119a-4129-ba8e-00fe8a768cb0,Money Laundering,2025-04-12,Resolved,1
+1614,1163,5e185d5b-4c57-4396-a408-944e4dc03555,Identity Theft,2025-04-08,Resolved,1
+1615,1165,9c0b3d7a-70b8-41d7-8d1b-748219e08b06,Identity Theft,2023-01-18,Resolved,1
+1616,1166,e9658a39-c813-4b5a-9d23-275dcd441685,Money Laundering,2023-09-25,Under Investigation,0
+1617,1166,b7c405e6-e281-4db7-aad7-6fb0a09fa196,Card Fraud,2022-10-31,Resolved,1
+1618,1166,95732574-b3d8-47ab-8059-bf395d33f409,Account Takeover,2023-04-05,Under Investigation,0
+1619,1167,a6fb5ffd-0c8f-4023-932f-9cb12dcb5d6e,Phishing,2025-05-11,Under Investigation,0
+1620,1168,f438fb22-5239-4eda-89f4-57a72a2ba945,Card Fraud,2025-05-07,Under Investigation,0
+1621,1168,f725cc34-dfeb-4c87-90c0-d16775d3b74f,Account Takeover,2025-05-13,Resolved,1
+1622,1168,16ded954-0e8e-4a23-80fe-0c99a875f8da,Phishing,2025-05-07,Under Investigation,0
+1623,1168,9b75b2f5-d29f-49ff-ad46-10cd80466f93,Identity Theft,2025-05-03,Under Investigation,0
+1624,1168,bf3c8f58-33d9-42c8-99ee-e3641d5129c3,Identity Theft,2025-04-27,Under Investigation,0
+1625,1169,a9bac053-a342-4e9d-9759-24ea9c3070a8,Identity Theft,2025-01-24,Resolved,1
+1626,1169,6125f02f-2fdf-402e-9fd5-46439a57593a,Money Laundering,2025-04-09,Resolved,1
+1627,1169,19861af6-64ce-4c40-8b1c-ef4f8fb6edce,Money Laundering,2025-02-27,Under Investigation,0
+1628,1170,221d82b6-0d03-4044-918a-312709172cf8,Card Fraud,2025-02-20,Resolved,1
+1629,1171,c8ac566d-0795-4609-acf8-dc15474414c7,Card Fraud,2025-01-03,Under Investigation,0
+1630,1172,67375a84-00c0-44e7-91ca-d6ed2f03ad1d,Account Takeover,2023-09-13,Resolved,1
+1631,1172,9cf3387d-11a5-4ad6-b589-1656e36547b5,Money Laundering,2025-05-07,Under Investigation,0
+1632,1172,b7a1d8ae-92da-47d7-ba29-d764308d500d,Money Laundering,2025-04-19,Resolved,1
+1633,1173,4a3697b4-e736-459d-8f55-f423d27a1914,Money Laundering,2025-04-18,Resolved,1
+1634,1173,dca88a63-6748-45bc-b78c-0ce1db82380c,Identity Theft,2025-04-23,Under Investigation,0
+1635,1173,237bdd32-a8c9-4767-99d8-2006ba39cdaa,Card Fraud,2025-04-11,Resolved,1
+1636,1173,b37d4dc9-f2c5-48d1-8be1-3727c85f3a10,Phishing,2025-03-05,Under Investigation,0
+1637,1173,4bae95af-277f-4eac-9d13-6aaca48c6a9c,Phishing,2025-03-01,Under Investigation,0
+1638,1176,c4781c14-0537-43bc-83f9-d2a76e1d1f91,Identity Theft,2025-05-10,Under Investigation,0
+1639,1176,af31e59e-6b57-455e-98e0-49c7c2df3d11,Identity Theft,2025-04-29,Under Investigation,0
+1640,1177,01fd5636-78fa-4dad-b329-ef6c94cb883f,Account Takeover,2025-02-17,Resolved,1
+1641,1177,6aa91c60-2706-4f14-b258-2347f7667346,Account Takeover,2025-03-28,Under Investigation,0
+1642,1177,40f3c6d2-8be9-4bbe-b126-bd11e874322a,Card Fraud,2025-04-02,Resolved,1
+1643,1177,2d191392-7a47-4eea-a3cf-c6235278cc1d,Account Takeover,2024-09-14,Under Investigation,0
+1644,1179,0f018322-edc2-4af7-9389-0fed6aeba55a,Money Laundering,2025-05-13,Under Investigation,0
+1645,1180,11f38928-caeb-4acd-af59-ac9c88e046e5,Card Fraud,2024-03-22,Resolved,1
+1646,1180,10fab5b1-95f8-4198-889c-0b7907ed5704,Card Fraud,2023-05-05,Under Investigation,0
+1647,1182,f6963fdf-596e-482a-86db-2366c387420e,Phishing,2024-09-12,Under Investigation,0
+1648,1182,7283b107-93ba-4182-b271-d7af7aa41a7c,Account Takeover,2025-01-30,Under Investigation,0
+1649,1183,54876a68-60d8-4284-a7ec-d656e517733e,Phishing,2023-10-05,Under Investigation,0
+1650,1184,c65d0396-eafb-4b2a-a6fe-bb3e68ce7e13,Card Fraud,2024-09-25,Resolved,1
+1651,1184,250a824e-d868-4efc-a2aa-19e1cdaf007f,Identity Theft,2024-08-07,Under Investigation,0
+1652,1184,05b54bc5-3f0d-4b8a-be9e-9ca3aa67eb09,Identity Theft,2024-11-02,Under Investigation,0
+1653,1184,1ed8aa09-a7e3-44bf-8ed2-533615175dc7,Phishing,2025-03-18,Resolved,1
+1654,1185,c6f9c3ca-e492-4bfd-a561-b5f69af0700d,Card Fraud,2025-04-29,Under Investigation,0
+1655,1185,f02b4433-3eb2-4e75-9172-2978ade3e826,Phishing,2025-05-13,Under Investigation,0
+1656,1186,86dbbdc4-303b-4a7b-80a3-1fee8767381f,Money Laundering,2025-01-29,Under Investigation,0
+1657,1186,4cabfc5d-9cb3-4159-be16-11bd5f1f761f,Money Laundering,2025-01-01,Resolved,1
+1658,1186,45edf247-4b63-4045-818f-c6ff03a1b022,Phishing,2025-01-15,Under Investigation,0
+1659,1187,ac96b9ab-f988-4b61-ab6c-4ef3f3f2aa5b,Account Takeover,2024-12-16,Under Investigation,0
+1660,1188,3d499bee-93d3-4968-9ba7-77113a2ba5df,Money Laundering,2023-06-01,Resolved,1
+1661,1191,77d3b5f6-7977-4326-825c-8430017cf575,Money Laundering,2024-12-27,Resolved,1
+1662,1192,a53483ec-e53a-4e74-a7dc-439c1989cc99,Identity Theft,2024-09-02,Under Investigation,0
+1663,1194,19b3495c-ce0d-4d57-9d55-e9714c8c0f80,Account Takeover,2024-06-15,Resolved,1
+1664,1194,a428e313-9108-49b9-aa99-054c98d0321e,Account Takeover,2024-08-14,Under Investigation,0
+1665,1194,b1a6b781-f7dd-490f-aa9f-b53af7f70287,Phishing,2025-01-08,Under Investigation,0
+1666,1196,835207da-dfc8-4786-b9ec-84f03fb1d149,Account Takeover,2024-07-25,Resolved,1
+1667,1196,ac7a4bcf-08ef-4d2e-858c-dea78cc8a9bd,Card Fraud,2025-04-15,Resolved,1
+1668,1197,7300a4ff-1edd-4e80-ac8f-83436eccbc51,Account Takeover,2025-05-05,Under Investigation,0
+1669,1197,989bad88-e638-4ccf-8a6d-d69bc3643f38,Card Fraud,2024-05-03,Under Investigation,0
+1670,1198,bf7ffbc3-d825-4602-9a21-aed5f6f6498d,Account Takeover,2024-05-12,Resolved,1
+1671,1199,dce9dc0e-cdef-41e0-83b8-94df5d8e96f5,Account Takeover,2023-09-18,Under Investigation,0
+1672,1199,48fe00c6-fc00-409c-ae25-b78ef17cbdb5,Account Takeover,2024-11-04,Under Investigation,0
+1673,1199,adf647c7-a431-4cbf-9569-0a786f0b8990,Money Laundering,2024-02-06,Under Investigation,0
+1674,1200,34420ac6-8e67-4157-b783-90f3f30de637,Card Fraud,2025-05-12,Under Investigation,0
+1675,1201,38decff1-322a-4c2e-be55-115fa42f9e83,Card Fraud,2024-12-25,Resolved,1
+1676,1202,04587564-fde0-4138-b91b-87336fcaa164,Identity Theft,2025-05-08,Under Investigation,0
+1677,1203,53cd4485-88e3-47b8-82c7-9e95128af01e,Phishing,2024-02-03,Under Investigation,0
+1678,1203,75f13384-f64e-4c23-a148-fb27fee8b033,Identity Theft,2024-07-26,Under Investigation,0
+1679,1203,dc9a65cd-a49c-41ae-bc8e-3ee2dc51de4d,Card Fraud,2024-01-21,Under Investigation,0
+1680,1204,e404bcaf-e471-4fc1-9309-f6a0089364c6,Money Laundering,2025-04-10,Under Investigation,0
+1681,1204,ab71ed81-655b-46a0-99ff-b869fbf644fb,Money Laundering,2023-02-21,Under Investigation,0
+1682,1205,5e103fec-c448-4c30-bb64-4e6b7c844b8a,Money Laundering,2025-03-27,Under Investigation,0
+1683,1205,9006e3f9-893f-421c-baf1-28a623de03dc,Account Takeover,2025-02-14,Resolved,1
+1684,1205,5092552a-1400-422d-9d2b-a5bcadeb2566,Money Laundering,2025-02-16,Under Investigation,0
+1685,1206,30acefd4-b9b8-4da7-a13d-c0251dbddc0c,Account Takeover,2025-04-30,Resolved,1
+1686,1206,cfc2dbb9-9ef7-4172-8568-23d7cea232c7,Card Fraud,2025-05-04,Resolved,1
+1687,1207,29c1e1ca-d2ac-469a-b02e-cbbff2fc9538,Account Takeover,2024-04-13,Resolved,1
+1688,1207,3e1a00a0-e340-4b2b-91ee-b04a05c72b44,Identity Theft,2024-11-05,Under Investigation,0
+1689,1207,ae24225f-efff-4409-ae6c-692e25f2c8b5,Phishing,2024-05-15,Under Investigation,0
+1690,1207,3fbe0d07-6b9c-4167-8950-6f99a0eb41d9,Money Laundering,2022-03-13,Resolved,1
+1691,1207,4f1acbf4-eacb-4b1e-bb4f-5c077a05f588,Card Fraud,2023-12-25,Under Investigation,0
+1692,1208,511b1336-79ff-4d19-bf15-1c2b7279a433,Card Fraud,2025-05-15,Resolved,1
+1693,1209,033b685c-32e0-48e9-8c14-187b44b13f7a,Account Takeover,2025-04-02,Resolved,1
+1694,1209,63a5065e-1978-4ac7-8e32-510f4b13e1ee,Account Takeover,2025-03-04,Resolved,1
+1695,1209,e53b114c-f373-44c2-92b8-e92ffc6bbb5d,Money Laundering,2025-05-02,Under Investigation,0
+1696,1210,a82f345d-fd33-4c04-bd41-bce4a88fcec3,Identity Theft,2024-06-04,Under Investigation,0
+1697,1212,911d8b30-d172-4d37-83ba-6cf2490ae16f,Phishing,2023-01-22,Under Investigation,0
+1698,1213,3e4b932d-4208-43ad-9f3b-8ed2bd7d1cee,Money Laundering,2021-12-19,Resolved,1
+1699,1213,ddba1846-4676-4830-8d23-9519f6768695,Money Laundering,2022-08-24,Resolved,1
+1700,1213,e3056579-f162-49ca-a1c2-cdf98541e0cb,Phishing,2022-09-05,Resolved,1
+1701,1216,f0c884d3-6ad4-478b-9e31-8b4bae60b28b,Money Laundering,2025-05-12,Under Investigation,0
+1702,1216,f2d4f0b2-ec11-4d6a-bf03-bd7de3f54385,Account Takeover,2025-05-14,Under Investigation,0
+1703,1217,18e67d98-cd42-4694-981a-34efff3595d4,Money Laundering,2024-10-01,Resolved,1
+1704,1218,1370ad1a-d1c9-46b0-9cd2-09529f57c406,Identity Theft,2025-05-13,Resolved,1
+1705,1218,b542d866-c2e4-442b-aa24-dd2797fb821f,Identity Theft,2025-05-14,Under Investigation,0
+1706,1219,fd89e83a-91c6-4f0b-87fd-f3fd51c093fa,Phishing,2025-05-06,Under Investigation,0
+1707,1220,fb947e34-4800-4063-9a8a-b3cfae36c976,Card Fraud,2025-04-03,Under Investigation,0
+1708,1220,4f8ffcef-6e23-4171-90f8-805150d3d012,Identity Theft,2024-10-25,Under Investigation,0
+1709,1221,d48b6693-aa2d-4a06-b8d8-286359890d97,Phishing,2024-02-28,Resolved,1
+1710,1223,9ff42e43-e424-4792-934c-f07ea2dc4095,Account Takeover,2024-04-17,Under Investigation,0
+1711,1224,878af2af-1790-439a-a878-656ac661ad14,Phishing,2024-05-16,Resolved,1
+1712,1224,de3de072-b5bf-44bd-aefe-270fbdf81747,Phishing,2024-07-31,Under Investigation,0
+1713,1225,50e0b8d4-8339-4756-a6d7-cfe152e74657,Phishing,2024-12-17,Resolved,1
+1714,1226,b31b1f9c-609d-4ea2-a913-bba2f051a194,Phishing,2025-01-29,Under Investigation,0
+1715,1226,c65797c7-301d-48d8-8809-d02c5e978900,Card Fraud,2025-01-23,Resolved,1
+1716,1227,ebd8af2d-6909-478e-8e9c-8910aa3b4b36,Account Takeover,2025-05-08,Under Investigation,0
+1717,1227,7da0e1cb-66f2-4be0-b239-e44c42bb7109,Phishing,2025-05-10,Resolved,1
+1718,1227,0199538e-c91a-44d5-aeb5-4f13dcdbb2b3,Card Fraud,2025-05-12,Resolved,1
+1719,1228,6ea3a3ad-22e8-4b78-ab3c-0e2c5d85d194,Money Laundering,2025-02-21,Under Investigation,0
+1720,1228,65eec440-d484-48cc-b9e3-582e8452ba29,Card Fraud,2025-03-27,Under Investigation,0
+1721,1228,a03c3ca4-9dd8-43cd-9834-26f41ee614a4,Money Laundering,2025-02-24,Resolved,1
+1722,1229,560740cb-fef3-41d1-90a8-55b3c1b63f55,Phishing,2024-10-24,Under Investigation,0
+1723,1231,419070b3-3cd5-40f2-b686-5b1bf0ef91d0,Account Takeover,2025-03-10,Under Investigation,0
+1724,1232,d61c7a39-c870-4e22-8c46-5ff48151d341,Card Fraud,2023-10-16,Resolved,1
+1725,1233,3691b86c-56fe-4b5c-b35a-74f4228a16d2,Identity Theft,2024-09-13,Under Investigation,0
+1726,1233,07421d2d-6dcd-48d9-964a-20f874901c60,Card Fraud,2025-02-28,Under Investigation,0
+1727,1235,d63d4ea8-bcfe-46d6-b823-e0d6d5a67481,Money Laundering,2022-09-16,Under Investigation,0
+1728,1235,8278c419-dc30-4e48-b468-bcab92a07fdb,Identity Theft,2023-07-28,Under Investigation,0
+1729,1236,ce566043-a2e1-4f90-94f8-1f35839d360b,Card Fraud,2024-03-05,Resolved,1
+1730,1236,0019c6a5-aa6f-4782-b4c1-1e74a20c3d7f,Account Takeover,2025-03-20,Resolved,1
+1731,1237,31c22865-8eee-4d13-8ccd-e211d1aef203,Card Fraud,2025-01-07,Resolved,1
+1732,1238,461c0bb0-8f1c-4261-aeb3-d08234b8f882,Account Takeover,2024-10-30,Under Investigation,0
+1733,1238,35e3a8ea-168d-41d6-991c-ecc532e4a465,Account Takeover,2023-05-10,Resolved,1
+1734,1240,1ebf66f7-9a9b-4c26-89fd-944ddd5b070c,Identity Theft,2023-10-23,Under Investigation,0
+1735,1240,db5fee97-9923-4743-b7aa-dda79f202cc8,Account Takeover,2023-11-25,Under Investigation,0
+1736,1240,91911971-628d-481b-9669-fbbdd79470ec,Money Laundering,2024-12-20,Under Investigation,0
+1737,1240,014ca52e-049e-4e40-ad16-f7381208b365,Identity Theft,2024-03-24,Resolved,1
+1738,1241,d18aaa4d-5e80-4e40-aeba-e435ffcf66f8,Account Takeover,2025-01-13,Under Investigation,0
+1739,1241,fcbcf41e-3485-4ccb-97b8-bad475ea480e,Account Takeover,2024-11-11,Under Investigation,0
+1740,1242,807d07ed-4c8c-49ff-bf10-d7d43f91d976,Card Fraud,2025-05-04,Under Investigation,0
+1741,1242,e1da3d7a-9239-4630-907c-e7dd7d844226,Phishing,2025-04-28,Resolved,1
+1742,1245,1f6d4888-d3d2-4698-b2c6-4c8688a1884b,Account Takeover,2023-08-05,Resolved,1
+1743,1245,837e468c-6039-438c-8717-50c8702f0234,Phishing,2023-12-18,Under Investigation,0
+1744,1247,3a2b0b3b-7d4e-4e96-a419-efc26d317bc6,Identity Theft,2025-05-12,Resolved,1
+1745,1248,748c1fcf-a792-4cfb-8b16-fa4c2537b3a2,Money Laundering,2024-02-28,Under Investigation,0
+1746,1248,424af9e0-0c63-40c6-b631-7568977ff0fd,Money Laundering,2025-05-16,Under Investigation,0
+1747,1250,8dd0e9cb-64ce-4d6b-9d12-3a6181b29601,Money Laundering,2024-04-04,Resolved,1
+1748,1250,5f5caa04-59cf-415c-a3a6-27a4b9f12f59,Card Fraud,2023-12-25,Resolved,1
+1749,1251,7c760416-1fe3-4ef1-81ce-9ae517c050c7,Money Laundering,2025-05-05,Resolved,1
+1750,1251,8c088184-1281-4ade-9d37-0067a148f606,Money Laundering,2025-05-15,Under Investigation,0
+1751,1252,33af695e-e1ca-4137-b358-85356c8fa6de,Identity Theft,2025-01-27,Under Investigation,0
+1752,1253,c2dcc389-963c-4cba-8ca0-fa205b536e2d,Account Takeover,2024-07-13,Under Investigation,0
+1753,1255,fd9d95d5-2802-4350-86e8-271ab7434856,Account Takeover,2025-05-13,Resolved,1
+1754,1255,6c2a09b7-83ec-46e1-bd59-f9a0b93e4fc0,Money Laundering,2025-02-15,Under Investigation,0
+1755,1255,986684c4-19fa-446e-90c2-19db556d8a54,Account Takeover,2025-05-09,Resolved,1
+1756,1257,e1b2c7cf-b6c4-42bc-80ad-44a97e73c5c8,Phishing,2025-03-10,Under Investigation,0
+1757,1258,b7ea8935-bbab-439e-8697-db3b41b339e8,Account Takeover,2025-04-08,Under Investigation,0
+1758,1258,e7e863b5-7313-480b-b2a0-75a8c06202eb,Identity Theft,2023-12-23,Under Investigation,0
+1759,1259,17e76815-ac66-48e4-8edb-6bb4be7cb6ce,Identity Theft,2025-04-26,Resolved,1
+1760,1260,8a517dab-cbc7-4be6-9fa6-5961d2a29213,Phishing,2025-04-27,Under Investigation,0
+1761,1262,ee8f547c-b1e5-462a-8efa-add64b21db0a,Identity Theft,2023-09-01,Resolved,1
+1762,1262,447687c8-ec68-4858-87fb-80f4f429e4fa,Account Takeover,2024-07-25,Under Investigation,0
+1763,1263,eaf933b8-9db9-4293-b845-366cfa36e782,Identity Theft,2025-04-28,Resolved,1
+1764,1263,69f69085-0d89-472c-8244-cd60fdbdec26,Money Laundering,2025-05-09,Resolved,1
+1765,1264,d6a3c2fc-6667-4149-8dc0-a6e2058cd963,Phishing,2025-03-23,Under Investigation,0
+1766,1264,5046e609-9078-4446-8b81-842de0f37579,Money Laundering,2025-03-22,Under Investigation,0
+1767,1264,5335b61a-9534-420d-a5ea-a6654404ad68,Phishing,2025-05-13,Under Investigation,0
+1768,1265,a09ea476-6887-4a5f-9588-2935afda2dc3,Card Fraud,2025-02-07,Resolved,1
+1769,1265,c30af34f-09d7-4e46-9442-dfa28046d5ca,Phishing,2025-05-07,Resolved,1
+1770,1265,4be3bbf3-1554-413f-8ac0-de8fdb7957af,Card Fraud,2025-02-08,Resolved,1
+1771,1265,00f5e660-f2f7-418d-a504-9fd0ef42f828,Account Takeover,2025-03-15,Resolved,1
+1772,1265,3f7e0bce-9174-4569-ab45-9be55de8aa24,Account Takeover,2025-03-19,Under Investigation,0
+1773,1266,dba3dbd0-1a5b-4b72-9973-6487fb449d58,Phishing,2025-04-22,Resolved,1
+1774,1268,eafacf92-d662-4e2c-b678-722096a835a8,Money Laundering,2025-04-25,Under Investigation,0
+1775,1268,27858040-c4a0-4c55-a088-c8569ca6d621,Money Laundering,2025-05-14,Under Investigation,0
+1776,1268,6fbf4ef3-656c-4355-968f-40a49c0405ba,Phishing,2025-05-03,Under Investigation,0
+1777,1268,fdf68088-47f3-491c-84da-035c7d6dc9d6,Card Fraud,2025-04-26,Under Investigation,0
+1778,1269,762eb503-002f-4bb6-b911-4f47d3e6f8d8,Money Laundering,2024-03-26,Under Investigation,0
+1779,1269,6dfd3b30-fe7e-4af9-a40d-b80bb3b73942,Card Fraud,2024-04-24,Resolved,1
+1780,1269,f06d5fb7-e412-4357-afad-9279465cbf99,Card Fraud,2024-12-24,Under Investigation,0
+1781,1269,6a999c7c-dbf6-425d-9ad5-3568bade1808,Account Takeover,2025-04-18,Under Investigation,0
+1782,1271,a16ce8af-424b-4284-b087-98092682be67,Account Takeover,2024-11-13,Under Investigation,0
+1783,1272,42987396-fe6f-4b27-9763-a4cafeed9590,Identity Theft,2024-03-24,Under Investigation,0
+1784,1275,405929f5-438d-4a5d-b6f8-d50fab67f8df,Card Fraud,2025-03-20,Resolved,1
+1785,1275,e0c315a7-a708-490e-8202-494f03f9c65a,Identity Theft,2025-05-08,Under Investigation,0
+1786,1275,6f9c7430-e3f9-40ef-af10-bb6bb9b7bf13,Identity Theft,2025-05-11,Resolved,1
+1787,1276,2b669a88-791e-4bfc-8482-a08897ce50c1,Account Takeover,2024-10-27,Under Investigation,0
+1788,1277,6dd84a7c-3a6c-4b32-8d6e-b3888e1dd3df,Identity Theft,2025-04-27,Under Investigation,0
+1789,1277,e6100570-7013-4329-b342-f12a353ad5b4,Phishing,2025-05-06,Under Investigation,0
+1790,1277,9c6c769d-05f2-496f-a7aa-eb132ce11918,Identity Theft,2025-05-08,Under Investigation,0
+1791,1277,edaa88d1-d98d-40b8-afe6-68d65b30db9f,Account Takeover,2025-02-17,Resolved,1
+1792,1277,8b712026-ef20-4fb2-bb04-f2235835de71,Account Takeover,2025-03-04,Under Investigation,0
+1793,1278,2a66e13b-ffc9-4caf-a54c-e8e68cd8ad86,Account Takeover,2023-12-09,Under Investigation,0
+1794,1280,d282d66c-c5bc-489e-825a-4279f627c02d,Card Fraud,2025-05-13,Under Investigation,0
+1795,1282,1bb4f6f2-9092-4cb9-860b-51bb45902601,Money Laundering,2025-03-10,Resolved,1
+1796,1282,64d85c3f-56ee-4447-bcd0-88b379928fee,Account Takeover,2025-05-09,Resolved,1
+1797,1283,e4852a02-3625-4925-9c8f-714f20212b16,Money Laundering,2024-12-21,Resolved,1
+1798,1283,d6bb7c97-4cd8-4da8-9cf2-858811edeb17,Identity Theft,2024-06-29,Under Investigation,0
+1799,1284,6cdca59e-df4f-447b-ad3a-7af4585ff5e1,Money Laundering,2025-04-03,Under Investigation,0
+1800,1284,5a090501-ac5c-419d-9706-451a853997b1,Identity Theft,2024-12-27,Under Investigation,0
+1801,1284,f15c86cc-3e7c-421c-b8dd-9885393d7c7c,Money Laundering,2025-04-04,Under Investigation,0
+1802,1284,efbd2880-321d-4e4d-8604-28d4b67d6e27,Phishing,2025-01-15,Under Investigation,0
+1803,1286,d9527cd9-8307-4569-8add-abdbf1277ea7,Identity Theft,2025-04-08,Under Investigation,0
+1804,1287,dff18fed-6815-43bc-89c6-3593abb619e9,Identity Theft,2025-02-22,Under Investigation,0
+1805,1287,5c07d9c5-c7e1-41c5-8510-0900b03c7e82,Card Fraud,2025-05-02,Under Investigation,0
+1806,1288,a32dc3f5-8498-416f-8709-ff11cc3d07bf,Phishing,2024-07-11,Resolved,1
+1807,1288,65591ad0-5fb9-4a4e-8d9c-72448b69a95f,Money Laundering,2023-06-11,Under Investigation,0
+1808,1288,e576c0d8-34bd-4a14-b8ee-a3edd31367bb,Money Laundering,2024-02-11,Under Investigation,0
+1809,1289,102a0e59-f294-4433-8635-694420298c3d,Money Laundering,2023-12-14,Resolved,1
+1810,1290,ac1dae2f-53a3-4b9a-a2e5-e8a5e83f7ec2,Account Takeover,2025-01-14,Under Investigation,0
+1811,1291,1b400182-bbf5-44da-9f9e-5cfb5dc8c634,Card Fraud,2025-05-15,Resolved,1
+1812,1292,6c079dd9-54e1-48d3-870e-d24d36ef0ccb,Account Takeover,2025-01-12,Under Investigation,0
+1813,1292,9a9800c3-74c0-4e53-9788-9685e29d2986,Account Takeover,2023-10-05,Under Investigation,0
+1814,1294,af4d8df2-4c65-4f2e-a31b-40264abcd57a,Card Fraud,2025-05-08,Resolved,1
+1815,1299,283893ad-c592-4bb8-8239-2aebeb2b94d2,Identity Theft,2024-12-19,Under Investigation,0
+1816,1299,782ee901-5d5b-4db8-90a7-8c1bb9ca91e8,Card Fraud,2025-04-03,Resolved,1
+1817,1302,30306434-835e-4079-b54a-2d84e2c6f9b2,Account Takeover,2024-08-09,Resolved,1
+1818,1302,5a7ccf50-9357-4bea-a81f-67129d68291b,Phishing,2024-07-28,Resolved,1
+1819,1303,d5994423-9beb-4bfe-81ae-fe4347b9fa89,Account Takeover,2024-04-06,Resolved,1
+1820,1303,21698056-0ee3-49ee-bcac-1539eb74e4d3,Account Takeover,2024-12-16,Under Investigation,0
+1821,1303,732b344f-d4b8-4129-b499-f5281cade704,Card Fraud,2023-08-30,Under Investigation,0
+1822,1304,5167d6fc-161f-41bb-badd-3cb2bd6c8e12,Identity Theft,2025-05-14,Under Investigation,0
+1823,1304,5d78e062-53ac-48c6-8dbe-8ff280aea88c,Money Laundering,2025-03-16,Under Investigation,0
+1824,1304,cc2e8955-d7a9-40a5-8343-d5b5024c4887,Money Laundering,2025-05-03,Resolved,1
+1825,1306,abd2054f-1ce9-4d2e-a013-771c4a459178,Card Fraud,2025-03-28,Under Investigation,0
+1826,1306,03ebf10d-17e7-4e1a-9e15-b8f73a963096,Account Takeover,2025-03-16,Under Investigation,0
+1827,1306,e211b9e7-c2d6-4478-b0fa-e8d71b1ffe98,Card Fraud,2025-03-31,Under Investigation,0
+1828,1307,b5de48dd-d4c1-413a-a17f-0806661e4452,Identity Theft,2025-03-19,Resolved,1
+1829,1308,992a7238-aef5-483f-959b-f7d1ed27d697,Card Fraud,2024-11-28,Under Investigation,0
+1830,1309,e07103ff-6be1-49a3-9c54-94b7f44f9265,Money Laundering,2023-10-06,Under Investigation,0
+1831,1310,170a8947-07fc-495f-a691-70388f588c63,Money Laundering,2023-11-02,Resolved,1
+1832,1310,d71e34f3-7e1e-48e7-87fc-1b6556de7e66,Money Laundering,2023-10-25,Under Investigation,0
+1833,1311,7cc66987-fdf6-4403-bffe-a2baa35da28f,Identity Theft,2025-04-17,Resolved,1
+1834,1311,75820b84-2c4c-46b9-8dff-d0dba3726b38,Phishing,2025-03-11,Under Investigation,0
+1835,1311,ad0dcdab-40c7-42b9-9c6f-b733b0d31dbb,Card Fraud,2025-04-06,Under Investigation,0
+1836,1313,b3f9536d-7d1e-4449-9d5d-bfbef3f06bdb,Money Laundering,2023-12-20,Under Investigation,0
+1837,1314,978a950a-dbee-45bb-88fe-9efc336aca73,Identity Theft,2024-03-19,Under Investigation,0
+1838,1314,c2fa1cb7-f1d1-4898-bac2-bf48d10f2467,Money Laundering,2025-01-19,Resolved,1
+1839,1315,7d891e14-3a82-4e56-9d85-7faf9847eaa8,Money Laundering,2025-01-30,Under Investigation,0
+1840,1315,bfd574a9-30eb-4549-86e5-93c7f774377e,Card Fraud,2025-04-05,Resolved,1
+1841,1315,ffac84be-d7d5-49fe-a892-cd8b6d4b747f,Account Takeover,2024-08-12,Under Investigation,0
+1842,1316,53216570-b012-421e-b3bb-e4f7aa812cdb,Identity Theft,2025-05-15,Resolved,1
+1843,1318,ab7d7c13-152c-49d7-a46e-af220e627096,Account Takeover,2025-04-29,Resolved,1
+1844,1319,ae045fe4-29ce-4e71-969a-784b8a455039,Card Fraud,2022-07-12,Under Investigation,0
+1845,1321,1a0ec53e-6b9d-4acf-9191-b80b50db1ae0,Account Takeover,2023-10-17,Under Investigation,0
+1846,1322,e812724e-5723-4a87-946d-ee9092fb247b,Money Laundering,2025-02-21,Under Investigation,0
+1847,1322,abf7849e-2d5b-42a5-9272-d30b5eb8236c,Identity Theft,2025-02-21,Resolved,1
+1848,1325,c5236a60-4788-475a-9b79-7d6790d36a20,Card Fraud,2025-04-19,Under Investigation,0
+1849,1325,3c42cc90-e1a2-4093-8996-32ca56c1643f,Card Fraud,2025-02-28,Under Investigation,0
+1850,1325,6c0caae3-4947-41a1-9281-292bb52206b7,Money Laundering,2025-04-19,Under Investigation,0
+1851,1328,2a362167-db7f-43c3-883f-87528eb63eb9,Phishing,2024-06-08,Under Investigation,0
+1852,1329,6165bf99-932e-40d6-90f6-339a82c625be,Card Fraud,2025-04-05,Under Investigation,0
+1853,1329,35afdb32-9cb4-4555-bef9-0b8cddf5b86c,Card Fraud,2024-03-23,Under Investigation,0
+1854,1329,f06583ac-1e25-4dd4-b81e-eeb1286d8e37,Card Fraud,2024-08-01,Under Investigation,0
+1855,1329,1adceb7c-1233-461c-9eac-2bcf4a51aedd,Phishing,2024-10-23,Under Investigation,0
+1856,1329,ac73047a-14bb-49ce-9974-ffae540362d7,Account Takeover,2023-05-07,Resolved,1
+1857,1330,e63ea13d-6e39-426a-a2ea-d75d15adf93e,Card Fraud,2023-12-24,Under Investigation,0
+1858,1330,5d4dbf68-fb5c-4ff2-8f42-54f36ddc2424,Phishing,2024-06-12,Under Investigation,0
+1859,1330,6ec0d524-baaf-42a1-bcc5-e394eff05167,Card Fraud,2023-12-30,Resolved,1
+1860,1332,36b01311-4f7c-4fb7-9eb9-4a7538bd7748,Money Laundering,2024-08-14,Resolved,1
+1861,1333,f845f628-cbfc-459c-95cd-9347b19be33a,Money Laundering,2025-02-15,Resolved,1
+1862,1333,f1bd0bfb-2c77-406f-878a-1c9ffb974743,Card Fraud,2024-12-27,Resolved,1
+1863,1335,a3d29456-e78c-4395-8589-e0a90b7874c6,Account Takeover,2023-05-31,Resolved,1
+1864,1336,7993dbdc-910c-4586-8143-2652611aa451,Phishing,2025-04-21,Under Investigation,0
+1865,1336,9bc839e7-1029-46b4-a836-ff761fb94645,Account Takeover,2025-03-21,Under Investigation,0
+1866,1338,3238cddc-74a0-4210-8964-ca0616fc8d93,Account Takeover,2025-02-12,Resolved,1
+1867,1338,bc2636aa-2471-47da-bb5d-3fe43b1ecd5b,Account Takeover,2025-04-01,Resolved,1
+1868,1339,e7963ba8-9bb2-43d8-89d3-effebfd5568f,Identity Theft,2025-04-04,Resolved,1
+1869,1339,c15bb750-a710-490f-8328-93381ff1556c,Account Takeover,2024-10-02,Under Investigation,0
+1870,1339,ff80fb07-a65e-439a-bb95-097ed34e91da,Identity Theft,2025-02-23,Under Investigation,0
+1871,1339,40b3ee6a-05b1-4527-8be4-75b6bc1096a7,Account Takeover,2025-02-06,Resolved,1
+1872,1340,a278c587-49f1-47fb-96b8-dedd3da5f63a,Identity Theft,2025-05-05,Under Investigation,0
+1873,1341,6ec0bc56-4b75-4630-807b-2ca13d608a6e,Phishing,2025-03-18,Under Investigation,0
+1874,1341,151461d8-05bf-483b-a110-84b905ce8f83,Money Laundering,2023-08-11,Under Investigation,0
+1875,1342,a91b7eab-1770-4982-8417-363fd17bd74b,Phishing,2025-02-05,Resolved,1
+1876,1343,00e2b1f5-33d3-4475-9f53-cd88f37c97e8,Identity Theft,2025-04-08,Under Investigation,0
+1877,1343,f4aa0bc7-697d-457e-b911-6de63b363c3c,Card Fraud,2025-03-18,Under Investigation,0
+1878,1344,cadd9757-90db-4f22-80da-d381369edf17,Account Takeover,2024-09-30,Under Investigation,0
+1879,1345,994852da-27de-4d1a-9090-2dd2e562f3e6,Identity Theft,2025-05-14,Under Investigation,0
+1880,1345,3dea059c-b5bb-40ba-8e75-c04411545bdd,Phishing,2025-05-09,Under Investigation,0
+1881,1346,17680071-f13d-4ded-94a8-2060af3095d5,Account Takeover,2023-08-10,Resolved,1
+1882,1350,948894b1-3a6f-4b49-a540-208f3b1ff5fb,Identity Theft,2025-04-30,Resolved,1
+1883,1350,fc83aca2-d4f8-42ea-babc-066946d3c189,Money Laundering,2025-03-03,Resolved,1
+1884,1351,c5392f17-4caa-4666-96e7-e7ad71b84481,Identity Theft,2023-11-25,Under Investigation,0
+1885,1352,d28b4b15-1dee-412f-b41a-cdb65b0423b3,Account Takeover,2025-01-03,Under Investigation,0
+1886,1352,8b515336-ff30-4540-b188-0775aa19d41b,Card Fraud,2024-08-25,Under Investigation,0
+1887,1352,42fe43e9-b51d-4c14-b6c4-2ec22b051562,Money Laundering,2024-11-26,Under Investigation,0
+1888,1352,99f06736-e7d9-4054-8570-b5fd9e4e93a4,Identity Theft,2023-09-08,Under Investigation,0
+1889,1352,b5fcf58d-ac65-461e-a97e-d665008d64c3,Phishing,2025-02-18,Resolved,1
+1890,1352,f89b60ce-c8ac-447e-a048-1c6c87d66971,Identity Theft,2023-07-27,Under Investigation,0
+1891,1353,bcca9e3a-d4f8-407f-9f91-0dcf21d7f89a,Phishing,2025-05-06,Under Investigation,0
+1892,1355,5bd0721c-9d6b-456e-acee-7e1b235c6f0c,Identity Theft,2024-07-10,Resolved,1
+1893,1355,ba5e6c26-8d96-4c07-a499-2426e5b0754a,Phishing,2024-07-14,Under Investigation,0
+1894,1355,674fbad2-6e99-4fc1-a442-f40593282e07,Card Fraud,2025-02-17,Resolved,1
+1895,1356,50c3c0ef-3c3f-4a8a-84f8-d13d3e4e52f1,Card Fraud,2025-03-27,Resolved,1
+1896,1356,d128f41c-36fd-4184-aaf6-9556b43f1e2a,Account Takeover,2025-02-09,Under Investigation,0
+1897,1356,3cd1c21e-f25e-4043-b901-16e9eec84772,Identity Theft,2025-04-06,Under Investigation,0
+1898,1359,4df48853-9de1-4003-87d2-687662e2c15c,Card Fraud,2025-02-25,Resolved,1
+1899,1359,be509784-165d-444e-8278-7f494c0bb26e,Money Laundering,2025-03-01,Under Investigation,0
+1900,1359,82b77f18-40fb-40cc-a043-168ee8d74954,Money Laundering,2025-04-27,Under Investigation,0
+1901,1359,6f80fd82-6bf2-4fa9-9ae1-eb3c33e54221,Card Fraud,2025-03-07,Resolved,1
+1902,1361,92e9d313-3f82-49f2-b249-576006d0b433,Card Fraud,2025-05-13,Under Investigation,0
+1903,1362,3b0ee508-9471-424f-8da5-bd2b7e5ec9f2,Card Fraud,2025-02-08,Under Investigation,0
+1904,1362,cd9d3ce1-ee67-4f4e-bbb7-98fbb2381bb8,Account Takeover,2025-01-07,Under Investigation,0
+1905,1364,d3a22139-75d2-4b60-8096-9d7e436d2395,Identity Theft,2025-04-18,Under Investigation,0
+1906,1365,66833e61-26b9-4079-ad5d-523ee7c48f37,Phishing,2024-11-17,Under Investigation,0
+1907,1366,0afe2987-f47c-4429-9b2c-257afab40b9e,Identity Theft,2025-05-08,Under Investigation,0
+1908,1366,d2c42192-29e9-478a-a99f-5de9c0e1df92,Identity Theft,2025-01-17,Under Investigation,0
+1909,1366,c93e1701-d932-4699-8069-90d0fb44b870,Money Laundering,2025-04-04,Under Investigation,0
+1910,1368,3f4ea60a-15a6-470b-86ef-5f3a1ce5d126,Identity Theft,2025-04-14,Under Investigation,0
+1911,1368,edecbb3f-2d80-4990-8bef-cf43766e6ae4,Identity Theft,2025-05-12,Under Investigation,0
+1912,1368,d4522236-d8b5-4383-8b06-2dc2487896a2,Identity Theft,2025-04-28,Resolved,1
+1913,1368,06b9cc82-4c99-4893-a273-5e9105958939,Identity Theft,2025-05-06,Under Investigation,0
+1914,1370,bb598c7a-d0b3-4cef-9008-17bc5a68cab3,Phishing,2025-03-05,Resolved,1
+1915,1370,bee91c36-0813-43e5-bd32-f5c347805440,Account Takeover,2025-03-16,Under Investigation,0
+1916,1370,95fd0365-4f4e-44b3-86ab-c65d34f33a8f,Account Takeover,2024-11-17,Under Investigation,0
+1917,1370,dceeb910-9b50-4f7e-8a9e-e6c8ff249bea,Identity Theft,2025-03-26,Under Investigation,0
+1918,1371,0495802a-7434-462f-a84f-f6e19d82a0b0,Identity Theft,2025-05-04,Under Investigation,0
+1919,1374,35aa3666-833e-4b34-a86d-bc63ae7c9c93,Money Laundering,2025-05-14,Under Investigation,0
+1920,1376,21e891f0-8490-4f89-a555-90dc5a41d55a,Money Laundering,2024-04-15,Under Investigation,0
+1921,1377,3e5ccd46-41c3-41dc-af18-fa6ad52852e2,Money Laundering,2025-05-13,Resolved,1
+1922,1377,d84dde1d-70df-4213-943d-0dd88fe26691,Identity Theft,2025-05-05,Under Investigation,0
+1923,1379,02801692-35fc-496e-bcdf-ee9d2384349d,Card Fraud,2025-04-21,Under Investigation,0
+1924,1379,bf17d34d-2093-4f39-8828-cfd07bdc202a,Card Fraud,2025-03-04,Under Investigation,0
+1925,1380,f0382089-fd35-4435-9a11-a655d4d364b1,Account Takeover,2025-05-11,Resolved,1
+1926,1382,cc6eb2c4-edf0-4226-b781-83ea72559987,Account Takeover,2025-04-18,Under Investigation,0
+1927,1383,fbfecd08-6209-45cf-a902-1dd081acce59,Phishing,2023-04-24,Under Investigation,0
+1928,1385,9485f102-bd58-43c7-9ba4-7fefb0d69cd5,Money Laundering,2022-11-04,Resolved,1
+1929,1386,d0852a37-9519-40f8-bb04-c4d31acfea56,Phishing,2025-04-08,Under Investigation,0
+1930,1387,3c96eadf-205c-4133-a514-012b28351acd,Card Fraud,2024-07-12,Under Investigation,0
+1931,1387,2d001869-1e9b-4e8e-b41d-fb478eb6e8c8,Money Laundering,2024-12-08,Resolved,1
+1932,1388,3efb84e7-c189-4ff2-8c08-647753003235,Identity Theft,2024-05-22,Resolved,1
+1933,1388,9e9dc235-a1cf-4468-a4d7-7dd195a6e488,Money Laundering,2023-06-23,Resolved,1
+1934,1388,569c8688-f905-4b16-b63b-32eac0e5a6de,Identity Theft,2023-02-14,Under Investigation,0
+1935,1389,f65140e1-ad38-46fc-ace6-a4a8d83dcc63,Phishing,2025-05-10,Resolved,1
+1936,1390,6a1d9fbe-8581-49d8-95de-957a2fdcb60e,Account Takeover,2025-03-28,Under Investigation,0
+1937,1391,b46179b7-bda8-4128-906a-62715a3a462b,Phishing,2023-08-21,Resolved,1
+1938,1391,5817dbda-e7d2-43b0-b45e-a256d0a767e6,Phishing,2024-11-27,Under Investigation,0
+1939,1391,5202fe9c-ffb3-43c0-9d51-f6e79c985f04,Account Takeover,2025-01-01,Under Investigation,0
+1940,1391,7bc8be71-9e1e-4af7-8e50-b114fe356e46,Card Fraud,2025-03-28,Under Investigation,0
+1941,1391,6989088b-fa6c-4e54-958f-c42dd08a9fb0,Phishing,2024-07-30,Resolved,1
+1942,1391,2f1d6005-e749-4a47-b2bb-55c9ba85dafd,Phishing,2023-12-06,Resolved,1
+1943,1392,41d3ec8e-6697-435b-9974-ced0d0ea3421,Identity Theft,2023-12-21,Under Investigation,0
+1944,1392,949ce332-57fd-4daf-a065-cc4def049f58,Phishing,2023-04-03,Under Investigation,0
+1945,1392,58c7a81f-f1b5-47e2-bd8a-9b9305dae593,Money Laundering,2023-03-23,Under Investigation,0
+1946,1393,7cafac32-4e9d-43c7-929e-e90c50b70eef,Money Laundering,2025-03-17,Under Investigation,0
+1947,1393,76c7576e-ccf8-4ec7-af2c-1476832ca71c,Account Takeover,2025-05-09,Under Investigation,0
+1948,1394,667d2c31-79a1-4004-b498-31012a755ecb,Money Laundering,2024-06-26,Under Investigation,0
+1949,1394,f03647a0-44ad-41b0-8bd3-8d2b505ef75b,Account Takeover,2025-04-08,Resolved,1
+1950,1394,f046c7e1-641d-4add-92c2-3139b65be3ca,Card Fraud,2025-03-04,Under Investigation,0
+1951,1394,663ea85d-e9f3-4887-adc8-3d235299b25c,Money Laundering,2025-05-15,Resolved,1
+1952,1396,6172f036-5e75-499f-865c-86c9f6a3a87e,Card Fraud,2024-11-27,Resolved,1
+1953,1398,d36eb33b-596e-49b1-b753-2251d1b0e3da,Card Fraud,2025-02-24,Under Investigation,0
+1954,1399,cd3dbd0d-190e-4f39-bed7-20aa52fd4a09,Phishing,2024-08-31,Under Investigation,0
+1955,1401,88ed17f6-b3e9-413e-8172-cbb44d5c62e0,Identity Theft,2022-05-21,Resolved,1
+1956,1401,b40c9227-0f71-4ce7-adf1-8559f5251248,Account Takeover,2024-03-05,Resolved,1
+1957,1401,0343dbe7-cb96-4235-a3ac-694a33f28241,Money Laundering,2024-08-06,Resolved,1
+1958,1402,ce5fccaf-4b3f-4ace-961c-aeb368367bc7,Identity Theft,2023-05-03,Under Investigation,0
+1959,1403,158bb2c1-e699-486b-b3ff-fb4d94f5a00c,Phishing,2024-05-17,Under Investigation,0
+1960,1403,8e4129b4-8df1-4082-958a-98a90e7c3c6c,Card Fraud,2024-11-10,Resolved,1
+1961,1405,f31c72fd-8bb0-4592-9d48-9d8711af7416,Money Laundering,2025-02-21,Resolved,1
+1962,1406,84beeec1-5d0c-42af-a311-0a4a9087cb5e,Money Laundering,2024-02-27,Under Investigation,0
+1963,1406,212e2491-9571-4031-848b-cef88e383d7b,Phishing,2024-06-21,Resolved,1
+1964,1407,ca8ef9ea-4eb6-4571-aad0-f608c8ce0940,Card Fraud,2025-05-12,Resolved,1
+1965,1407,43956268-7d66-4ecc-94a0-85ea0b8ed8ba,Phishing,2025-05-09,Under Investigation,0
+1966,1408,49539809-306c-43d6-8a2b-ef5bc4507d72,Account Takeover,2023-02-07,Resolved,1
+1967,1409,3a198bc1-2544-46c1-881f-29ac1a567e8b,Phishing,2025-04-07,Under Investigation,0
+1968,1409,0cad7181-9fdd-49b3-94c7-01426bf05830,Card Fraud,2021-10-23,Under Investigation,0
+1969,1409,57a01cf1-a435-471a-b80c-433418f2fc91,Card Fraud,2021-03-07,Under Investigation,0
+1970,1409,ef0b70db-cfc9-4767-9e3b-e1767018a661,Identity Theft,2024-05-23,Resolved,1
+1971,1410,b084e071-ecbb-4b21-a75b-48878ae0bd56,Card Fraud,2023-09-01,Resolved,1
+1972,1411,28d351bf-b6a4-40e7-987d-4bc7ccbc9aaa,Identity Theft,2025-04-28,Under Investigation,0
+1973,1411,95b6e32f-e64d-4b7f-ac9f-fb498545baa6,Account Takeover,2025-02-03,Under Investigation,0
+1974,1411,951ebcdd-360a-40b4-8ff1-098785ba82a7,Identity Theft,2025-04-26,Resolved,1
+1975,1411,227cf827-3d37-4788-ab46-c9addb9cdc23,Account Takeover,2025-03-29,Under Investigation,0
+1976,1411,b5f0cc00-8cc4-41ab-86b3-b13128a0d5d5,Account Takeover,2025-05-03,Under Investigation,0
+1977,1411,904f2815-c12f-4d32-84a1-2c2e669fd2c6,Account Takeover,2025-04-20,Resolved,1
+1978,1411,ce3307e7-2dc7-4e2a-8871-2d7938fb127c,Identity Theft,2025-05-08,Resolved,1
+1979,1411,2096911d-4e64-4d10-8f07-15758dd31339,Money Laundering,2025-04-14,Resolved,1
+1980,1412,aa02ff88-2bab-4688-9f20-2ac3dc3cd428,Card Fraud,2025-02-26,Under Investigation,0
+1981,1413,169977ef-cc3d-4281-a9e2-4e311602b31f,Money Laundering,2024-03-01,Under Investigation,0
+1982,1414,13e3e03a-63e5-403d-bf4e-398271d87104,Identity Theft,2024-09-02,Resolved,1
+1983,1414,f22a1afd-71c1-42d3-a5a5-d463eda0c556,Identity Theft,2025-04-25,Resolved,1
+1984,1418,a67407cd-8de4-4960-8ac1-9a5df5fd0b85,Card Fraud,2021-05-30,Under Investigation,0
+1985,1418,d4523ee9-ec34-4eea-b6a0-102df355a8d4,Card Fraud,2025-01-25,Under Investigation,0
+1986,1420,c97e5f55-a546-44d7-8c2c-c95dfccd08b8,Identity Theft,2025-05-12,Resolved,1
+1987,1420,fc9fc9fe-f946-4c1b-880f-4f82cdcc6ae0,Card Fraud,2025-01-04,Under Investigation,0
+1988,1420,4a8804e4-a10f-42a8-888f-b4dbf284aa72,Money Laundering,2025-01-16,Resolved,1
+1989,1422,6a614548-ec9e-406f-966f-afb45a470526,Account Takeover,2024-11-27,Under Investigation,0
+1990,1423,6f7a968b-b23b-47b1-80ee-b691ce643a59,Account Takeover,2025-05-12,Resolved,1
+1991,1424,b6228d72-f32a-43b3-95aa-fd9f150d3c92,Account Takeover,2025-01-08,Under Investigation,0
+1992,1425,4bc10ddc-a2fe-45a1-8751-ef06d4626f58,Phishing,2024-02-09,Under Investigation,0
+1993,1426,807c8054-1a85-4751-87e6-7ad8c4790bba,Phishing,2025-05-04,Resolved,1
+1994,1426,5dbb90c8-dc72-4dc3-ae4a-ec9127b8a494,Card Fraud,2024-12-16,Resolved,1
+1995,1426,5130454a-e8be-45b3-8f94-01c4052df72a,Phishing,2025-05-05,Under Investigation,0
+1996,1429,5cb2e42b-649e-42ac-bbb9-7a05bad6bfbd,Identity Theft,2025-04-28,Resolved,1
+1997,1429,d65794ac-f528-4eeb-8b9a-f33bf63e111e,Identity Theft,2025-05-05,Resolved,1
+1998,1430,12d8b886-ba61-467f-b181-0ff84d38d522,Card Fraud,2023-08-11,Resolved,1
+1999,1433,c3ce1606-4bd6-4a84-a2b6-2fe7a5d4c6df,Identity Theft,2024-02-07,Resolved,1
+2000,1433,e2d1a4dc-1e9b-41e3-8bef-12b0ceeb3a6f,Account Takeover,2025-03-20,Under Investigation,0
+2001,1435,f4aec85e-8eb9-4ce4-8699-a52ef75a2541,Account Takeover,2024-09-11,Under Investigation,0
+2002,1435,ab4383bc-5b93-4f80-b049-4c684d3bbd0b,Card Fraud,2025-04-25,Under Investigation,0
+2003,1436,506c257b-2d81-490b-974a-b1b685dd0e11,Phishing,2021-08-08,Resolved,1
+2004,1437,e7df4729-1cc4-4dce-b4f9-08d97bafbff6,Money Laundering,2023-11-13,Under Investigation,0
+2005,1437,044d1f66-713a-45bf-a40f-61f64b0538bc,Identity Theft,2023-03-04,Under Investigation,0
+2006,1439,7e7c3887-8f2f-4960-8895-1da4df692b62,Phishing,2025-01-12,Resolved,1
+2007,1441,3527473b-b23f-4f06-b3e1-644633eb79aa,Phishing,2025-03-02,Under Investigation,0
+2008,1442,f08ebd79-cbf4-4449-9724-2133c4e7512b,Account Takeover,2025-01-07,Resolved,1
+2009,1442,ae880035-ceda-4fff-91e1-3d4a197165a8,Identity Theft,2024-03-18,Under Investigation,0
+2010,1443,fa4975d5-8f0a-441f-8fdd-4ac0ba4661ba,Money Laundering,2025-03-06,Under Investigation,0
+2011,1444,cf239aa7-7586-4327-a9dc-2d86e31963b8,Account Takeover,2023-06-06,Under Investigation,0
+2012,1444,147a646f-8a50-41e0-ba69-908e6cd41890,Identity Theft,2023-03-22,Under Investigation,0
+2013,1445,6bcfafcd-69c5-4efd-b8ca-4243f70b0c26,Identity Theft,2025-01-31,Under Investigation,0
+2014,1447,d6eae42a-1174-4304-bb67-9bb52fe0b3ee,Card Fraud,2025-01-28,Under Investigation,0
+2015,1447,cce7842c-5e31-4e96-8449-0afd023f6331,Identity Theft,2025-02-17,Resolved,1
+2016,1447,64021b64-404a-4eec-bc6f-b09171699eba,Money Laundering,2025-04-02,Resolved,1
+2017,1449,0eabafc7-be6c-4fea-8263-8ed4d541e70a,Account Takeover,2024-11-25,Under Investigation,0
+2018,1451,90ff417d-b7cb-4641-aa8b-6a1c296580cd,Money Laundering,2025-01-26,Resolved,1
+2019,1452,ebf4d47e-8490-47eb-af16-92ae690dea72,Phishing,2025-04-10,Under Investigation,0
+2020,1452,6c0b2186-061d-40e7-99fb-42522c24d87d,Account Takeover,2025-05-15,Under Investigation,0
+2021,1452,2d73a4c3-214f-4327-9b7a-3fbe80c80005,Money Laundering,2025-05-11,Under Investigation,0
+2022,1453,4d320a78-d8c1-48e4-b019-521f3a23f039,Phishing,2025-04-30,Under Investigation,0
+2023,1454,9e5307a2-0e05-429c-8855-a5c816dd4a02,Money Laundering,2022-09-19,Under Investigation,0
+2024,1455,54e3581e-dfe3-4c07-ac33-660e39c65d7c,Card Fraud,2022-11-14,Under Investigation,0
+2025,1455,5a0817d7-52f5-42e1-a56e-3294aadae7ca,Identity Theft,2023-04-20,Under Investigation,0
+2026,1456,edc5afbe-5c55-4193-ad55-e6d2901b590c,Phishing,2023-04-26,Resolved,1
+2027,1456,4ca87972-46e4-44e7-a998-5ccbde663b08,Phishing,2024-12-23,Under Investigation,0
+2028,1456,78970ccc-65a1-4379-9e27-207542e0ee0c,Card Fraud,2024-12-14,Under Investigation,0
+2029,1456,82443d9b-435c-424e-b9e3-1045a0024a05,Money Laundering,2023-04-07,Resolved,1
+2030,1456,bbbf4c6d-3aa5-4b04-b977-841aeb32d0aa,Identity Theft,2023-01-24,Under Investigation,0
+2031,1457,6c68b62d-3a38-48c7-99fc-f8d9908bf452,Account Takeover,2025-05-13,Resolved,1
+2032,1458,e3548783-a4d1-49d7-9557-de91a26b3a79,Account Takeover,2024-09-23,Resolved,1
+2033,1461,1b2e56a2-7415-4d61-8387-643498c67354,Identity Theft,2024-02-27,Resolved,1
+2034,1461,b5f85d92-d1d1-45b5-a0e5-4c770d687aaa,Card Fraud,2024-06-29,Resolved,1
+2035,1461,b6c2dc6a-93e1-49a9-879e-af9f34b50aa9,Account Takeover,2024-05-29,Under Investigation,0
+2036,1461,e632c7cb-cb13-42a4-886a-080e25e89a8d,Phishing,2024-07-01,Resolved,1
+2037,1461,4473ad6f-755a-472e-8b48-f3bc839d6bc6,Money Laundering,2024-06-07,Under Investigation,0
+2038,1462,4c5526af-98db-484b-9f81-f3a371ece1b1,Card Fraud,2024-09-01,Resolved,1
+2039,1463,b00b4c0d-d635-4428-8764-c91255730f75,Identity Theft,2025-03-28,Under Investigation,0
+2040,1464,2d863f2f-0ad9-455b-8034-5b874d56e612,Money Laundering,2025-02-09,Resolved,1
+2041,1464,566af55f-13eb-47c8-b9ae-8c5c4b38dfc9,Identity Theft,2025-04-23,Resolved,1
+2042,1465,7dcdf094-7aa4-4d25-8f38-50ad1e58fd63,Money Laundering,2025-01-17,Under Investigation,0
+2043,1465,34f2d2bf-b99f-41a4-99d7-83d7adb1baa9,Phishing,2024-09-28,Under Investigation,0
+2044,1466,050f1399-a96a-483e-bb83-5438bd8eb2d3,Account Takeover,2025-05-12,Under Investigation,0
+2045,1467,ad8bbbef-0f73-41eb-8592-6112b519f1bb,Card Fraud,2022-12-18,Under Investigation,0
+2046,1467,dc8ccd1e-0930-4ced-a88a-376bfb32340f,Card Fraud,2021-12-31,Under Investigation,0
+2047,1471,c8ddaa45-b872-46ab-95cc-bfe1ed5aa154,Card Fraud,2025-01-24,Under Investigation,0
+2048,1472,907390aa-2454-449c-b3ed-a9fc0828268f,Account Takeover,2024-08-28,Under Investigation,0
+2049,1472,17bfaddc-2840-426d-90f9-b823d907d42d,Money Laundering,2025-04-08,Resolved,1
+2050,1473,79b61f06-fc4c-4bda-a15a-c8936d2d0410,Identity Theft,2022-04-19,Under Investigation,0
+2051,1474,924776d6-95a4-49eb-967d-5dd5423951a9,Identity Theft,2025-02-23,Under Investigation,0
+2052,1474,bbb985c9-f01d-4061-8398-e5866b7156e6,Money Laundering,2025-05-16,Resolved,1
+2053,1474,3487c75f-245c-46bb-aab9-85047b3b94c7,Money Laundering,2025-03-13,Under Investigation,0
+2054,1474,d618f27d-66b2-490e-97ad-2868a7264712,Card Fraud,2024-10-08,Under Investigation,0
+2055,1474,6bd880dc-ffe9-431a-9e9a-7f65cce36b04,Account Takeover,2025-04-02,Under Investigation,0
+2056,1474,0ad872d3-6950-4261-ac1a-9c61765e6eee,Money Laundering,2025-04-05,Under Investigation,0
+2057,1474,c5bfecff-7cff-454d-8818-fcd46e7b3be9,Identity Theft,2025-04-16,Resolved,1
+2058,1476,5448aa85-cb6b-4e90-af86-b513f07ab803,Account Takeover,2024-06-15,Under Investigation,0
+2059,1478,18e5637f-af20-4871-8533-c5f360d27685,Phishing,2025-04-05,Under Investigation,0
+2060,1478,19c29a06-4cfc-4eaa-8d4c-5d11bed2ee22,Phishing,2024-03-01,Resolved,1
+2061,1478,299bfd1b-fb10-4afc-b7e9-5aebf3da2106,Card Fraud,2024-12-14,Under Investigation,0
+2062,1478,506d6b5c-c031-4b62-a619-2935f2438212,Account Takeover,2024-03-02,Resolved,1
+2063,1478,7a856d85-2d15-464d-917e-bcf5e2080541,Identity Theft,2025-01-02,Resolved,1
+2064,1479,eb838b81-0d62-4476-ad7c-02a16a69bc8f,Phishing,2023-12-12,Under Investigation,0
+2065,1480,9da6e8e4-71c7-4a36-8045-0557fe6b5144,Money Laundering,2024-11-30,Resolved,1
+2066,1481,881f11e8-ce4e-442b-bca9-405eb8f3b63a,Phishing,2024-08-26,Under Investigation,0
+2067,1481,f3f44831-4b92-42d7-af0c-26212a787ecd,Identity Theft,2025-02-01,Under Investigation,0
+2068,1482,c5956e19-b1bb-44c3-8dae-52758f869fc1,Identity Theft,2024-06-27,Under Investigation,0
+2069,1482,6b0d923d-d56c-4690-b95c-edb3fb1988cc,Card Fraud,2024-07-19,Under Investigation,0
+2070,1482,d2d6bb1e-fd25-4fa6-bd9a-e2baf7b31680,Card Fraud,2024-12-10,Resolved,1
+2071,1486,1af553de-f20a-445e-9445-37bf426b30ec,Phishing,2025-02-12,Under Investigation,0
+2072,1487,6dee9d5a-5c4c-445c-b10a-f09ff970e3c5,Identity Theft,2025-03-25,Under Investigation,0
+2073,1488,daed6d69-1932-487a-ad37-ad056ec250d6,Phishing,2025-03-08,Resolved,1
+2074,1488,494b7f63-e4de-4a82-9720-aeef69bf5dd1,Phishing,2025-01-14,Resolved,1
+2075,1488,3e9396e7-5652-4f00-b13f-75c6ff0cfb33,Card Fraud,2025-04-30,Under Investigation,0
+2076,1489,9b93048a-c298-4d4f-ad19-69e8783f226e,Card Fraud,2025-05-11,Resolved,1
+2077,1489,7cda963f-c1ac-45b8-8195-518ec8fd8da9,Money Laundering,2025-05-16,Under Investigation,0
+2078,1490,e133b067-f143-4fd5-87af-870fc4d9f52c,Card Fraud,2024-12-23,Under Investigation,0
+2079,1491,a99818a3-7847-494b-bdca-ddf53862aafc,Account Takeover,2023-12-24,Under Investigation,0
+2080,1491,70354b62-479e-42e7-9fb2-0c3cb9d44a7a,Card Fraud,2024-08-12,Resolved,1
+2081,1494,d0cc01d7-674a-4ab0-85a0-c0725f010738,Identity Theft,2024-06-10,Under Investigation,0
+2082,1494,eebec102-7960-42f4-a784-f596e969a24d,Account Takeover,2024-09-07,Under Investigation,0
+2083,1494,d0fade06-c5d4-4665-a1c8-44029057d73f,Phishing,2024-08-16,Under Investigation,0
+2084,1495,fe9bb4c8-6978-47e5-a800-3890ce5a41a8,Money Laundering,2024-12-18,Under Investigation,0
+2085,1495,84011ed2-90a5-4f04-9ed2-f28f616f2979,Money Laundering,2024-04-28,Under Investigation,0
+2086,1498,1d1024f7-0e06-494b-ba98-40a495592e3d,Money Laundering,2025-04-06,Under Investigation,0
+2087,1498,61c7a625-dd3d-4642-867c-257ec78a5a1d,Card Fraud,2025-04-12,Resolved,1
+2088,1499,e637263f-bc02-4442-80c0-d6e1e91b4f7b,Phishing,2025-04-18,Resolved,1
+2089,1499,44576552-139f-4231-a95e-09db841064b9,Identity Theft,2025-03-06,Resolved,1
+2090,1500,1f166cb3-956d-47d6-86c5-f975d9429c87,Account Takeover,2024-10-01,Resolved,1
