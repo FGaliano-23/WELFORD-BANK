@@ -1,0 +1,2501 @@
+Interaction_ID,Client_ID,Channel,Action_Type,Resolution_Time
+1,12081,Web,Consulta,14
+2,1147,Web,Transfer,425
+3,8197,Web,Login,400
+4,5280,Call Center,Transfer,23
+5,2208,Web,Transfer,203
+6,12617,App,Transfer,54
+7,24952,Web,Login,423
+8,2657,Call Center,Login,305
+9,20037,Web,Consulta,226
+10,15868,App,Login,397
+11,16606,Call Center,Transfer,253
+12,5704,App,Login,453
+13,5609,App,Login,214
+14,1035,App,Transfer,438
+15,14404,App,Transfer,230
+16,11573,Web,Transfer,97
+17,13835,Call Center,Login,53
+18,1427,Call Center,Login,316
+19,10288,Call Center,Login,480
+20,1371,App,Transfer,326
+21,5739,App,Transfer,99
+22,10861,App,Transfer,250
+23,13885,Web,Transfer,99
+24,15425,App,Login,477
+25,7881,Web,Login,256
+26,6882,Web,Transfer,469
+27,4940,Call Center,Login,430
+28,4325,Web,Consulta,350
+29,17776,Call Center,Consulta,265
+30,20606,App,Consulta,367
+31,8315,App,Transfer,191
+32,7532,App,Login,75
+33,7727,Call Center,Transfer,419
+34,1501,Call Center,Transfer,436
+35,21253,App,Transfer,364
+36,9239,App,Transfer,66
+37,11069,Web,Consulta,92
+38,17974,App,Login,31
+39,3461,Call Center,Login,239
+40,13834,App,Consulta,19
+41,6255,Web,Transfer,394
+42,23529,App,Transfer,15
+43,6997,Web,Transfer,25
+44,11355,Call Center,Consulta,316
+45,3103,Call Center,Consulta,49
+46,13251,App,Transfer,264
+47,19362,Web,Consulta,176
+48,8904,Web,Login,99
+49,12610,Call Center,Login,186
+50,2309,Web,Transfer,383
+51,14642,App,Consulta,198
+52,11936,Call Center,Transfer,236
+53,11753,Web,Login,262
+54,10970,Call Center,Consulta,417
+55,24963,App,Transfer,68
+56,16926,App,Consulta,161
+57,7751,Call Center,Login,110
+58,15474,App,Login,372
+59,19146,Call Center,Login,334
+60,24234,Web,Login,410
+61,22144,Call Center,Transfer,28
+62,307,App,Consulta,96
+63,2751,Web,Login,205
+64,8020,Call Center,Transfer,199
+65,17137,Call Center,Login,253
+66,11280,Call Center,Consulta,43
+67,10765,App,Login,420
+68,18706,App,Login,169
+69,8888,App,Transfer,97
+70,5144,Call Center,Consulta,105
+71,3091,App,Login,123
+72,2429,App,Consulta,418
+73,12459,Web,Consulta,281
+74,8336,App,Login,445
+75,6854,Web,Login,113
+76,14054,App,Consulta,58
+77,23681,Web,Transfer,216
+78,19410,Call Center,Consulta,135
+79,10280,Call Center,Login,411
+80,20460,Call Center,Login,276
+81,5154,Web,Consulta,141
+82,19061,App,Login,176
+83,16396,Call Center,Consulta,179
+84,19420,Web,Login,146
+85,11190,Call Center,Login,24
+86,7292,Web,Consulta,244
+87,20348,App,Login,19
+88,15893,App,Login,424
+89,21928,Web,Consulta,378
+90,13001,App,Consulta,148
+91,8617,Web,Consulta,331
+92,16342,Web,Transfer,323
+93,1687,Web,Consulta,212
+94,10060,Call Center,Transfer,26
+95,24514,App,Login,477
+96,5829,Call Center,Login,302
+97,14320,Call Center,Transfer,344
+98,3713,Web,Consulta,288
+99,6609,Web,Consulta,204
+100,17805,Call Center,Login,474
+101,9669,App,Consulta,66
+102,19077,Web,Login,390
+103,24429,Call Center,Transfer,319
+104,3092,App,Consulta,66
+105,17040,App,Consulta,440
+106,14331,Web,Transfer,338
+107,20554,App,Login,85
+108,9551,Web,Login,354
+109,904,App,Transfer,108
+110,13586,App,Login,323
+111,22175,Web,Transfer,425
+112,15414,Web,Transfer,232
+113,18586,Call Center,Transfer,460
+114,8776,Call Center,Consulta,354
+115,3530,Call Center,Login,113
+116,5928,Web,Consulta,422
+117,7603,Web,Consulta,77
+118,22637,App,Consulta,48
+119,4653,Call Center,Login,186
+120,24624,Call Center,Consulta,126
+121,1701,App,Login,434
+122,12073,Web,Login,104
+123,18671,Web,Consulta,76
+124,6944,App,Transfer,464
+125,3005,Web,Transfer,126
+126,10254,Web,Transfer,400
+127,24351,Call Center,Transfer,370
+128,18275,Web,Transfer,80
+129,6742,Web,Transfer,364
+130,14286,App,Transfer,20
+131,5540,Web,Login,444
+132,7368,Call Center,Consulta,111
+133,639,App,Login,447
+134,24128,App,Login,264
+135,2870,App,Transfer,417
+136,18163,Web,Transfer,447
+137,5891,App,Login,419
+138,6189,Web,Login,328
+139,4348,Web,Transfer,143
+140,1094,Web,Login,31
+141,15253,Call Center,Login,394
+142,20903,Call Center,Transfer,274
+143,2975,Web,Consulta,53
+144,10288,Web,Transfer,272
+145,23479,App,Login,53
+146,21884,Call Center,Transfer,35
+147,20187,Web,Consulta,177
+148,13360,Call Center,Login,269
+149,17565,Web,Transfer,33
+150,13899,Call Center,Transfer,61
+151,4195,Call Center,Transfer,299
+152,5849,App,Login,306
+153,2156,App,Consulta,297
+154,21138,Web,Consulta,437
+155,486,Web,Transfer,410
+156,22029,Call Center,Consulta,131
+157,296,Web,Login,167
+158,14995,Web,Transfer,146
+159,22196,App,Consulta,7
+160,20667,App,Login,211
+161,16681,Web,Consulta,333
+162,20247,Web,Consulta,219
+163,22095,Web,Consulta,456
+164,2041,Web,Consulta,337
+165,10948,Call Center,Transfer,354
+166,10350,Web,Transfer,82
+167,24585,Call Center,Consulta,187
+168,3206,Web,Consulta,463
+169,1349,Web,Login,77
+170,21179,Call Center,Consulta,133
+171,6209,Web,Consulta,75
+172,21750,App,Transfer,205
+173,5398,Web,Consulta,113
+174,19935,Web,Consulta,15
+175,2296,Web,Transfer,215
+176,2838,Web,Consulta,98
+177,22233,Web,Login,374
+178,2930,Web,Consulta,382
+179,21110,Web,Transfer,270
+180,6438,App,Transfer,462
+181,21225,Call Center,Consulta,19
+182,18755,Web,Transfer,436
+183,15338,App,Login,244
+184,15575,App,Login,465
+185,16865,Call Center,Transfer,85
+186,19536,Web,Consulta,249
+187,15521,Call Center,Consulta,469
+188,10347,Call Center,Transfer,283
+189,6081,App,Login,356
+190,7424,Web,Transfer,211
+191,15456,App,Transfer,70
+192,533,Web,Consulta,297
+193,11845,Call Center,Transfer,421
+194,21650,Web,Transfer,436
+195,13524,Web,Transfer,42
+196,5316,Web,Transfer,298
+197,23497,Web,Transfer,404
+198,18757,Call Center,Transfer,12
+199,4606,Web,Transfer,456
+200,6532,Call Center,Consulta,316
+201,10705,App,Login,404
+202,3931,Web,Transfer,157
+203,442,Web,Transfer,386
+204,16322,Web,Transfer,312
+205,21340,App,Consulta,303
+206,21046,App,Transfer,233
+207,459,Web,Consulta,411
+208,16,Web,Consulta,10
+209,21486,App,Login,249
+210,13854,Call Center,Consulta,413
+211,12410,Web,Transfer,319
+212,12436,App,Login,302
+213,5592,Web,Consulta,169
+214,264,Call Center,Transfer,254
+215,21370,App,Consulta,347
+216,7489,App,Transfer,194
+217,22894,Call Center,Login,376
+218,10646,Web,Login,238
+219,21946,Call Center,Transfer,394
+220,14675,Web,Transfer,411
+221,17644,App,Login,317
+222,20855,App,Login,172
+223,854,Web,Login,324
+224,14063,Call Center,Transfer,362
+225,18677,Web,Consulta,267
+226,6656,App,Consulta,230
+227,21713,Web,Transfer,102
+228,8589,Web,Consulta,49
+229,7948,Call Center,Consulta,355
+230,4826,Web,Transfer,90
+231,3541,App,Transfer,250
+232,18988,App,Transfer,237
+233,18623,Call Center,Transfer,189
+234,16328,Web,Consulta,157
+235,23786,Web,Consulta,164
+236,21716,Web,Consulta,214
+237,20982,App,Transfer,129
+238,22637,App,Transfer,201
+239,24700,App,Login,456
+240,13786,App,Consulta,470
+241,6973,Call Center,Login,404
+242,14661,App,Consulta,56
+243,13979,Call Center,Transfer,254
+244,7151,Call Center,Login,330
+245,11378,Web,Login,346
+246,24443,Web,Transfer,130
+247,15972,App,Transfer,306
+248,10795,App,Consulta,109
+249,24756,Web,Login,111
+250,19829,App,Login,37
+251,1914,Call Center,Login,217
+252,6548,Web,Transfer,239
+253,23848,App,Consulta,159
+254,16185,App,Transfer,436
+255,16594,App,Consulta,159
+256,24884,Call Center,Consulta,281
+257,4959,Call Center,Consulta,309
+258,19841,Web,Consulta,380
+259,229,Call Center,Login,167
+260,6090,Web,Transfer,87
+261,24932,Call Center,Transfer,430
+262,24118,Web,Transfer,382
+263,9693,Call Center,Consulta,468
+264,11058,App,Consulta,141
+265,24094,App,Login,353
+266,21139,Web,Transfer,345
+267,9211,Web,Consulta,410
+268,5122,App,Transfer,51
+269,23506,Web,Consulta,453
+270,2596,App,Login,82
+271,19456,Call Center,Consulta,36
+272,10582,Call Center,Consulta,119
+273,24864,Web,Transfer,165
+274,22944,Web,Transfer,17
+275,21066,App,Login,233
+276,13964,Web,Login,234
+277,23239,Web,Login,324
+278,786,Web,Transfer,459
+279,11595,Web,Consulta,320
+280,5738,Web,Login,18
+281,10132,App,Login,380
+282,12783,App,Consulta,392
+283,16402,Web,Consulta,9
+284,13570,App,Consulta,122
+285,15886,App,Consulta,340
+286,24884,App,Transfer,214
+287,23627,App,Consulta,205
+288,11158,Web,Transfer,289
+289,2038,Call Center,Transfer,424
+290,15215,Call Center,Consulta,221
+291,24673,App,Login,134
+292,15064,App,Transfer,30
+293,24389,App,Consulta,37
+294,19553,Web,Consulta,12
+295,688,Web,Consulta,24
+296,9224,Call Center,Login,405
+297,20166,Call Center,Transfer,216
+298,4181,Call Center,Transfer,8
+299,24623,Call Center,Transfer,272
+300,20553,Call Center,Consulta,90
+301,15966,Call Center,Login,234
+302,7218,Call Center,Login,213
+303,4521,Call Center,Transfer,366
+304,10361,Web,Login,419
+305,2011,Web,Transfer,184
+306,7726,App,Transfer,476
+307,11567,Web,Consulta,341
+308,3355,App,Transfer,281
+309,17310,Call Center,Login,224
+310,20777,Web,Consulta,200
+311,10313,Web,Transfer,334
+312,5308,Call Center,Consulta,207
+313,23169,App,Login,47
+314,22985,App,Login,357
+315,4012,Call Center,Transfer,260
+316,5973,Web,Consulta,338
+317,14233,App,Transfer,267
+318,21814,App,Transfer,302
+319,11653,App,Consulta,302
+320,21461,Call Center,Transfer,134
+321,1004,Call Center,Login,382
+322,2572,App,Transfer,110
+323,24676,Call Center,Transfer,35
+324,22984,App,Transfer,246
+325,23291,Web,Login,328
+326,4566,App,Consulta,108
+327,17191,Call Center,Transfer,142
+328,8072,Web,Transfer,461
+329,16169,Web,Transfer,339
+330,12038,Call Center,Consulta,70
+331,17033,App,Consulta,136
+332,22070,Call Center,Consulta,391
+333,24779,App,Login,192
+334,13667,App,Login,134
+335,23732,Web,Login,258
+336,3301,Web,Transfer,79
+337,12689,Call Center,Consulta,67
+338,17130,Call Center,Transfer,140
+339,1762,Call Center,Consulta,70
+340,13753,Call Center,Login,100
+341,22827,Call Center,Login,143
+342,17743,Web,Login,280
+343,23295,Web,Transfer,447
+344,18928,Web,Login,253
+345,18798,Web,Transfer,306
+346,15244,App,Consulta,183
+347,11265,Web,Consulta,80
+348,5033,Web,Transfer,362
+349,19873,App,Transfer,313
+350,22905,Call Center,Transfer,111
+351,6396,Call Center,Login,227
+352,16482,Call Center,Transfer,433
+353,4900,Web,Transfer,16
+354,19145,Call Center,Transfer,453
+355,19888,Call Center,Consulta,181
+356,3057,Web,Login,272
+357,21389,App,Transfer,409
+358,16618,App,Transfer,366
+359,2124,Web,Consulta,470
+360,24601,App,Transfer,96
+361,23524,App,Login,55
+362,15600,Web,Consulta,397
+363,8671,Call Center,Login,436
+364,12574,Call Center,Transfer,163
+365,17395,Call Center,Login,422
+366,21808,Web,Consulta,257
+367,15610,Call Center,Consulta,452
+368,1572,Call Center,Login,394
+369,14646,App,Transfer,226
+370,9430,App,Consulta,377
+371,14804,Web,Login,309
+372,13423,Web,Consulta,418
+373,16234,Call Center,Login,304
+374,9238,Call Center,Consulta,395
+375,8313,Web,Login,414
+376,7225,Call Center,Transfer,448
+377,21299,Web,Consulta,60
+378,14549,Call Center,Consulta,384
+379,9768,App,Transfer,316
+380,7011,Web,Login,296
+381,13753,App,Consulta,122
+382,6748,Call Center,Transfer,401
+383,5426,App,Transfer,410
+384,2090,App,Login,473
+385,3210,Call Center,Transfer,443
+386,16430,App,Transfer,299
+387,5917,Web,Consulta,471
+388,4572,Call Center,Login,148
+389,17900,App,Transfer,39
+390,15871,Call Center,Consulta,446
+391,10125,App,Login,377
+392,11965,Call Center,Transfer,474
+393,12185,Web,Login,357
+394,23608,Call Center,Consulta,238
+395,18033,App,Transfer,191
+396,16320,Web,Consulta,318
+397,22791,Web,Consulta,369
+398,9472,App,Login,338
+399,20365,App,Consulta,98
+400,17495,Web,Consulta,452
+401,8969,App,Consulta,110
+402,19033,Web,Transfer,430
+403,22444,Call Center,Consulta,155
+404,17053,App,Login,136
+405,5300,App,Consulta,323
+406,12403,Call Center,Transfer,308
+407,14834,Call Center,Login,305
+408,12362,Call Center,Consulta,393
+409,21219,Call Center,Login,463
+410,5994,Web,Transfer,280
+411,12517,Web,Consulta,422
+412,23564,Web,Login,209
+413,23341,Web,Consulta,161
+414,11813,Web,Consulta,394
+415,9235,Call Center,Consulta,423
+416,16619,App,Transfer,391
+417,24039,Web,Login,193
+418,12120,Web,Consulta,211
+419,1859,Web,Login,333
+420,23799,App,Consulta,173
+421,2754,Call Center,Consulta,424
+422,7170,App,Consulta,270
+423,17665,Call Center,Login,427
+424,6497,Call Center,Consulta,149
+425,17764,Web,Consulta,123
+426,20889,App,Transfer,395
+427,9712,Web,Transfer,437
+428,8803,Call Center,Consulta,239
+429,12568,Call Center,Transfer,119
+430,13217,Call Center,Transfer,171
+431,20276,App,Transfer,96
+432,2209,Web,Transfer,347
+433,18249,Web,Transfer,473
+434,3507,Call Center,Consulta,102
+435,6432,Call Center,Login,309
+436,9706,Web,Consulta,456
+437,8513,Web,Consulta,94
+438,22159,Call Center,Consulta,48
+439,4426,Web,Transfer,222
+440,13918,App,Transfer,267
+441,17327,App,Transfer,305
+442,15801,Call Center,Transfer,141
+443,22639,Call Center,Consulta,18
+444,16616,Web,Transfer,213
+445,15887,Web,Transfer,428
+446,23304,App,Consulta,29
+447,3423,Web,Consulta,274
+448,2643,App,Transfer,335
+449,7433,Call Center,Transfer,155
+450,2697,Call Center,Transfer,128
+451,23068,App,Transfer,357
+452,1497,Call Center,Consulta,422
+453,20317,App,Consulta,127
+454,23100,Web,Transfer,336
+455,4904,Call Center,Consulta,130
+456,1503,Call Center,Login,251
+457,5191,Call Center,Login,247
+458,9045,Call Center,Login,191
+459,127,Call Center,Consulta,182
+460,13656,Call Center,Consulta,118
+461,19606,App,Consulta,45
+462,7543,Web,Consulta,306
+463,6732,Web,Consulta,204
+464,18597,Call Center,Transfer,387
+465,18352,Call Center,Transfer,175
+466,10476,Web,Login,251
+467,16710,App,Login,104
+468,24675,Web,Consulta,47
+469,4666,Web,Transfer,83
+470,9706,Web,Transfer,118
+471,19619,Web,Transfer,312
+472,9073,Call Center,Transfer,326
+473,15725,Call Center,Transfer,414
+474,15798,Web,Transfer,255
+475,18826,Web,Consulta,362
+476,3161,Web,Consulta,350
+477,11644,Web,Login,21
+478,11611,App,Consulta,280
+479,5626,Call Center,Login,94
+480,14348,App,Consulta,160
+481,3723,Web,Consulta,287
+482,21733,Call Center,Login,234
+483,9038,Call Center,Consulta,425
+484,9385,Web,Transfer,373
+485,1853,Web,Transfer,162
+486,20805,Web,Transfer,242
+487,4010,Web,Login,259
+488,3659,Call Center,Consulta,150
+489,24104,App,Consulta,377
+490,24961,App,Login,134
+491,14842,App,Login,381
+492,8429,App,Consulta,426
+493,12107,Call Center,Consulta,419
+494,16551,App,Consulta,280
+495,15954,Web,Consulta,278
+496,4278,Web,Login,250
+497,15364,App,Consulta,193
+498,4089,Call Center,Transfer,79
+499,9679,Web,Consulta,388
+500,19372,Call Center,Login,404
+501,16370,App,Login,218
+502,3963,Call Center,Consulta,367
+503,19336,App,Login,95
+504,16309,App,Transfer,451
+505,5271,Web,Consulta,453
+506,10039,App,Consulta,118
+507,8766,App,Transfer,184
+508,4421,Call Center,Consulta,284
+509,8367,App,Consulta,341
+510,2242,Web,Consulta,122
+511,22173,App,Login,309
+512,10138,Call Center,Transfer,422
+513,10207,Web,Transfer,127
+514,3475,App,Consulta,60
+515,11623,App,Consulta,411
+516,15631,Call Center,Login,305
+517,10502,App,Login,340
+518,1065,Call Center,Consulta,259
+519,5084,Call Center,Transfer,478
+520,4643,Call Center,Transfer,105
+521,21258,App,Login,429
+522,19810,Call Center,Transfer,42
+523,16920,Web,Consulta,38
+524,21811,Call Center,Login,389
+525,1379,Web,Consulta,103
+526,12517,Web,Login,354
+527,11834,App,Login,25
+528,113,Call Center,Transfer,130
+529,3621,App,Consulta,82
+530,18903,Web,Login,291
+531,2468,Call Center,Consulta,231
+532,20892,Call Center,Login,322
+533,24093,Call Center,Login,230
+534,3439,App,Transfer,392
+535,17986,Web,Consulta,311
+536,5857,App,Consulta,341
+537,11836,App,Consulta,407
+538,991,Call Center,Login,146
+539,2350,Call Center,Login,383
+540,13518,Call Center,Login,156
+541,16102,Call Center,Transfer,462
+542,2048,Call Center,Consulta,355
+543,13429,Call Center,Transfer,186
+544,15306,App,Consulta,352
+545,6258,Web,Login,54
+546,7999,Call Center,Login,346
+547,982,Call Center,Login,439
+548,20237,Call Center,Consulta,459
+549,4544,App,Transfer,179
+550,8830,Call Center,Consulta,315
+551,10688,Web,Consulta,79
+552,17640,Call Center,Login,273
+553,13602,App,Consulta,127
+554,14092,Web,Transfer,149
+555,905,Call Center,Transfer,392
+556,11741,Call Center,Transfer,386
+557,24481,Web,Transfer,281
+558,11349,Call Center,Transfer,248
+559,2468,Call Center,Consulta,23
+560,24801,Web,Consulta,134
+561,21380,Call Center,Login,262
+562,19437,App,Login,161
+563,6434,Call Center,Login,318
+564,12777,App,Consulta,436
+565,381,Call Center,Transfer,356
+566,17790,Call Center,Transfer,33
+567,19222,Web,Consulta,343
+568,22405,Call Center,Transfer,463
+569,18922,Web,Login,37
+570,16724,Call Center,Consulta,358
+571,24673,Call Center,Consulta,185
+572,22354,Web,Consulta,205
+573,15438,Web,Login,153
+574,23210,Web,Transfer,390
+575,11936,Web,Consulta,21
+576,14682,Call Center,Login,152
+577,18809,Call Center,Transfer,346
+578,6262,Web,Transfer,92
+579,21861,Web,Login,424
+580,24072,Web,Consulta,49
+581,20311,Call Center,Consulta,461
+582,15247,Call Center,Login,477
+583,9934,Call Center,Login,31
+584,13006,App,Transfer,280
+585,19138,Call Center,Login,33
+586,20318,App,Consulta,221
+587,6226,Web,Login,463
+588,24348,Web,Transfer,358
+589,10448,Web,Consulta,416
+590,21927,App,Transfer,162
+591,15556,Call Center,Login,56
+592,4945,Call Center,Transfer,318
+593,5568,App,Login,42
+594,16949,App,Consulta,164
+595,5946,App,Login,188
+596,11779,Call Center,Login,193
+597,22834,Web,Transfer,336
+598,15166,Call Center,Transfer,22
+599,8897,Call Center,Transfer,117
+600,11139,Web,Login,78
+601,22066,Web,Login,66
+602,7532,Call Center,Consulta,45
+603,6872,App,Transfer,433
+604,18292,Web,Login,24
+605,302,Web,Login,407
+606,2576,Web,Consulta,359
+607,22219,Web,Transfer,45
+608,6040,Call Center,Consulta,57
+609,15163,App,Consulta,262
+610,9865,Web,Consulta,8
+611,5967,App,Consulta,308
+612,12312,Web,Transfer,249
+613,16528,Call Center,Consulta,240
+614,18506,App,Login,471
+615,17063,App,Transfer,108
+616,21126,Call Center,Login,98
+617,21873,App,Consulta,143
+618,21527,App,Login,465
+619,24532,Call Center,Transfer,236
+620,22043,App,Transfer,13
+621,21269,Call Center,Transfer,161
+622,20150,Web,Login,383
+623,20655,App,Consulta,154
+624,22547,Web,Login,250
+625,21901,Web,Transfer,188
+626,8443,Web,Transfer,459
+627,4977,Web,Consulta,343
+628,4983,Call Center,Transfer,371
+629,223,Call Center,Login,75
+630,5975,Call Center,Transfer,173
+631,7060,Call Center,Consulta,8
+632,23722,App,Transfer,135
+633,3172,Call Center,Consulta,228
+634,8264,App,Login,451
+635,6656,Web,Transfer,365
+636,11657,Web,Consulta,224
+637,23572,Call Center,Transfer,446
+638,2727,Call Center,Consulta,390
+639,12005,Call Center,Consulta,327
+640,22351,Call Center,Transfer,402
+641,12601,Web,Transfer,305
+642,10288,Call Center,Login,95
+643,22084,Call Center,Transfer,137
+644,7741,App,Consulta,126
+645,8600,Call Center,Transfer,280
+646,21540,Web,Consulta,176
+647,4900,Web,Consulta,376
+648,10861,Call Center,Transfer,327
+649,14135,Web,Login,185
+650,16787,Call Center,Login,82
+651,4602,Web,Transfer,391
+652,4651,Web,Login,353
+653,16241,Web,Login,77
+654,14502,Web,Login,226
+655,8967,App,Transfer,284
+656,14419,Call Center,Consulta,133
+657,6579,App,Consulta,448
+658,458,Web,Login,288
+659,6562,Call Center,Login,253
+660,8213,App,Transfer,212
+661,19859,Call Center,Login,455
+662,747,Call Center,Login,292
+663,18884,Web,Consulta,229
+664,22301,App,Transfer,282
+665,10161,App,Consulta,416
+666,6240,App,Transfer,264
+667,20943,App,Consulta,446
+668,16729,Web,Transfer,415
+669,23173,Call Center,Login,325
+670,13272,App,Consulta,160
+671,7135,App,Transfer,429
+672,20133,Call Center,Consulta,193
+673,22340,App,Login,290
+674,12185,App,Consulta,203
+675,6324,Call Center,Transfer,113
+676,23940,Web,Consulta,105
+677,17624,Call Center,Transfer,244
+678,20513,App,Transfer,89
+679,4167,App,Login,274
+680,15679,Call Center,Transfer,117
+681,21387,Web,Login,129
+682,6549,Call Center,Transfer,385
+683,8865,Call Center,Login,222
+684,6572,Call Center,Login,445
+685,10761,App,Transfer,358
+686,10772,App,Transfer,299
+687,7987,Web,Consulta,422
+688,738,Web,Consulta,209
+689,12257,Web,Transfer,402
+690,21337,Call Center,Transfer,378
+691,7052,Web,Login,259
+692,2857,Web,Transfer,287
+693,3984,App,Transfer,385
+694,3592,Web,Login,406
+695,15392,App,Login,349
+696,6328,Call Center,Consulta,383
+697,23148,Call Center,Login,55
+698,24236,Web,Login,322
+699,18349,Web,Consulta,468
+700,20807,Web,Login,38
+701,15403,Call Center,Transfer,268
+702,21336,App,Consulta,456
+703,7478,Call Center,Consulta,99
+704,4002,Call Center,Transfer,219
+705,19233,Call Center,Transfer,368
+706,3876,Call Center,Login,178
+707,24020,Web,Login,360
+708,7859,Web,Transfer,138
+709,5747,App,Consulta,334
+710,21042,Web,Consulta,263
+711,15762,Call Center,Transfer,360
+712,23411,Call Center,Transfer,246
+713,13502,Call Center,Login,426
+714,4984,App,Login,342
+715,6078,Call Center,Consulta,205
+716,9667,Call Center,Login,460
+717,8400,Web,Consulta,255
+718,177,App,Transfer,418
+719,19197,Call Center,Consulta,325
+720,12290,Web,Login,420
+721,11847,Web,Login,225
+722,1494,Web,Transfer,479
+723,14539,Call Center,Consulta,229
+724,17425,App,Login,90
+725,19349,Call Center,Transfer,345
+726,22486,App,Login,103
+727,10102,Web,Login,92
+728,21973,Web,Login,9
+729,12176,Web,Login,243
+730,13887,Call Center,Login,384
+731,4153,App,Consulta,471
+732,18378,Web,Login,26
+733,17936,Web,Transfer,367
+734,16530,Web,Transfer,469
+735,19262,Call Center,Transfer,304
+736,22193,Web,Consulta,156
+737,24472,Call Center,Transfer,96
+738,14162,Call Center,Consulta,161
+739,9554,App,Consulta,147
+740,15378,Web,Login,63
+741,23785,App,Transfer,167
+742,17087,Call Center,Login,187
+743,10958,Web,Transfer,145
+744,14315,Call Center,Transfer,345
+745,19207,Call Center,Login,464
+746,14189,App,Transfer,347
+747,16638,App,Transfer,263
+748,8741,App,Transfer,199
+749,2182,Call Center,Login,181
+750,14016,App,Login,258
+751,912,Call Center,Login,412
+752,13707,Web,Transfer,37
+753,5746,Web,Login,383
+754,19316,Web,Login,468
+755,4687,Call Center,Consulta,264
+756,3094,App,Transfer,201
+757,7927,Call Center,Transfer,43
+758,15949,Call Center,Consulta,216
+759,9649,Web,Login,377
+760,24866,App,Login,353
+761,23658,Call Center,Transfer,444
+762,2070,App,Consulta,282
+763,258,Call Center,Transfer,370
+764,9979,App,Login,287
+765,3983,Web,Consulta,89
+766,9294,Call Center,Transfer,300
+767,11148,Web,Consulta,421
+768,265,Call Center,Consulta,24
+769,5596,App,Transfer,421
+770,7245,App,Login,454
+771,18545,App,Transfer,49
+772,17919,Web,Transfer,327
+773,20410,Call Center,Consulta,71
+774,6206,Call Center,Login,353
+775,22590,Call Center,Transfer,23
+776,8470,App,Login,264
+777,9696,Call Center,Transfer,351
+778,2180,Web,Consulta,217
+779,15009,Web,Login,458
+780,15133,Web,Login,176
+781,9451,Call Center,Consulta,463
+782,8218,App,Login,76
+783,13344,App,Transfer,50
+784,14506,Call Center,Transfer,100
+785,19248,Web,Consulta,360
+786,19409,App,Login,80
+787,11743,Web,Consulta,214
+788,21179,Web,Transfer,370
+789,15743,Web,Consulta,402
+790,2464,Web,Login,195
+791,8999,Web,Login,360
+792,3639,App,Login,270
+793,2103,Call Center,Transfer,333
+794,11022,Web,Login,382
+795,22530,App,Consulta,151
+796,9099,Web,Transfer,188
+797,23240,App,Consulta,71
+798,13075,Web,Transfer,90
+799,24910,App,Consulta,393
+800,22628,Web,Consulta,81
+801,23572,Call Center,Consulta,426
+802,1363,Web,Login,17
+803,15794,App,Login,85
+804,4214,Web,Login,367
+805,1226,Call Center,Consulta,431
+806,24327,App,Transfer,215
+807,13527,Call Center,Consulta,247
+808,24660,Call Center,Consulta,190
+809,6077,Web,Transfer,69
+810,17422,App,Transfer,411
+811,23604,Web,Transfer,211
+812,18175,Call Center,Login,278
+813,9382,Web,Transfer,453
+814,13156,Web,Transfer,319
+815,16759,Web,Consulta,314
+816,2413,App,Transfer,94
+817,13725,Call Center,Consulta,462
+818,24972,App,Login,190
+819,2596,Web,Transfer,192
+820,4568,Web,Transfer,105
+821,5742,App,Transfer,380
+822,22563,App,Login,14
+823,22107,Call Center,Consulta,283
+824,3053,Web,Consulta,381
+825,6224,App,Login,135
+826,6489,Web,Login,354
+827,8307,Web,Transfer,278
+828,4212,Call Center,Consulta,256
+829,14763,Web,Consulta,326
+830,8275,Call Center,Transfer,215
+831,11000,Call Center,Transfer,94
+832,24100,Call Center,Transfer,53
+833,14581,Web,Consulta,192
+834,7492,App,Transfer,447
+835,4259,Web,Login,330
+836,10489,Call Center,Consulta,230
+837,11779,App,Consulta,275
+838,13697,App,Consulta,70
+839,19549,App,Transfer,9
+840,3881,Call Center,Login,479
+841,10202,App,Login,432
+842,24760,App,Transfer,147
+843,5325,Call Center,Login,479
+844,7410,Web,Transfer,447
+845,2259,Web,Consulta,302
+846,6621,App,Transfer,456
+847,20400,App,Login,239
+848,8168,Call Center,Transfer,101
+849,10241,Call Center,Login,219
+850,4523,Web,Consulta,118
+851,9491,App,Login,139
+852,24225,Call Center,Login,185
+853,7072,Web,Transfer,139
+854,1417,App,Consulta,236
+855,16184,App,Transfer,386
+856,9488,Web,Consulta,156
+857,21856,Web,Transfer,475
+858,1105,Call Center,Transfer,240
+859,7152,Web,Transfer,448
+860,7686,App,Consulta,108
+861,20513,Web,Login,69
+862,19919,Web,Transfer,438
+863,10064,App,Transfer,186
+864,15259,Web,Transfer,432
+865,8310,App,Transfer,450
+866,15828,Call Center,Transfer,83
+867,1223,Call Center,Transfer,97
+868,15841,Call Center,Transfer,394
+869,16051,App,Login,372
+870,1728,App,Login,239
+871,12954,Web,Login,124
+872,20418,Web,Transfer,106
+873,24540,Call Center,Consulta,195
+874,17675,App,Transfer,328
+875,22940,Web,Login,227
+876,1495,Web,Consulta,249
+877,13185,App,Consulta,408
+878,4298,App,Login,388
+879,5887,Call Center,Consulta,338
+880,13876,App,Login,359
+881,12458,App,Transfer,297
+882,9675,Web,Login,433
+883,6889,Web,Login,462
+884,19894,Web,Login,198
+885,13956,App,Login,426
+886,24200,Web,Login,188
+887,24325,App,Consulta,17
+888,16387,App,Login,100
+889,12559,App,Login,266
+890,5667,App,Transfer,367
+891,1131,App,Login,153
+892,20394,Web,Transfer,226
+893,8065,App,Consulta,344
+894,750,Call Center,Login,363
+895,3892,Call Center,Consulta,161
+896,20750,Call Center,Login,90
+897,22246,App,Consulta,376
+898,10264,App,Consulta,168
+899,20612,App,Transfer,428
+900,12422,App,Transfer,303
+901,17573,App,Transfer,32
+902,4664,Call Center,Consulta,29
+903,3939,Web,Consulta,337
+904,13361,App,Transfer,343
+905,5760,Web,Consulta,169
+906,20520,Call Center,Login,87
+907,14672,Call Center,Transfer,292
+908,14101,Call Center,Consulta,450
+909,1284,Web,Consulta,127
+910,20265,App,Transfer,291
+911,2397,Web,Consulta,210
+912,1631,Call Center,Consulta,197
+913,15169,Call Center,Transfer,356
+914,1614,Call Center,Login,473
+915,10971,Web,Login,372
+916,2717,Call Center,Transfer,41
+917,7448,App,Consulta,366
+918,23817,Call Center,Transfer,73
+919,9239,App,Transfer,169
+920,18982,Call Center,Consulta,372
+921,17584,Call Center,Consulta,371
+922,16831,App,Transfer,355
+923,17771,App,Transfer,480
+924,21749,App,Login,471
+925,1871,Call Center,Login,173
+926,810,App,Transfer,69
+927,12027,App,Transfer,154
+928,14974,Call Center,Consulta,372
+929,8402,Call Center,Consulta,20
+930,16986,Call Center,Transfer,290
+931,8063,App,Consulta,427
+932,14256,App,Login,68
+933,18812,App,Consulta,12
+934,23082,Web,Transfer,323
+935,17428,App,Consulta,249
+936,24552,Call Center,Transfer,209
+937,19249,Web,Consulta,98
+938,5392,App,Transfer,111
+939,6341,App,Consulta,395
+940,18637,Web,Transfer,360
+941,14317,Web,Login,123
+942,23808,Web,Consulta,451
+943,1294,App,Login,265
+944,22881,Call Center,Consulta,446
+945,15124,Call Center,Transfer,308
+946,22753,App,Transfer,210
+947,16225,Web,Consulta,285
+948,528,Web,Transfer,392
+949,23837,App,Consulta,236
+950,16428,Web,Consulta,418
+951,10332,App,Transfer,215
+952,9262,Web,Login,349
+953,8904,Web,Login,128
+954,16226,App,Consulta,61
+955,5318,App,Login,143
+956,12748,App,Consulta,339
+957,24353,Call Center,Consulta,437
+958,11730,Web,Consulta,372
+959,21717,App,Consulta,174
+960,2133,Web,Consulta,103
+961,24889,Call Center,Login,101
+962,24282,App,Transfer,127
+963,1162,Call Center,Transfer,232
+964,12132,Web,Consulta,420
+965,21395,Call Center,Login,402
+966,16574,App,Transfer,395
+967,7272,App,Login,74
+968,24242,Call Center,Login,117
+969,2798,Web,Login,142
+970,5392,Web,Consulta,193
+971,9803,App,Login,274
+972,19153,App,Login,62
+973,9534,Web,Login,184
+974,16366,App,Consulta,367
+975,16086,Web,Login,328
+976,17920,App,Login,307
+977,1381,Call Center,Transfer,275
+978,20327,App,Consulta,190
+979,15997,Web,Login,40
+980,14075,App,Consulta,339
+981,19709,Web,Consulta,108
+982,4950,App,Consulta,382
+983,9620,App,Login,248
+984,15573,Web,Transfer,443
+985,655,App,Login,428
+986,21509,Web,Login,12
+987,13302,Call Center,Login,116
+988,4526,Call Center,Consulta,480
+989,13279,Call Center,Transfer,57
+990,4429,App,Login,153
+991,16019,Call Center,Login,361
+992,17756,Web,Login,47
+993,2374,App,Transfer,440
+994,412,App,Consulta,397
+995,21295,App,Consulta,277
+996,18495,Call Center,Transfer,479
+997,3379,Call Center,Transfer,420
+998,13774,Call Center,Consulta,67
+999,16491,Call Center,Consulta,95
+1000,20817,App,Transfer,269
+1001,3622,App,Login,426
+1002,17259,App,Consulta,235
+1003,7413,App,Consulta,439
+1004,8698,Call Center,Transfer,124
+1005,14088,App,Transfer,228
+1006,7034,App,Login,224
+1007,21909,Web,Login,388
+1008,19264,Web,Consulta,182
+1009,14695,Call Center,Transfer,33
+1010,10623,Web,Consulta,456
+1011,16475,Call Center,Transfer,339
+1012,24577,Web,Transfer,55
+1013,14652,Web,Consulta,365
+1014,23801,Web,Login,241
+1015,15570,Call Center,Login,128
+1016,12828,App,Login,413
+1017,4682,Call Center,Transfer,312
+1018,15168,Web,Transfer,11
+1019,4647,App,Transfer,471
+1020,11261,Web,Consulta,317
+1021,684,Web,Consulta,265
+1022,20090,Web,Login,140
+1023,4488,Web,Transfer,133
+1024,23855,App,Transfer,476
+1025,14293,Web,Login,136
+1026,5497,App,Transfer,133
+1027,24701,App,Transfer,330
+1028,15520,App,Login,195
+1029,23880,Call Center,Login,426
+1030,23811,Web,Consulta,474
+1031,7373,Web,Consulta,229
+1032,9160,Call Center,Transfer,168
+1033,17433,Call Center,Consulta,452
+1034,13552,Call Center,Transfer,471
+1035,22425,Call Center,Consulta,155
+1036,22554,App,Transfer,34
+1037,18056,App,Consulta,202
+1038,6839,App,Login,431
+1039,13784,Call Center,Transfer,89
+1040,11881,Web,Login,439
+1041,4118,App,Login,119
+1042,20533,Web,Transfer,306
+1043,10607,Call Center,Login,185
+1044,1215,Call Center,Login,235
+1045,6406,App,Transfer,290
+1046,12965,App,Consulta,418
+1047,6697,App,Login,271
+1048,17574,Call Center,Login,457
+1049,7166,Web,Login,327
+1050,4845,App,Transfer,178
+1051,7496,App,Consulta,330
+1052,21449,Web,Transfer,251
+1053,2628,Call Center,Consulta,351
+1054,8604,App,Consulta,179
+1055,15901,Web,Login,428
+1056,23572,App,Login,456
+1057,24108,Call Center,Transfer,333
+1058,9377,Call Center,Consulta,247
+1059,17113,App,Login,382
+1060,22557,Web,Consulta,468
+1061,23204,App,Transfer,376
+1062,21718,Web,Login,161
+1063,19191,App,Login,451
+1064,20785,Web,Transfer,398
+1065,11381,App,Login,240
+1066,16099,App,Consulta,103
+1067,17982,App,Login,257
+1068,3707,App,Transfer,134
+1069,21262,App,Consulta,63
+1070,730,Web,Consulta,248
+1071,16191,App,Login,173
+1072,1856,Web,Login,382
+1073,15618,Web,Consulta,472
+1074,19879,App,Transfer,416
+1075,22583,Web,Login,401
+1076,20495,Call Center,Login,243
+1077,10385,Web,Login,103
+1078,16985,Web,Consulta,241
+1079,23001,Call Center,Consulta,176
+1080,18300,App,Login,449
+1081,10733,Web,Transfer,115
+1082,3312,Call Center,Login,468
+1083,20762,Web,Login,34
+1084,8614,App,Login,398
+1085,5744,Call Center,Login,29
+1086,8748,App,Transfer,457
+1087,16675,Call Center,Transfer,46
+1088,12551,Web,Login,179
+1089,13169,Web,Transfer,470
+1090,8067,App,Transfer,358
+1091,12606,App,Transfer,456
+1092,11121,App,Login,463
+1093,14717,Call Center,Transfer,148
+1094,15063,App,Login,158
+1095,22319,Web,Transfer,341
+1096,20222,App,Login,334
+1097,12516,Call Center,Transfer,31
+1098,5504,Call Center,Login,474
+1099,16589,Call Center,Login,123
+1100,2521,Call Center,Consulta,58
+1101,24961,Web,Login,179
+1102,9165,Call Center,Consulta,221
+1103,3027,Web,Consulta,266
+1104,14966,Web,Consulta,214
+1105,8441,App,Login,131
+1106,8089,App,Transfer,185
+1107,20089,App,Login,274
+1108,7719,App,Consulta,266
+1109,5498,App,Login,421
+1110,21301,Call Center,Consulta,310
+1111,18093,Web,Transfer,376
+1112,11113,Web,Login,140
+1113,1012,Call Center,Transfer,302
+1114,5044,Call Center,Login,330
+1115,16167,Call Center,Transfer,403
+1116,9044,App,Transfer,118
+1117,4834,App,Consulta,349
+1118,928,Web,Login,133
+1119,13392,Web,Transfer,208
+1120,11007,App,Transfer,172
+1121,3821,Call Center,Transfer,14
+1122,185,App,Transfer,293
+1123,20803,Web,Login,320
+1124,3260,Web,Consulta,227
+1125,10279,Web,Consulta,348
+1126,4456,Web,Consulta,59
+1127,12881,Web,Consulta,109
+1128,23740,App,Transfer,375
+1129,10378,Web,Consulta,90
+1130,7640,Web,Login,411
+1131,14680,Call Center,Transfer,440
+1132,23007,Call Center,Login,298
+1133,9270,Web,Transfer,214
+1134,12602,App,Login,185
+1135,44,Web,Transfer,195
+1136,7165,Call Center,Login,101
+1137,18517,App,Consulta,378
+1138,23480,Call Center,Consulta,260
+1139,2865,App,Transfer,31
+1140,15913,Web,Login,406
+1141,1263,App,Login,145
+1142,18947,App,Transfer,441
+1143,6204,Call Center,Consulta,393
+1144,16780,Web,Consulta,31
+1145,10025,Web,Login,274
+1146,7121,Call Center,Consulta,359
+1147,23697,App,Login,125
+1148,21999,Web,Login,327
+1149,22637,App,Transfer,374
+1150,8519,Call Center,Transfer,321
+1151,23155,Call Center,Transfer,441
+1152,24537,App,Transfer,14
+1153,4333,App,Consulta,290
+1154,8454,Call Center,Login,134
+1155,20348,Call Center,Transfer,266
+1156,21071,Call Center,Login,314
+1157,21923,App,Login,376
+1158,18322,Web,Login,359
+1159,15583,Call Center,Login,456
+1160,14128,App,Transfer,403
+1161,7711,Call Center,Transfer,209
+1162,3489,Call Center,Consulta,331
+1163,1055,Web,Transfer,92
+1164,7759,Web,Login,434
+1165,14676,Web,Consulta,28
+1166,18744,Web,Consulta,126
+1167,11895,Call Center,Consulta,24
+1168,13068,Call Center,Consulta,446
+1169,5188,Call Center,Transfer,429
+1170,24335,App,Consulta,7
+1171,21720,Call Center,Consulta,434
+1172,23792,App,Consulta,175
+1173,12931,App,Transfer,200
+1174,2939,App,Transfer,430
+1175,24852,Call Center,Consulta,89
+1176,3085,Web,Login,107
+1177,7778,App,Consulta,455
+1178,21752,Call Center,Consulta,341
+1179,10157,Call Center,Consulta,327
+1180,8697,Call Center,Consulta,56
+1181,20633,Web,Transfer,158
+1182,16437,Web,Consulta,421
+1183,19208,Call Center,Transfer,7
+1184,22401,App,Consulta,272
+1185,3304,Web,Transfer,248
+1186,5970,App,Login,82
+1187,17217,Web,Login,430
+1188,4448,App,Consulta,57
+1189,20948,App,Consulta,199
+1190,3070,Call Center,Login,337
+1191,14664,Call Center,Login,123
+1192,24076,Call Center,Consulta,43
+1193,14912,Call Center,Consulta,228
+1194,22944,Call Center,Login,467
+1195,20339,Web,Login,148
+1196,15787,App,Transfer,13
+1197,457,Call Center,Consulta,244
+1198,13310,App,Transfer,124
+1199,9570,Call Center,Transfer,108
+1200,14040,Call Center,Transfer,258
+1201,22145,Call Center,Consulta,56
+1202,13920,Web,Consulta,124
+1203,19774,Call Center,Consulta,362
+1204,3998,App,Transfer,136
+1205,21401,Web,Login,215
+1206,20611,Call Center,Consulta,461
+1207,3704,Call Center,Login,419
+1208,21806,Call Center,Consulta,84
+1209,7939,Web,Consulta,397
+1210,20225,App,Transfer,246
+1211,8826,Call Center,Login,360
+1212,14990,Call Center,Transfer,290
+1213,1555,App,Transfer,220
+1214,13297,App,Transfer,387
+1215,1265,App,Transfer,476
+1216,3155,Call Center,Transfer,255
+1217,3677,Call Center,Transfer,280
+1218,24862,App,Consulta,209
+1219,8497,Call Center,Login,280
+1220,19401,Call Center,Consulta,8
+1221,17335,Web,Transfer,337
+1222,15450,Call Center,Transfer,165
+1223,22568,Web,Consulta,231
+1224,13111,Web,Consulta,252
+1225,7776,App,Transfer,261
+1226,11282,Web,Transfer,380
+1227,14960,Call Center,Login,416
+1228,7716,Call Center,Login,358
+1229,1356,Web,Transfer,384
+1230,18647,App,Consulta,236
+1231,8796,App,Transfer,180
+1232,15226,Call Center,Transfer,347
+1233,9258,App,Consulta,203
+1234,21998,Call Center,Transfer,468
+1235,22306,Call Center,Consulta,468
+1236,3840,Call Center,Consulta,83
+1237,23221,Web,Transfer,382
+1238,3054,Web,Transfer,303
+1239,14796,Call Center,Login,127
+1240,372,App,Consulta,111
+1241,16153,Call Center,Transfer,130
+1242,13623,Call Center,Consulta,420
+1243,17459,Call Center,Consulta,71
+1244,9701,Call Center,Consulta,351
+1245,18521,Web,Consulta,370
+1246,14030,Web,Login,441
+1247,18298,App,Consulta,330
+1248,697,Web,Login,15
+1249,19561,Call Center,Login,303
+1250,4010,Web,Consulta,396
+1251,15950,Web,Consulta,428
+1252,3452,App,Login,362
+1253,20922,Web,Login,123
+1254,3620,Call Center,Consulta,282
+1255,111,App,Consulta,7
+1256,13087,Call Center,Login,479
+1257,15078,Web,Consulta,402
+1258,19662,Web,Login,12
+1259,1873,App,Transfer,161
+1260,9484,Call Center,Transfer,377
+1261,12464,Web,Consulta,167
+1262,20786,Call Center,Transfer,159
+1263,3575,Web,Consulta,122
+1264,10525,Call Center,Login,164
+1265,8185,Web,Transfer,353
+1266,7716,Web,Login,437
+1267,1384,App,Transfer,403
+1268,14116,App,Consulta,396
+1269,19903,Call Center,Consulta,46
+1270,12603,App,Login,116
+1271,9040,App,Consulta,184
+1272,11644,Call Center,Login,251
+1273,16589,Web,Login,357
+1274,16617,Call Center,Login,294
+1275,12546,Web,Transfer,246
+1276,8037,App,Login,209
+1277,11408,Web,Consulta,125
+1278,2521,Web,Consulta,117
+1279,8358,Web,Login,218
+1280,19978,App,Login,296
+1281,11880,Web,Transfer,420
+1282,17174,Call Center,Consulta,297
+1283,20894,Call Center,Transfer,150
+1284,673,App,Transfer,38
+1285,19609,Call Center,Login,434
+1286,17784,Call Center,Transfer,274
+1287,11396,Call Center,Login,137
+1288,2654,Web,Consulta,93
+1289,5814,Web,Consulta,366
+1290,3145,App,Consulta,449
+1291,13470,Web,Transfer,378
+1292,12638,Web,Login,470
+1293,12817,App,Transfer,371
+1294,3296,App,Login,340
+1295,24246,Call Center,Login,398
+1296,21495,Call Center,Login,249
+1297,11195,Web,Consulta,120
+1298,20296,Web,Consulta,288
+1299,3834,App,Transfer,356
+1300,4182,App,Login,479
+1301,15541,Web,Consulta,303
+1302,20581,Web,Login,352
+1303,19389,Web,Login,196
+1304,5688,Call Center,Transfer,396
+1305,23036,Web,Login,421
+1306,673,App,Login,70
+1307,17530,Web,Transfer,183
+1308,12495,App,Consulta,361
+1309,22322,Call Center,Transfer,254
+1310,7763,Call Center,Consulta,231
+1311,3073,App,Consulta,126
+1312,638,Web,Transfer,77
+1313,3093,Call Center,Login,438
+1314,18730,App,Transfer,153
+1315,11994,Call Center,Consulta,281
+1316,13632,Call Center,Login,85
+1317,914,App,Transfer,373
+1318,8873,App,Transfer,252
+1319,13122,Call Center,Login,271
+1320,7046,App,Login,148
+1321,18697,Web,Login,50
+1322,17871,Call Center,Login,471
+1323,15317,Call Center,Transfer,272
+1324,12689,Call Center,Transfer,194
+1325,16974,App,Login,42
+1326,16453,App,Login,352
+1327,21182,Web,Login,259
+1328,11567,Call Center,Consulta,335
+1329,1972,App,Login,71
+1330,11822,App,Login,168
+1331,847,Call Center,Consulta,197
+1332,13175,App,Login,192
+1333,9475,App,Transfer,316
+1334,3106,Web,Consulta,353
+1335,13863,App,Login,233
+1336,5250,Web,Login,251
+1337,4289,App,Login,387
+1338,725,Web,Consulta,243
+1339,15691,Web,Transfer,367
+1340,6269,Call Center,Login,50
+1341,3876,Call Center,Login,305
+1342,23933,Web,Consulta,435
+1343,24018,App,Consulta,77
+1344,20478,Web,Consulta,223
+1345,12062,Call Center,Consulta,199
+1346,11844,Call Center,Login,110
+1347,24393,Web,Login,60
+1348,4855,Web,Login,400
+1349,1664,Web,Transfer,203
+1350,23475,Call Center,Consulta,344
+1351,24092,Call Center,Transfer,253
+1352,21890,App,Consulta,87
+1353,22292,Web,Transfer,226
+1354,15294,App,Consulta,62
+1355,17882,App,Login,248
+1356,23822,Web,Login,337
+1357,22445,Web,Consulta,457
+1358,13863,Call Center,Login,176
+1359,1756,App,Consulta,297
+1360,7251,Web,Login,12
+1361,8447,App,Login,371
+1362,19967,Call Center,Login,296
+1363,4160,Call Center,Consulta,478
+1364,21302,Web,Transfer,165
+1365,20079,Call Center,Consulta,279
+1366,5387,Call Center,Consulta,477
+1367,22133,Web,Login,295
+1368,4718,App,Transfer,56
+1369,11239,Web,Consulta,93
+1370,4472,Call Center,Login,235
+1371,1016,Call Center,Login,479
+1372,4330,Call Center,Transfer,215
+1373,24048,Web,Transfer,7
+1374,21783,App,Consulta,215
+1375,14761,Web,Transfer,431
+1376,14695,Web,Login,137
+1377,22216,App,Login,422
+1378,22645,App,Consulta,207
+1379,6952,Web,Transfer,17
+1380,13811,Web,Login,347
+1381,288,App,Login,333
+1382,21434,Call Center,Transfer,325
+1383,2869,Web,Login,373
+1384,7944,App,Consulta,194
+1385,6416,App,Login,206
+1386,18148,Web,Login,41
+1387,13007,Call Center,Login,422
+1388,19454,Call Center,Login,193
+1389,23283,Web,Consulta,194
+1390,20354,Web,Consulta,423
+1391,20241,Web,Consulta,294
+1392,17677,Web,Transfer,286
+1393,23265,App,Login,258
+1394,19275,Call Center,Transfer,347
+1395,4976,Web,Consulta,270
+1396,11537,Web,Transfer,118
+1397,7038,Web,Login,448
+1398,701,Call Center,Login,469
+1399,23755,App,Consulta,172
+1400,20436,Web,Transfer,263
+1401,9582,Web,Login,406
+1402,12482,Web,Login,299
+1403,11240,App,Consulta,381
+1404,19541,Web,Transfer,168
+1405,16471,Web,Login,71
+1406,4183,Web,Consulta,68
+1407,24512,App,Consulta,437
+1408,4266,Call Center,Consulta,337
+1409,6389,Web,Consulta,449
+1410,73,Call Center,Consulta,187
+1411,2568,Call Center,Consulta,49
+1412,773,Call Center,Login,89
+1413,11731,App,Login,105
+1414,13753,Web,Transfer,245
+1415,9816,Call Center,Transfer,304
+1416,363,App,Login,23
+1417,15517,Web,Login,382
+1418,9081,Web,Login,364
+1419,15813,Call Center,Consulta,421
+1420,8859,Web,Transfer,16
+1421,2841,Web,Transfer,149
+1422,9730,Web,Transfer,161
+1423,12609,App,Transfer,76
+1424,4255,App,Login,17
+1425,16028,Web,Transfer,90
+1426,11345,App,Login,381
+1427,5712,Web,Consulta,44
+1428,8867,Call Center,Login,166
+1429,17167,Call Center,Consulta,227
+1430,16469,Web,Login,434
+1431,3323,Call Center,Consulta,165
+1432,18957,App,Consulta,156
+1433,6216,App,Consulta,268
+1434,8319,App,Consulta,110
+1435,21583,Web,Transfer,165
+1436,14246,Call Center,Consulta,428
+1437,21660,Web,Login,18
+1438,20243,Call Center,Login,268
+1439,19142,App,Consulta,96
+1440,14043,Web,Transfer,117
+1441,554,Call Center,Transfer,22
+1442,11198,App,Consulta,424
+1443,9652,App,Login,237
+1444,10427,Call Center,Transfer,194
+1445,13968,Web,Transfer,339
+1446,23961,App,Login,402
+1447,21453,App,Transfer,205
+1448,13319,Call Center,Consulta,127
+1449,13158,Call Center,Login,65
+1450,9827,App,Login,449
+1451,21041,Web,Transfer,194
+1452,10302,Web,Login,328
+1453,12563,Web,Transfer,296
+1454,12737,Web,Consulta,26
+1455,17817,App,Transfer,281
+1456,1943,Web,Login,181
+1457,6256,Web,Transfer,220
+1458,5655,App,Transfer,201
+1459,4654,Web,Login,413
+1460,8626,App,Consulta,153
+1461,1883,App,Login,208
+1462,21772,Web,Transfer,39
+1463,5962,App,Transfer,117
+1464,14432,Call Center,Transfer,111
+1465,18807,Web,Transfer,260
+1466,14950,Web,Consulta,42
+1467,3845,App,Transfer,440
+1468,21453,Web,Consulta,287
+1469,11354,Call Center,Login,127
+1470,5757,Web,Consulta,330
+1471,14117,Web,Login,460
+1472,15789,App,Transfer,262
+1473,22229,Call Center,Transfer,185
+1474,16259,Call Center,Login,419
+1475,20692,Web,Login,240
+1476,4847,Call Center,Consulta,27
+1477,5196,App,Login,364
+1478,15853,App,Login,139
+1479,21285,App,Transfer,248
+1480,2933,App,Transfer,65
+1481,21224,Call Center,Transfer,36
+1482,14951,App,Consulta,149
+1483,15944,App,Login,407
+1484,10120,Call Center,Transfer,419
+1485,9077,Web,Login,220
+1486,16074,App,Consulta,233
+1487,19022,App,Transfer,144
+1488,10018,Call Center,Transfer,377
+1489,8633,Web,Consulta,314
+1490,14687,Web,Transfer,241
+1491,18629,Web,Consulta,286
+1492,16961,Call Center,Consulta,350
+1493,3067,Web,Consulta,471
+1494,16235,Call Center,Consulta,12
+1495,13464,Web,Login,22
+1496,18749,Call Center,Login,104
+1497,9236,App,Transfer,414
+1498,19247,App,Transfer,217
+1499,11648,Call Center,Login,320
+1500,7722,App,Transfer,404
+1501,13772,Web,Consulta,61
+1502,6295,App,Transfer,316
+1503,16014,Call Center,Transfer,333
+1504,2058,Call Center,Consulta,122
+1505,4185,Web,Consulta,147
+1506,10348,App,Login,393
+1507,15282,App,Login,58
+1508,16383,App,Transfer,282
+1509,8464,Call Center,Transfer,273
+1510,21713,Call Center,Transfer,336
+1511,13874,App,Login,203
+1512,19283,App,Consulta,360
+1513,1985,Call Center,Transfer,176
+1514,16152,App,Consulta,352
+1515,14076,Web,Consulta,174
+1516,19174,Call Center,Transfer,108
+1517,12601,Web,Consulta,166
+1518,19255,Call Center,Transfer,373
+1519,23372,Web,Consulta,316
+1520,354,App,Consulta,325
+1521,1936,Web,Login,177
+1522,6491,Web,Login,202
+1523,18918,Call Center,Login,156
+1524,1604,Call Center,Transfer,354
+1525,8636,Call Center,Consulta,219
+1526,19067,App,Transfer,117
+1527,9713,App,Login,229
+1528,21608,Call Center,Login,236
+1529,20155,Web,Transfer,341
+1530,23151,Web,Transfer,473
+1531,9315,Call Center,Login,333
+1532,16664,App,Login,196
+1533,4017,App,Transfer,361
+1534,18334,Call Center,Login,12
+1535,21933,Call Center,Consulta,48
+1536,13200,Web,Login,235
+1537,19313,Web,Consulta,178
+1538,17486,Call Center,Login,22
+1539,7655,Call Center,Consulta,258
+1540,8933,App,Login,10
+1541,21977,App,Consulta,21
+1542,17745,App,Consulta,373
+1543,16198,Web,Login,419
+1544,21907,Call Center,Consulta,185
+1545,2949,Web,Consulta,69
+1546,13070,Call Center,Login,13
+1547,7381,Web,Consulta,131
+1548,4838,Web,Transfer,354
+1549,23893,Call Center,Transfer,24
+1550,23104,Call Center,Consulta,61
+1551,21110,Web,Login,385
+1552,18389,App,Transfer,142
+1553,10375,Web,Transfer,136
+1554,16888,Call Center,Login,70
+1555,6711,Web,Transfer,457
+1556,1572,Call Center,Login,67
+1557,2272,Call Center,Login,197
+1558,17254,Web,Login,323
+1559,5872,Web,Login,167
+1560,14929,App,Transfer,390
+1561,23369,Web,Login,232
+1562,15222,App,Consulta,425
+1563,16381,Call Center,Login,312
+1564,20265,Web,Login,5
+1565,16752,App,Login,299
+1566,2717,App,Transfer,394
+1567,10006,App,Login,332
+1568,12566,Web,Consulta,271
+1569,21669,App,Login,122
+1570,18893,Web,Transfer,178
+1571,8724,App,Transfer,102
+1572,6565,Call Center,Transfer,37
+1573,2953,Web,Login,313
+1574,2766,Call Center,Login,92
+1575,14292,App,Consulta,161
+1576,11955,Web,Transfer,59
+1577,17521,Web,Consulta,178
+1578,11288,Web,Transfer,248
+1579,23763,Web,Consulta,458
+1580,19412,Web,Transfer,359
+1581,5588,Call Center,Transfer,431
+1582,24315,App,Consulta,309
+1583,16966,Call Center,Login,98
+1584,17465,Web,Consulta,448
+1585,11803,App,Consulta,67
+1586,10429,Web,Consulta,169
+1587,1292,App,Login,94
+1588,21407,Web,Transfer,193
+1589,1889,Web,Login,469
+1590,11835,App,Consulta,337
+1591,10115,App,Consulta,294
+1592,21846,Call Center,Transfer,59
+1593,14958,App,Transfer,466
+1594,16769,Web,Transfer,362
+1595,9042,App,Transfer,424
+1596,23166,App,Consulta,228
+1597,16998,Call Center,Login,293
+1598,2170,Web,Login,206
+1599,15412,Call Center,Transfer,13
+1600,11292,App,Login,337
+1601,18909,Web,Consulta,172
+1602,2153,Web,Consulta,290
+1603,21284,Web,Transfer,29
+1604,3734,Web,Login,346
+1605,12408,App,Transfer,349
+1606,11328,App,Transfer,480
+1607,19535,App,Transfer,176
+1608,4693,Call Center,Transfer,69
+1609,4571,Call Center,Transfer,440
+1610,14438,Call Center,Transfer,183
+1611,10397,App,Consulta,163
+1612,8796,Web,Login,98
+1613,23900,Web,Transfer,371
+1614,3402,Call Center,Transfer,119
+1615,20495,Call Center,Login,27
+1616,2540,Call Center,Consulta,46
+1617,2517,Web,Consulta,425
+1618,12410,App,Transfer,155
+1619,19841,Call Center,Login,161
+1620,11191,App,Login,308
+1621,19942,Web,Login,166
+1622,5582,Call Center,Transfer,456
+1623,22526,App,Transfer,181
+1624,12445,Call Center,Transfer,30
+1625,10170,Call Center,Transfer,209
+1626,16254,Call Center,Transfer,156
+1627,24820,Web,Login,43
+1628,24649,Web,Login,386
+1629,5486,Web,Login,97
+1630,20599,Web,Transfer,235
+1631,15302,Call Center,Transfer,28
+1632,5701,Call Center,Consulta,426
+1633,5691,Call Center,Transfer,122
+1634,340,Call Center,Login,255
+1635,9946,Web,Transfer,55
+1636,24541,App,Transfer,203
+1637,15656,Web,Consulta,46
+1638,16317,Web,Login,442
+1639,6504,Call Center,Login,192
+1640,11458,App,Consulta,417
+1641,4300,Call Center,Transfer,446
+1642,10616,App,Transfer,142
+1643,13392,App,Consulta,409
+1644,24307,App,Consulta,231
+1645,18934,Web,Transfer,299
+1646,4787,Web,Login,258
+1647,843,Web,Transfer,320
+1648,24738,Call Center,Login,269
+1649,15458,Call Center,Login,153
+1650,14327,App,Consulta,47
+1651,11363,Web,Login,277
+1652,24867,Web,Transfer,373
+1653,19338,App,Login,339
+1654,5816,Call Center,Transfer,399
+1655,3700,Web,Transfer,11
+1656,19445,Web,Transfer,15
+1657,24298,Web,Consulta,469
+1658,7044,App,Transfer,379
+1659,11005,Web,Transfer,310
+1660,10349,App,Login,374
+1661,11623,Call Center,Login,371
+1662,16603,App,Login,434
+1663,13705,App,Login,326
+1664,8903,Call Center,Login,455
+1665,18467,Web,Login,369
+1666,11549,Call Center,Login,389
+1667,15611,App,Login,336
+1668,15656,Call Center,Consulta,171
+1669,7289,Web,Consulta,249
+1670,1602,App,Transfer,248
+1671,13669,App,Consulta,382
+1672,11575,App,Login,241
+1673,22824,Call Center,Consulta,35
+1674,4287,App,Transfer,213
+1675,7113,Web,Transfer,19
+1676,24664,Web,Transfer,112
+1677,18638,Web,Consulta,200
+1678,18557,Web,Consulta,278
+1679,18228,Web,Transfer,146
+1680,14343,App,Login,152
+1681,18563,Web,Login,232
+1682,7956,Web,Transfer,182
+1683,15424,Call Center,Login,380
+1684,10477,Web,Login,447
+1685,9635,Call Center,Consulta,412
+1686,9526,Call Center,Login,347
+1687,5446,Call Center,Login,345
+1688,12909,App,Consulta,58
+1689,2601,Web,Login,83
+1690,9467,App,Login,108
+1691,6656,App,Transfer,119
+1692,2370,Call Center,Transfer,114
+1693,18646,Web,Transfer,17
+1694,15199,App,Transfer,292
+1695,5768,Web,Transfer,133
+1696,21127,App,Transfer,281
+1697,17807,Web,Login,290
+1698,3656,Web,Transfer,14
+1699,24143,Call Center,Consulta,407
+1700,6433,Call Center,Consulta,228
+1701,13211,Web,Transfer,7
+1702,21867,Call Center,Login,16
+1703,20047,App,Consulta,204
+1704,24568,App,Transfer,276
+1705,6295,App,Login,445
+1706,10824,Call Center,Transfer,477
+1707,52,App,Login,90
+1708,11542,App,Transfer,336
+1709,22953,App,Transfer,87
+1710,6705,App,Consulta,436
+1711,22804,App,Login,213
+1712,3304,Call Center,Consulta,478
+1713,19289,App,Consulta,257
+1714,5217,App,Transfer,415
+1715,8101,Web,Consulta,89
+1716,16191,Call Center,Consulta,105
+1717,19658,App,Consulta,13
+1718,5802,Call Center,Transfer,374
+1719,17055,Call Center,Transfer,364
+1720,15675,Call Center,Login,68
+1721,22703,App,Transfer,57
+1722,13130,Call Center,Login,40
+1723,11653,Web,Transfer,406
+1724,38,App,Consulta,168
+1725,16975,Call Center,Transfer,461
+1726,7940,Call Center,Consulta,430
+1727,23737,App,Login,477
+1728,9941,Web,Transfer,220
+1729,23867,Web,Transfer,9
+1730,7199,Call Center,Login,173
+1731,23720,App,Transfer,412
+1732,9075,Web,Consulta,353
+1733,13936,App,Transfer,133
+1734,17082,Web,Transfer,431
+1735,3147,App,Consulta,342
+1736,23248,Call Center,Transfer,363
+1737,20357,Call Center,Consulta,29
+1738,6890,App,Transfer,23
+1739,9853,Web,Transfer,229
+1740,1732,App,Consulta,100
+1741,19045,Web,Login,209
+1742,12032,Web,Transfer,65
+1743,22987,App,Login,465
+1744,176,Web,Consulta,365
+1745,18014,Call Center,Transfer,142
+1746,11402,Call Center,Login,7
+1747,6059,Web,Login,220
+1748,13769,App,Login,26
+1749,22368,Call Center,Transfer,420
+1750,12379,Call Center,Consulta,451
+1751,1110,Web,Transfer,95
+1752,21490,Web,Consulta,202
+1753,8647,Call Center,Consulta,97
+1754,20217,Web,Consulta,442
+1755,17016,App,Transfer,245
+1756,4264,Call Center,Transfer,321
+1757,16570,Call Center,Transfer,430
+1758,14674,Call Center,Consulta,198
+1759,4602,Call Center,Login,36
+1760,2684,App,Login,195
+1761,24199,App,Consulta,69
+1762,10020,Web,Consulta,312
+1763,17844,Call Center,Login,82
+1764,18560,Web,Consulta,403
+1765,22510,Web,Transfer,319
+1766,21252,App,Login,388
+1767,6155,Web,Consulta,189
+1768,21583,Call Center,Consulta,453
+1769,991,App,Consulta,145
+1770,4042,Web,Login,149
+1771,22190,Call Center,Login,73
+1772,18500,Web,Consulta,397
+1773,13436,Call Center,Consulta,266
+1774,10585,App,Consulta,344
+1775,16386,Call Center,Consulta,125
+1776,11174,App,Login,408
+1777,7211,Call Center,Login,449
+1778,4987,App,Transfer,463
+1779,23148,Web,Consulta,214
+1780,20600,Call Center,Transfer,107
+1781,5999,Web,Login,131
+1782,17043,Call Center,Transfer,133
+1783,21027,App,Login,440
+1784,20639,Call Center,Login,435
+1785,22115,Call Center,Login,379
+1786,10516,Call Center,Transfer,50
+1787,14796,App,Transfer,408
+1788,15132,Web,Consulta,443
+1789,24397,App,Consulta,357
+1790,3238,Web,Login,257
+1791,2713,Web,Login,19
+1792,17836,Call Center,Transfer,149
+1793,17214,Call Center,Transfer,51
+1794,21725,Web,Transfer,352
+1795,233,Call Center,Login,445
+1796,20602,Call Center,Transfer,297
+1797,24693,Web,Login,239
+1798,6984,App,Transfer,295
+1799,22583,Call Center,Transfer,233
+1800,16829,App,Login,130
+1801,3452,Call Center,Login,478
+1802,9602,Call Center,Login,15
+1803,553,App,Login,333
+1804,22948,Web,Transfer,293
+1805,2916,Call Center,Consulta,372
+1806,16196,App,Transfer,426
+1807,24122,App,Transfer,40
+1808,6272,Call Center,Transfer,79
+1809,2104,Call Center,Transfer,402
+1810,16425,Web,Transfer,429
+1811,14753,App,Consulta,75
+1812,23147,Call Center,Consulta,250
+1813,12148,App,Consulta,159
+1814,16579,App,Login,39
+1815,3390,Web,Transfer,166
+1816,14312,Call Center,Consulta,446
+1817,269,Web,Transfer,432
+1818,9824,Web,Login,460
+1819,21133,App,Transfer,196
+1820,11561,App,Transfer,236
+1821,10294,Web,Transfer,458
+1822,17505,App,Transfer,110
+1823,570,Web,Login,348
+1824,18003,App,Consulta,400
+1825,4577,Call Center,Transfer,312
+1826,3436,Call Center,Consulta,304
+1827,3479,Web,Transfer,377
+1828,2320,Call Center,Transfer,461
+1829,4478,Web,Consulta,276
+1830,21532,App,Consulta,119
+1831,20851,Call Center,Transfer,67
+1832,23646,Call Center,Transfer,344
+1833,8811,Web,Consulta,275
+1834,1709,Web,Login,133
+1835,13948,Web,Transfer,35
+1836,21103,App,Transfer,396
+1837,18901,Call Center,Transfer,242
+1838,4662,Call Center,Consulta,25
+1839,21564,Call Center,Consulta,31
+1840,2741,App,Consulta,9
+1841,15147,Call Center,Login,242
+1842,18797,Web,Consulta,209
+1843,15556,App,Login,329
+1844,4993,App,Transfer,99
+1845,16942,App,Consulta,347
+1846,15624,App,Consulta,260
+1847,2900,Call Center,Login,240
+1848,3088,Web,Login,113
+1849,12352,App,Consulta,264
+1850,10100,Web,Transfer,250
+1851,22474,Call Center,Login,231
+1852,18351,App,Login,450
+1853,19824,App,Transfer,126
+1854,16954,Web,Login,128
+1855,23389,Web,Consulta,133
+1856,2687,Web,Consulta,325
+1857,23931,Web,Transfer,280
+1858,4427,Web,Consulta,76
+1859,21938,Call Center,Consulta,77
+1860,20071,Call Center,Consulta,34
+1861,3514,App,Login,256
+1862,16131,Web,Transfer,293
+1863,22346,Call Center,Transfer,131
+1864,4526,App,Login,452
+1865,8497,Web,Consulta,150
+1866,23263,App,Login,307
+1867,11235,App,Consulta,315
+1868,9389,Web,Login,471
+1869,2733,App,Transfer,255
+1870,13123,Web,Consulta,31
+1871,70,Call Center,Transfer,133
+1872,6339,App,Login,437
+1873,3015,Call Center,Consulta,450
+1874,21291,App,Login,128
+1875,11450,App,Consulta,280
+1876,22953,Call Center,Login,73
+1877,23075,Call Center,Login,474
+1878,3865,Web,Transfer,200
+1879,15353,Call Center,Transfer,452
+1880,18007,Call Center,Login,75
+1881,2360,Call Center,Consulta,371
+1882,5643,Call Center,Consulta,95
+1883,9380,Call Center,Consulta,383
+1884,24242,App,Transfer,415
+1885,11901,Web,Login,208
+1886,8542,Web,Transfer,304
+1887,9111,Web,Consulta,225
+1888,9503,App,Transfer,367
+1889,17720,Call Center,Login,298
+1890,20261,App,Consulta,337
+1891,16256,App,Login,398
+1892,20928,Web,Consulta,198
+1893,16030,Call Center,Login,100
+1894,7567,Call Center,Login,111
+1895,3652,Call Center,Transfer,261
+1896,19551,App,Login,336
+1897,2749,Call Center,Transfer,85
+1898,5458,App,Transfer,74
+1899,2345,Web,Transfer,443
+1900,5890,App,Transfer,415
+1901,17214,Call Center,Consulta,61
+1902,12875,App,Consulta,333
+1903,19219,Web,Login,86
+1904,15553,Web,Consulta,170
+1905,796,Web,Consulta,28
+1906,6438,Call Center,Consulta,227
+1907,12980,App,Login,367
+1908,20114,App,Consulta,414
+1909,6625,Web,Transfer,263
+1910,9608,Web,Login,365
+1911,6583,Call Center,Consulta,394
+1912,12650,App,Consulta,56
+1913,423,App,Transfer,467
+1914,20634,Web,Consulta,27
+1915,17863,Web,Transfer,79
+1916,20540,Call Center,Consulta,336
+1917,18930,App,Login,298
+1918,24911,Web,Consulta,243
+1919,6482,App,Login,148
+1920,17699,App,Consulta,84
+1921,6990,Web,Transfer,57
+1922,9251,Web,Transfer,336
+1923,12257,App,Transfer,99
+1924,21911,Call Center,Consulta,304
+1925,15610,Call Center,Transfer,142
+1926,812,Call Center,Transfer,287
+1927,15348,App,Consulta,63
+1928,10083,App,Consulta,292
+1929,3977,App,Login,69
+1930,16798,App,Login,255
+1931,11789,App,Login,336
+1932,687,App,Consulta,382
+1933,6673,Call Center,Consulta,93
+1934,6746,App,Transfer,405
+1935,13086,Call Center,Consulta,426
+1936,8035,Call Center,Transfer,96
+1937,18635,Web,Transfer,215
+1938,2746,App,Login,397
+1939,5355,Call Center,Transfer,367
+1940,837,App,Transfer,29
+1941,4880,Web,Consulta,41
+1942,9141,Call Center,Transfer,358
+1943,1361,Web,Consulta,422
+1944,11936,App,Transfer,290
+1945,24421,Call Center,Consulta,170
+1946,24799,Call Center,Login,39
+1947,20047,App,Transfer,383
+1948,12529,Web,Transfer,121
+1949,11858,Web,Transfer,415
+1950,8496,Web,Login,136
+1951,3638,Call Center,Login,241
+1952,13597,Call Center,Login,11
+1953,22164,Web,Login,184
+1954,10249,Call Center,Login,202
+1955,10570,App,Login,282
+1956,3207,Call Center,Transfer,449
+1957,15867,Web,Transfer,304
+1958,22169,Call Center,Transfer,306
+1959,11459,Web,Login,17
+1960,20337,App,Consulta,94
+1961,19251,App,Consulta,402
+1962,11304,Web,Login,477
+1963,8267,App,Transfer,47
+1964,15586,Web,Transfer,160
+1965,12429,App,Consulta,390
+1966,9790,Web,Transfer,465
+1967,16812,App,Transfer,26
+1968,18526,App,Transfer,319
+1969,7318,Call Center,Transfer,148
+1970,7877,Web,Consulta,467
+1971,5034,Call Center,Transfer,276
+1972,4451,App,Consulta,448
+1973,6285,Web,Transfer,413
+1974,21277,Call Center,Consulta,314
+1975,21785,App,Consulta,307
+1976,1055,Call Center,Login,430
+1977,7083,Web,Login,176
+1978,16068,Call Center,Consulta,169
+1979,6824,App,Transfer,73
+1980,23970,Call Center,Transfer,294
+1981,11388,Call Center,Consulta,436
+1982,7049,Web,Consulta,475
+1983,12436,App,Transfer,218
+1984,21165,Web,Login,124
+1985,17141,App,Consulta,371
+1986,23817,App,Login,362
+1987,21015,App,Consulta,330
+1988,11161,App,Consulta,451
+1989,23205,Call Center,Transfer,48
+1990,21543,App,Consulta,384
+1991,10672,Call Center,Login,110
+1992,3754,App,Login,425
+1993,15397,App,Transfer,337
+1994,4610,App,Login,408
+1995,1011,App,Transfer,420
+1996,18832,Call Center,Transfer,122
+1997,3700,App,Consulta,141
+1998,11274,Web,Login,217
+1999,21222,Web,Transfer,455
+2000,12054,Call Center,Login,70
+2001,21207,App,Transfer,447
+2002,12754,Web,Transfer,118
+2003,16084,Call Center,Transfer,107
+2004,433,Call Center,Consulta,333
+2005,10551,App,Login,173
+2006,1491,App,Consulta,9
+2007,2874,App,Transfer,469
+2008,4066,App,Consulta,290
+2009,17012,Call Center,Login,395
+2010,19516,Call Center,Login,5
+2011,7025,Call Center,Login,451
+2012,12588,Call Center,Transfer,146
+2013,5735,Call Center,Transfer,424
+2014,11463,Call Center,Consulta,180
+2015,6505,Web,Consulta,418
+2016,19741,Call Center,Consulta,368
+2017,7057,App,Login,469
+2018,8220,App,Login,230
+2019,7134,Call Center,Login,145
+2020,3279,App,Consulta,328
+2021,10414,App,Consulta,318
+2022,4320,Call Center,Login,26
+2023,12868,Web,Transfer,191
+2024,11816,Call Center,Consulta,280
+2025,6631,Call Center,Consulta,220
+2026,15410,App,Login,342
+2027,22641,Call Center,Consulta,456
+2028,20887,App,Login,39
+2029,10234,App,Transfer,21
+2030,11875,Web,Consulta,219
+2031,12350,App,Login,446
+2032,21960,Call Center,Consulta,149
+2033,13438,Web,Consulta,270
+2034,2062,Call Center,Consulta,332
+2035,21826,App,Login,152
+2036,8216,App,Consulta,238
+2037,16397,Call Center,Login,125
+2038,5862,App,Transfer,9
+2039,19363,Call Center,Login,94
+2040,23421,Call Center,Transfer,478
+2041,14296,Call Center,Login,36
+2042,6368,App,Transfer,347
+2043,1686,App,Consulta,430
+2044,3520,Call Center,Transfer,218
+2045,15484,Web,Login,236
+2046,22282,App,Transfer,467
+2047,5591,App,Login,167
+2048,12263,App,Transfer,474
+2049,7399,App,Consulta,477
+2050,23578,App,Consulta,471
+2051,20706,App,Transfer,256
+2052,24389,Call Center,Transfer,106
+2053,5216,Call Center,Transfer,60
+2054,7220,Call Center,Login,24
+2055,5544,Call Center,Login,136
+2056,17774,App,Transfer,100
+2057,15280,Call Center,Consulta,128
+2058,13759,Call Center,Login,347
+2059,18784,Call Center,Login,309
+2060,1788,Call Center,Login,433
+2061,19756,App,Login,33
+2062,8009,Call Center,Consulta,335
+2063,14703,App,Transfer,167
+2064,5411,Web,Login,13
+2065,8981,Call Center,Login,50
+2066,22444,App,Consulta,156
+2067,3357,Web,Transfer,330
+2068,12934,Call Center,Consulta,432
+2069,21160,App,Transfer,100
+2070,18254,App,Login,291
+2071,8968,Web,Transfer,35
+2072,2482,Call Center,Transfer,213
+2073,6851,Call Center,Consulta,9
+2074,9806,App,Consulta,283
+2075,15226,App,Consulta,428
+2076,8880,Call Center,Transfer,309
+2077,2567,App,Consulta,346
+2078,8389,Web,Consulta,260
+2079,22416,Call Center,Login,475
+2080,8805,Call Center,Transfer,182
+2081,19715,Call Center,Transfer,318
+2082,3242,App,Consulta,475
+2083,1317,App,Consulta,426
+2084,20815,Web,Transfer,363
+2085,23606,Call Center,Transfer,158
+2086,7226,App,Login,7
+2087,15843,App,Transfer,365
+2088,20449,Call Center,Transfer,160
+2089,19723,App,Transfer,247
+2090,16924,App,Consulta,53
+2091,16430,App,Transfer,350
+2092,12734,Call Center,Login,418
+2093,24755,Call Center,Consulta,146
+2094,10015,App,Consulta,306
+2095,1784,Web,Consulta,88
+2096,13607,App,Login,345
+2097,18793,Call Center,Consulta,370
+2098,16533,Call Center,Consulta,162
+2099,4111,App,Consulta,443
+2100,12650,Call Center,Transfer,145
+2101,16922,Web,Consulta,355
+2102,12319,App,Login,308
+2103,12681,Call Center,Transfer,30
+2104,20796,Call Center,Transfer,73
+2105,4331,App,Consulta,403
+2106,7007,Web,Transfer,326
+2107,9428,Call Center,Consulta,145
+2108,5889,Web,Consulta,262
+2109,5495,App,Transfer,174
+2110,2264,App,Login,179
+2111,13712,Call Center,Login,53
+2112,6887,Web,Transfer,290
+2113,1171,Web,Login,321
+2114,10485,Web,Login,312
+2115,11990,App,Transfer,235
+2116,23804,Call Center,Transfer,177
+2117,4800,App,Transfer,186
+2118,5011,Web,Login,426
+2119,2674,App,Login,297
+2120,22568,App,Consulta,237
+2121,13890,Web,Consulta,399
+2122,39,App,Login,206
+2123,12177,Web,Transfer,191
+2124,8970,Web,Transfer,43
+2125,1266,App,Consulta,322
+2126,18662,Call Center,Login,435
+2127,1041,App,Transfer,99
+2128,14765,Call Center,Login,246
+2129,22066,Web,Transfer,145
+2130,24294,Call Center,Transfer,54
+2131,11816,App,Login,58
+2132,6936,App,Consulta,33
+2133,5248,App,Login,381
+2134,18129,App,Consulta,158
+2135,17976,Call Center,Transfer,310
+2136,23914,Web,Consulta,460
+2137,3758,Call Center,Login,408
+2138,15527,App,Login,351
+2139,599,Call Center,Consulta,75
+2140,10834,App,Login,84
+2141,7647,App,Transfer,311
+2142,2517,Web,Transfer,347
+2143,7618,App,Transfer,67
+2144,1310,Web,Consulta,228
+2145,212,App,Login,451
+2146,17791,Call Center,Consulta,432
+2147,7435,App,Transfer,477
+2148,2867,Call Center,Transfer,333
+2149,3336,App,Consulta,283
+2150,23090,Web,Consulta,331
+2151,18846,Web,Login,72
+2152,1017,Call Center,Consulta,397
+2153,11421,Web,Transfer,390
+2154,17870,Web,Consulta,244
+2155,13973,Call Center,Consulta,63
+2156,8481,App,Login,356
+2157,18471,App,Login,350
+2158,8149,Call Center,Login,193
+2159,24736,Call Center,Consulta,75
+2160,21889,Call Center,Transfer,273
+2161,18880,Call Center,Transfer,99
+2162,5682,App,Consulta,459
+2163,23400,Web,Consulta,136
+2164,3401,Call Center,Consulta,96
+2165,23969,Web,Login,469
+2166,14309,App,Consulta,325
+2167,10517,Call Center,Login,339
+2168,21769,App,Consulta,156
+2169,10087,Web,Transfer,207
+2170,22861,Call Center,Consulta,207
+2171,13514,App,Consulta,199
+2172,22149,Call Center,Transfer,19
+2173,10875,Call Center,Login,462
+2174,16379,Web,Consulta,39
+2175,5915,Web,Transfer,139
+2176,499,App,Consulta,33
+2177,14374,Call Center,Login,288
+2178,24384,App,Transfer,237
+2179,21638,Call Center,Transfer,129
+2180,19968,Call Center,Login,360
+2181,5608,App,Consulta,15
+2182,9943,App,Transfer,426
+2183,7760,Call Center,Transfer,319
+2184,15675,App,Consulta,78
+2185,11767,App,Login,432
+2186,21858,Web,Consulta,350
+2187,11108,Web,Consulta,211
+2188,1509,Call Center,Consulta,410
+2189,17384,App,Consulta,348
+2190,5818,Call Center,Transfer,20
+2191,21099,Call Center,Login,262
+2192,13853,Web,Login,213
+2193,278,Web,Consulta,70
+2194,24508,Call Center,Login,471
+2195,13498,Web,Login,168
+2196,10966,Web,Consulta,26
+2197,13114,App,Transfer,454
+2198,23862,Web,Transfer,269
+2199,4040,Call Center,Transfer,180
+2200,7226,Call Center,Login,385
+2201,13839,Call Center,Consulta,141
+2202,8473,App,Consulta,77
+2203,2248,App,Consulta,304
+2204,9423,Web,Transfer,125
+2205,17186,Call Center,Login,341
+2206,11838,App,Transfer,45
+2207,23955,Web,Login,51
+2208,20028,Call Center,Transfer,317
+2209,10944,Call Center,Login,200
+2210,10968,App,Consulta,388
+2211,13353,App,Transfer,474
+2212,18773,App,Transfer,318
+2213,6438,Call Center,Consulta,444
+2214,14826,Web,Consulta,371
+2215,13540,Call Center,Login,335
+2216,16287,Call Center,Login,245
+2217,14166,App,Login,416
+2218,20680,Call Center,Consulta,77
+2219,5868,App,Login,67
+2220,2257,Call Center,Consulta,355
+2221,3783,App,Consulta,257
+2222,5897,Web,Consulta,335
+2223,14136,Web,Transfer,361
+2224,19573,Call Center,Login,475
+2225,15960,Call Center,Consulta,45
+2226,5960,App,Transfer,13
+2227,6732,App,Login,76
+2228,9691,App,Login,361
+2229,12164,Web,Consulta,389
+2230,9703,App,Login,115
+2231,22727,Call Center,Login,177
+2232,15914,App,Login,384
+2233,7474,App,Transfer,258
+2234,12243,App,Login,282
+2235,7436,Web,Login,462
+2236,389,App,Transfer,184
+2237,17086,Web,Login,465
+2238,15888,App,Consulta,49
+2239,13268,Web,Transfer,464
+2240,15832,Call Center,Transfer,205
+2241,8695,Call Center,Transfer,129
+2242,3196,Web,Login,241
+2243,19755,App,Transfer,6
+2244,5586,App,Consulta,165
+2245,3765,Call Center,Consulta,85
+2246,19009,Web,Consulta,421
+2247,9112,Call Center,Consulta,28
+2248,20875,Call Center,Consulta,191
+2249,21755,Call Center,Transfer,23
+2250,11633,App,Transfer,373
+2251,8132,Web,Transfer,339
+2252,17838,Call Center,Consulta,275
+2253,8322,Call Center,Login,409
+2254,14127,Web,Transfer,382
+2255,24569,Call Center,Consulta,371
+2256,1834,Web,Consulta,404
+2257,5218,App,Transfer,270
+2258,5420,Call Center,Consulta,138
+2259,7973,App,Login,165
+2260,13459,Web,Consulta,130
+2261,11165,Web,Consulta,320
+2262,4182,App,Transfer,273
+2263,11019,Call Center,Login,244
+2264,12598,App,Transfer,189
+2265,12516,App,Consulta,467
+2266,19744,Call Center,Consulta,133
+2267,14381,App,Consulta,263
+2268,6348,App,Transfer,306
+2269,6706,Call Center,Consulta,97
+2270,8249,Web,Login,380
+2271,7145,Web,Login,448
+2272,19636,App,Consulta,19
+2273,180,App,Transfer,28
+2274,15722,Call Center,Consulta,221
+2275,16102,App,Transfer,392
+2276,18789,Web,Login,304
+2277,20332,Call Center,Transfer,274
+2278,9034,Web,Consulta,33
+2279,20484,App,Transfer,171
+2280,12016,Call Center,Login,458
+2281,16072,Call Center,Consulta,275
+2282,15424,App,Consulta,75
+2283,10751,App,Consulta,433
+2284,4181,App,Consulta,221
+2285,7642,Web,Transfer,168
+2286,5280,Web,Login,360
+2287,11369,Web,Consulta,435
+2288,259,Web,Consulta,385
+2289,14741,App,Consulta,367
+2290,12640,Web,Login,474
+2291,20457,Web,Login,341
+2292,2532,Web,Consulta,319
+2293,18180,Call Center,Transfer,286
+2294,2433,App,Transfer,48
+2295,21100,App,Login,240
+2296,21126,App,Transfer,163
+2297,16851,Web,Login,99
+2298,11407,App,Consulta,359
+2299,20446,App,Transfer,316
+2300,7366,App,Transfer,425
+2301,10049,App,Transfer,455
+2302,10614,Web,Login,271
+2303,21264,Call Center,Transfer,338
+2304,909,Call Center,Consulta,89
+2305,23876,App,Consulta,13
+2306,14791,Call Center,Transfer,61
+2307,8177,Call Center,Transfer,132
+2308,23974,App,Transfer,261
+2309,24412,Web,Login,164
+2310,2878,App,Transfer,353
+2311,19820,App,Consulta,346
+2312,6804,App,Transfer,263
+2313,21097,App,Consulta,332
+2314,12855,Web,Login,72
+2315,2827,App,Transfer,450
+2316,652,App,Login,307
+2317,10254,Web,Login,73
+2318,17681,App,Transfer,451
+2319,4363,Web,Transfer,115
+2320,726,Web,Login,97
+2321,9026,Call Center,Consulta,225
+2322,20968,Web,Consulta,316
+2323,13877,App,Transfer,299
+2324,6949,Web,Login,96
+2325,18305,Call Center,Transfer,462
+2326,14662,Web,Login,49
+2327,4604,Web,Transfer,308
+2328,9798,Call Center,Transfer,269
+2329,1216,Call Center,Login,400
+2330,17667,Call Center,Login,112
+2331,19645,App,Login,181
+2332,23684,Call Center,Transfer,378
+2333,18483,App,Login,125
+2334,13167,Call Center,Transfer,469
+2335,1957,Web,Transfer,113
+2336,4684,Call Center,Consulta,268
+2337,11443,App,Consulta,354
+2338,9000,App,Login,274
+2339,9504,Web,Transfer,269
+2340,7944,Call Center,Login,119
+2341,21004,App,Consulta,418
+2342,19991,Web,Transfer,464
+2343,2120,Web,Consulta,172
+2344,19681,Web,Transfer,29
+2345,8715,App,Transfer,463
+2346,1173,Call Center,Transfer,99
+2347,14978,App,Login,17
+2348,2878,Web,Login,448
+2349,2309,Call Center,Login,204
+2350,3809,Call Center,Transfer,94
+2351,8305,Web,Login,255
+2352,2776,App,Login,269
+2353,2197,Call Center,Consulta,31
+2354,934,App,Login,448
+2355,5611,Web,Login,135
+2356,5965,Web,Transfer,160
+2357,23942,Web,Transfer,77
+2358,2321,App,Transfer,119
+2359,516,App,Transfer,30
+2360,10223,App,Transfer,152
+2361,20276,App,Consulta,416
+2362,8067,Web,Transfer,256
+2363,1705,Call Center,Consulta,299
+2364,17519,Web,Login,164
+2365,16690,Web,Transfer,377
+2366,6854,Call Center,Consulta,159
+2367,23710,Call Center,Transfer,78
+2368,8212,Web,Consulta,257
+2369,20248,App,Consulta,189
+2370,1276,App,Transfer,230
+2371,11208,Call Center,Transfer,406
+2372,4279,Call Center,Consulta,112
+2373,12044,App,Transfer,151
+2374,5965,Call Center,Login,386
+2375,24427,Web,Login,279
+2376,20358,App,Login,48
+2377,19059,Web,Transfer,190
+2378,17702,Web,Transfer,288
+2379,22642,App,Login,143
+2380,10056,Call Center,Consulta,197
+2381,11090,App,Transfer,210
+2382,24927,Web,Consulta,283
+2383,11966,App,Login,87
+2384,17671,Web,Login,118
+2385,3092,Call Center,Consulta,469
+2386,6171,Web,Transfer,183
+2387,18955,Web,Login,431
+2388,7877,App,Transfer,455
+2389,3710,App,Login,104
+2390,18226,App,Consulta,458
+2391,224,Call Center,Consulta,478
+2392,15627,App,Transfer,326
+2393,3677,Web,Consulta,479
+2394,1460,App,Consulta,53
+2395,16528,App,Login,331
+2396,16511,App,Login,425
+2397,6381,Call Center,Transfer,397
+2398,23495,App,Login,221
+2399,12633,Call Center,Transfer,351
+2400,16937,Web,Consulta,361
+2401,16408,App,Login,361
+2402,17337,Web,Login,169
+2403,13577,Call Center,Transfer,72
+2404,12600,Web,Transfer,134
+2405,8803,Call Center,Transfer,85
+2406,13433,Web,Transfer,260
+2407,3377,App,Consulta,39
+2408,1279,App,Transfer,218
+2409,6743,App,Consulta,369
+2410,538,Web,Login,123
+2411,12769,Call Center,Login,336
+2412,7590,Call Center,Consulta,466
+2413,18974,Web,Transfer,260
+2414,425,Call Center,Consulta,6
+2415,1036,Call Center,Transfer,420
+2416,1713,Call Center,Transfer,22
+2417,21613,Call Center,Login,75
+2418,19800,Call Center,Login,142
+2419,14426,Call Center,Consulta,289
+2420,18414,Web,Transfer,281
+2421,7832,Call Center,Login,98
+2422,21028,Web,Login,333
+2423,19169,Web,Consulta,201
+2424,3670,Call Center,Consulta,32
+2425,14110,Call Center,Login,427
+2426,5748,App,Login,27
+2427,15030,Call Center,Consulta,165
+2428,21289,App,Consulta,235
+2429,14179,App,Login,11
+2430,19728,App,Login,298
+2431,7682,Call Center,Consulta,224
+2432,15831,App,Login,110
+2433,16640,Web,Transfer,231
+2434,23685,Web,Consulta,274
+2435,2956,App,Login,177
+2436,4151,App,Transfer,135
+2437,19315,App,Consulta,61
+2438,508,App,Transfer,8
+2439,8510,App,Transfer,479
+2440,691,Call Center,Login,434
+2441,22799,Call Center,Consulta,444
+2442,22388,Web,Consulta,25
+2443,2544,App,Consulta,336
+2444,18556,Web,Transfer,369
+2445,13151,App,Transfer,104
+2446,18611,App,Login,24
+2447,12060,App,Login,252
+2448,20203,Call Center,Consulta,32
+2449,3540,Web,Transfer,112
+2450,9380,Web,Consulta,247
+2451,21724,App,Login,362
+2452,12744,App,Login,108
+2453,17515,Call Center,Consulta,468
+2454,645,App,Transfer,131
+2455,13810,Call Center,Consulta,166
+2456,20058,Call Center,Transfer,457
+2457,3546,App,Transfer,167
+2458,6629,App,Consulta,197
+2459,12796,App,Consulta,410
+2460,16184,Web,Login,115
+2461,4675,Web,Transfer,100
+2462,16047,Call Center,Transfer,456
+2463,24425,App,Login,279
+2464,6030,Call Center,Login,371
+2465,14213,App,Login,11
+2466,10832,Call Center,Login,292
+2467,8549,Web,Login,458
+2468,21802,Call Center,Login,101
+2469,20071,App,Login,104
+2470,23375,Call Center,Consulta,140
+2471,24495,Web,Login,28
+2472,6174,Web,Login,12
+2473,21199,Call Center,Transfer,380
+2474,1664,Web,Login,229
+2475,14676,Call Center,Login,49
+2476,3700,App,Transfer,156
+2477,518,App,Consulta,272
+2478,347,Call Center,Consulta,211
+2479,24754,App,Transfer,133
+2480,8670,App,Consulta,265
+2481,12874,App,Transfer,142
+2482,12803,Call Center,Login,157
+2483,16050,Web,Transfer,62
+2484,3355,Web,Login,171
+2485,24650,App,Consulta,134
+2486,1873,Call Center,Consulta,260
+2487,270,App,Login,422
+2488,13825,Call Center,Consulta,451
+2489,23425,Call Center,Login,85
+2490,6718,Call Center,Consulta,143
+2491,20493,Call Center,Login,83
+2492,23543,Web,Consulta,290
+2493,10358,Call Center,Login,306
+2494,17255,App,Consulta,143
+2495,20658,App,Consulta,13
+2496,938,Call Center,Transfer,318
+2497,8595,Call Center,Login,419
+2498,8976,App,Login,116
+2499,14395,Call Center,Consulta,184
+2500,717,Web,Transfer,96

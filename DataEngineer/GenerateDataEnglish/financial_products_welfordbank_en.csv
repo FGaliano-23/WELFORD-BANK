@@ -1,0 +1,13 @@
+FinancialProduct_ID,Product_Name,Product_Type,Description,Interest_Rate,Minimum_Investment,Maximum_Investment,Risk_Level,Created_At
+1,Mortgage,Loan,Repellendus odio iusto suscipit.,1.5,50000,500000,Baja,2022-09-27 07:46:52
+2,Personal Loan,Loan,Ratione at accusantium vitae sapiente.,4.2,1000,50000,Media,2021-03-12 04:28:30
+3,Auto Loan,Loan,Tempore sed fugit deleniti iste molestiae omnis iure.,3.8,5000,100000,Baja,2021-09-04 03:38:45
+4,Credit Line,Loan,Accusamus laudantium necessitatibus soluta culpa architecto illo.,6.0,500,20000,Media,2022-04-03 16:05:34
+5,Student Loan,Loan,Esse doloribus id iste.,2.9,3000,60000,Baja,2022-04-21 02:09:24
+6,Small Business Loan,Loan,Alias unde possimus neque cupiditate.,5.5,10000,250000,Media,2022-12-10 03:37:31
+7,Fixed-Income Fund,Investment,Assumenda adipisci voluptate culpa consectetur.,2.5,1000,50000,Low,2024-08-19 20:16:15
+8,Equity Fund,Investment,Natus nihil ex animi aliquam.,5.0,5000,100000,Medium,2025-04-05 14:13:33
+9,Time Deposit,Investment,Beatae nam debitis labore expedita.,1.2,500,20000,Low,2020-05-02 17:27:53
+10,Government Bond Fund,Investment,Ducimus quisquam deserunt laboriosam dolorum porro ipsam.,3.0,2000,75000,Low,2023-03-14 07:17:51
+11,Index Equity Fund,Investment,Accusantium tempora quae voluptatem cupiditate exercitationem alias.,6.0,3000,150000,Medium,2024-06-27 17:05:55
+12,Real Estate Trust (REIT),Investment,Similique fuga quia sequi maxime.,4.5,5000,200000,Medium-High,2024-07-05 01:15:13
