@@ -1,0 +1,8 @@
+FinancialProduct_ID,Product_Name,Product_Type,Description,Interest_Rate,Minimum_Investment,Maximum_Investment,Risk_Level,Created_At
+1,Hipotecario,Loan,A maxime natus recusandae fugit voluptatibus numquam.,1.5,50000,500000,Baja,2024-11-03 12:50:53
+2,Personal,Loan,Inventore placeat quo quia.,4.2,1000,50000,Media,2020-04-28 22:26:26
+3,Automóvil,Loan,Architecto animi iure vel.,3.8,5000,100000,Baja,2023-05-18 20:39:09
+4,Línea de Crédito,Loan,Sed facere asperiores voluptas rem similique ipsum.,6.0,500,20000,Media,2023-01-31 17:18:21
+5,Fondo Renta Fija,Investment,Commodi ullam quos odit provident reiciendis suscipit.,2.5,1000,50000,Baja,2020-02-15 17:31:57
+6,Fondo Renta Variable,Investment,Facilis magnam esse iure similique laudantium alias.,5.0,5000,100000,Media,2022-04-08 17:25:58
+7,Depósito a Plazo,Investment,Odit ab ratione.,1.2,500,20000,Baja,2022-05-11 12:47:45

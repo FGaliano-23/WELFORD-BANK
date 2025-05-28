@@ -1,0 +1,3 @@
+# Ignore the synthetic transactions and loan_payments files anywhere in the tree
+transactions_welfordbank_en.csv
+loan_payments_welfordbank_en.csv
