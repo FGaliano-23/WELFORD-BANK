@@ -1,0 +1,3 @@
+# Ignore the synthetic transactions file anywhere in the tree
+transactions_welfordbank_en.csv
+
