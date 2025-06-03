@@ -24,7 +24,7 @@ DataEngineer/
 ### Why two data folders?
 
 * **`GenerateData`**: Spanish version, used for local testing.  
-* **`GenerateDataEnglish`**: English version (suffix `_en`), used by DS/ML teams.  
+* **`GenerateDataEnglish`**: English version (suffix `_en`), used by DS/DA teams.  
 Both are generated with the **same seed (`SEED = 15`)** to ensure reproducibility.
 
 ---
@@ -42,7 +42,7 @@ Both are generated with the **same seed (`SEED = 15`)** to ensure reproducibilit
 
 | Metric | Value |
 |--------|-------|
-| Client records | **25,001** |
+| Client records | **25,000** |
 | Transaction records | **1,048,576** |
 | Loan payment records | **1,048,576** |
 | Execution time | **≈ 2 min 37 s** on laptop i7/16 GB RAM |
