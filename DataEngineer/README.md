@@ -6,7 +6,7 @@ Its main goal is to **provide high-quality synthetic data**, well-structured and
 ---
 
 ## 📂 Repository Structure
-
+```
 DataEngineer/
 ├── Database Diagram/
 │ └── Diagrama-ERWelfordBank.png
@@ -19,7 +19,7 @@ DataEngineer/
 ├── SQL/
 │ └── SQLiteWelfordBank.sql 
 └── _DE_Report_DATAGENERATION.pdf
-
+```
 
 ### Why two data folders?
 
