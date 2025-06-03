@@ -3,10 +3,10 @@
 > ℹ️ **Note:** All data included in this repository are **synthetic** and were generated solely for academic and demonstration purposes. They do **not** represent real customer information.
 
 ## 📚 Table of Contents
-1. [📖 Overview](#overview)  
-2. [🗂️ Project Phases](#project-phases)  
-3. [📁 Repository Structure](#repository-structure)  
-4. [🎉 Contributors](#contributors)  
+1. [📖 Overview](#-overview)  
+2. [🗂️ Project Phases](#️-project-phases)  
+3. [📁 Repository Structure](#-repository-structure)  
+4. [🎉 Contributors](#-contributors)  
 
 ---
 
